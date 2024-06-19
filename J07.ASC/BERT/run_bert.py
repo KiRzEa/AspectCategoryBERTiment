@@ -99,6 +99,7 @@ print("Training time (seconds): ", time_training)
 start_time= time.time()
 predictions, labels, metrics = trainer.predict(tokenized_dataset['test'])
 stop_time=time.time()
+predictions = np.argmax(predictions, axis=-1)
 inference_time =stop_time - start_time
 print("Inference time (seconds): ", inference_time)
 #======================================
