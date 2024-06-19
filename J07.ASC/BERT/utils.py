@@ -7,11 +7,11 @@ from category_mapping import *
 from preprocessing import *
 from sklearn.metrics import *
 
-def create_dataset(data_dir, domain):
+def create_dataset(domain):
 
-    path_train = os.path.join(data_dir, f"{domain}_ABSA", "csv", "Train.csv")
-    path_dev = os.path.join(data_dir, f"{domain}_ABSA", "csv", "Dev.csv")
-    path_test = os.path.join(data_dir, f"{domain}_ABSA", "csv", "Test.csv")
+    path_train = os.path.join(os.chdir(os.path.dirname(os.getcwd())), 'dataset', f"{domain}_ABSA", "csv", "Train.csv")
+    path_dev = os.path.join(os.chdir(os.path.dirname(os.getcwd())), 'dataset', f"{domain}_ABSA", "csv", "Dev.csv")
+    path_test = os.path.join(os.chdir(os.path.dirname(os.getcwd())), 'dataset', f"{domain}_ABSA", "csv", "Test.csv")
 
     train = pd.read_csv(path_train)
     dev = pd.read_csv(path_dev)
@@ -52,15 +52,7 @@ def get_max_length(examples, tokenizer):
 def compute_metrics(p):
     predictions, labels = p
     predictions = np.argmax(predictions, axis=-1)
-    print(labels)
-    print(predictions)
-    print(type(labels))
-    print(type(predictions))
-    try:
-        print(labels.shape)
-        print(predictions.shape)
-    except:
-        pass
+
     accuracy_test = round(accuracy_score(labels, predictions)*100,4)
     balanced_accuracy = round(balanced_accuracy_score(labels, predictions)*100,4)
     f1_weighted_test = round(f1_score(labels, predictions, average='weighted')*100,4)
@@ -96,9 +88,17 @@ def evaluation_scores(y_test, y_pred,time_training,inference_time):
 
 def export_score_to_file(scores, model_id, domain):
     text_score = "Model: " + model_id +"\n Domain: " + domain + "\n" + scores + "\n\n"
-    score_output_path = "scores/"+ "scores_" + str(model_id.replace("/", "_")) + ".txt"
+    # Construct the path for the score output file
+    scores_dir = os.path.join(os.path.dirname(os.getcwd()), "scores")
+    score_output_path = os.path.join(scores_dir, "scores_bert.txt")
+    
+    # Ensure the directory exists, create it if it doesn't
+    os.makedirs(scores_dir, exist_ok=True)
+    
+    # Write the score to the file
     with open(score_output_path, 'a') as file:
         file.write(text_score)
+    
     print("Save file done: ", score_output_path)
     
 

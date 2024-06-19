@@ -24,7 +24,6 @@ parser.add_argument("--lr", type=float, default=3e-4)
 parser.add_argument("--num_epochs", type=int, default=20)
 parser.add_argument("--batch_size", type=int, default=8)
 parser.add_argument("--seed", type=int, default=42)
-parser.add_argument("--data_dir", type=str, default='../dataset')
 
 args = parser.parse_args()
 
@@ -38,7 +37,6 @@ seed = args.seed
 #======================================
 print("="*50)
 print("[INFO] Model ID: ", model_id)
-print("[INFO] Data Directory: ", data_dir)
 print("[INFO] Type of Dataset: ", domain)
 print("[INFO] Learning Rate: ", learning_rate)
 print("[INFO] Number of Epochs: ", num_epochs)
@@ -48,9 +46,7 @@ print("="*50)
 #======================================
 set_seed(seed)
 #======================================
-dataset, label2id = create_dataset(data_dir, domain)
-print(dataset)
-print(label2id)
+dataset, label2id = create_dataset(domain)
 #======================================
 model = AutoModelForSequenceClassification.from_pretrained(model_id, num_labels=len(label2id))
 tokenizer = AutoTokenizer.from_pretrained(model_id)
@@ -62,20 +58,16 @@ tokenized_dataset = dataset.map(preprocess_function,
                                 batched=True,
                                 batch_size=1024,
                                 remove_columns=dataset['train'].column_names)
-print(tokenized_dataset)
 #======================================
 training_args = TrainingArguments(
     output_dir="checkpoint",
-    #auto_find_batch_size= True,
     per_device_train_batch_size=batch_size,
-    per_device_eval_batch_size=batch_size*2,
     learning_rate=learning_rate,
     num_train_epochs=num_epochs,
     warmup_ratio=0.1,
     logging_dir="checkpoint/logs",
     logging_strategy="steps",
     logging_steps=len(tokenized_dataset['train']) // batch_size,
-    eval_steps=len(tokenized_dataset['train']) // batch_size,
     save_strategy="no",
 )
 
@@ -86,7 +78,6 @@ trainer = Trainer(
     args=training_args,
     data_collator=collator,
     train_dataset=tokenized_dataset["train"],
-    eval_dataset=tokenized_dataset["dev"],
     compute_metrics=compute_metrics
 )
 #======================================
