@@ -1,0 +1,84 @@
+Model: google/mt5-base
+ Domain: Restaurant
+Accuracy: 72.5371
+Balance Accuracy: 66.0204
+Weighted F1-score: 72.2292
+Macro F1-score: 66.7668
+Micro F1-score: 72.5371
+Training time: 3138.2347650527954
+Inference time: 236.4023425579071
+              precision    recall  f1-score   support
+
+         tạm       0.61      0.59      0.60       691
+          tệ       0.62      0.55      0.58       435
+         tốt       0.80      0.84      0.82      1503
+
+    accuracy                           0.73      2629
+   macro avg       0.68      0.66      0.67      2629
+weighted avg       0.72      0.73      0.72      2629
+
+
+
+Model: google/mt5-base
+ Domain: Hotel
+Accuracy: 85.2259
+Balance Accuracy: 58.0363
+Weighted F1-score: 83.4089
+Macro F1-score: 58.807
+Micro F1-score: 85.2259
+Training time: 6737.933707475662
+Inference time: 301.4724383354187
+              precision    recall  f1-score   support
+
+         tạm       0.43      0.07      0.12       181
+          tệ       0.73      0.73      0.73       623
+         tốt       0.89      0.94      0.91      2472
+
+    accuracy                           0.85      3276
+   macro avg       0.68      0.58      0.59      3276
+weighted avg       0.83      0.85      0.83      3276
+
+
+
+Model: google/mt5-base
+ Domain: Phone
+Accuracy: 76.867
+Balance Accuracy: 57.2766
+Weighted F1-score: 71.8667
+Macro F1-score: 54.1355
+Micro F1-score: 76.867
+Training time: 13934.346459627151
+Inference time: 620.442563533783
+              precision    recall  f1-score   support
+
+         tạm       0.11      0.00      0.00       817
+          tệ       0.77      0.79      0.78      2210
+         tốt       0.77      0.92      0.84      3695
+
+    accuracy                           0.77      6722
+   macro avg       0.55      0.57      0.54      6722
+weighted avg       0.69      0.77      0.72      6722
+
+
+
+Model: google/mt5-base
+ Domain: Education
+Accuracy: 93.0579
+Balance Accuracy: 69.0995
+Weighted F1-score: 93.0082
+Macro F1-score: 69.7203
+Micro F1-score: 93.0579
+Training time: 2397.208237171173
+Inference time: 54.809924840927124
+              precision    recall  f1-score   support
+
+         tạm       0.25      0.20      0.22         5
+          tệ       0.91      0.94      0.92       262
+         tốt       0.95      0.94      0.94       338
+
+    accuracy                           0.93       605
+   macro avg       0.71      0.69      0.70       605
+weighted avg       0.93      0.93      0.93       605
+
+
+

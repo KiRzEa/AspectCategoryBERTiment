@@ -1,0 +1,3 @@
+Em merge data 2 cái lại xong chia train - test theo tỷ lệ 8-2 nhé.
+
+Thứ tự label aspect em xem ở 2 file cho đồng bộ nhé.

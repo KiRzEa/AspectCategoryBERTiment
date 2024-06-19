@@ -1,0 +1,606 @@
+review,y_true,y_pred
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: cần nhiều giờ thực hành hơn nữa vì chủ yếu được học lý thuyết thời gian tiếp xúc thiết bị ít",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần nhiều giờ thực hành hơn nữa vì chủ yếu được học lý thuyết thời gian tiếp xúc thiết bị ít",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: giảng viên nhiệt tình kết hợp truyền đạt nhiều kiến thức trong thực tiễn",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên nhiệt tình kết hợp truyền đạt nhiều kiến thức trong thực tiễn",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cách truyền đạt sự tận tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cách truyền đạt sự tận tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy hay và rất nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy dạy hay và rất nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: môn học nên cập nhật giáo trình mới liên tục tài liệu học tập cũ rất nhiều chỗ sai",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: môn học nên cập nhật giáo trình mới liên tục tài liệu học tập cũ rất nhiều chỗ sai",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: giảng viên nghỉ phải thông báo cho sinh viên trước vì môn học thầy luôn điểm danh nhưng thầy lại không lên lớp thường xuyên bắt sinh viên phải chờ rồi ra về thường xuyên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên nghỉ phải thông báo cho sinh viên trước vì môn học thầy luôn điểm danh nhưng thầy lại không lên lớp thường xuyên bắt sinh viên phải chờ rồi ra về thường xuyên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: thay đổi cách truyền đạt môn thay vì giảng viên có giờ lên lớp giảng bài nhàm chán sinh viên tiếp thu thụ động ý kiến giảng viên chia nhỏ nhóm học tập mỗi buổi sẽ đưa chủ đề của bài hôm đó và giải thích cách làm việc cho thời gian sinh viên làm việc nhóm với sự giám xác của giảng viên sau đó bốc thăm cho từng nhóm lên trình bày sau đó giảng viên nhận xét cho điểm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thay đổi cách truyền đạt môn thay vì giảng viên có giờ lên lớp giảng bài nhàm chán sinh viên tiếp thu thụ động ý kiến giảng viên chia nhỏ nhóm học tập mỗi buổi sẽ đưa chủ đề của bài hôm đó và giải thích cách làm việc cho thời gian sinh viên làm việc nhóm với sự giám xác của giảng viên sau đó bốc thăm cho từng nhóm lên trình bày sau đó giảng viên nhận xét cho điểm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: giảng viên giảng dạy nhiệt tình phương pháp dạy hay chỉ dẫn hiệu quả bài tập làm nhiều",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên giảng dạy nhiệt tình phương pháp dạy hay chỉ dẫn hiệu quả bài tập làm nhiều",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên giảng dạy nhiệt tình phương pháp dạy hay chỉ dẫn hiệu quả bài tập làm nhiều",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy giảng bài dễ hiểu vui tính sẵn sàng giải đáp thắc mắc của sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy giảng bài dễ hiểu vui tính sẵn sàng giải đáp thắc mắc của sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: thầy dạy nhiệt tình mong được học thầy những kỳ sau d",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy dạy nhiệt tình mong được học thầy những kỳ sau d",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng dạy nhiệt tình vui vẻ hài hước tạo cảm giác hứng thú cho sinh viên trong giờ học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng dạy nhiệt tình vui vẻ hài hước tạo cảm giác hứng thú cho sinh viên trong giờ học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô giải nhiều bài tập dạy dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô giải nhiều bài tập dạy dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô dạy nhiệt tình dễ hiểu quan tâm sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô dạy nhiệt tình dễ hiểu quan tâm sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nâng cao kiến thức cho sinh viên rất tốt giảng dạy dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: nâng cao kiến thức cho sinh viên rất tốt giảng dạy dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy hay nhiều kinh nghiệm có phần demo trực tiếp trên visual studio giúp dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: thầy dạy hay nhiều kinh nghiệm có phần demo trực tiếp trên visual studio giúp dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: thầy dạy hay nhiều kinh nghiệm có phần demo trực tiếp trên visual studio giúp dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giáo viên hướng dẫn nhiệt tình vui vẻ dễ tính",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên hướng dẫn nhiệt tình vui vẻ dễ tính",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: nhiệt tình giải đáp thắc mắc của sinh viên chu đáo tận tâm nội dung thực hành chuẩn bị cẩn thận và cần thiết",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình giải đáp thắc mắc của sinh viên chu đáo tận tâm nội dung thực hành chuẩn bị cẩn thận và cần thiết",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô rất nhiệt tình giảng bài khá hay",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô rất nhiệt tình giảng bài khá hay",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nhiệt tình kỹ năng dạy kinh nghiệm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình kỹ năng dạy kinh nghiệm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: cung cấp slide kiến thức truyền dạt tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: cung cấp slide kiến thức truyền dạt tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cung cấp slide kiến thức truyền dạt tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nhiệt tình giúp đỡ sinh viên và tạo sinh viên có nơi để nâng cao kỹ năng lập trình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình giúp đỡ sinh viên và tạo sinh viên có nơi để nâng cao kỹ năng lập trình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô dạy hay nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô dạy hay nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy rất hay giải nhiều bài tập",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy dạy rất hay giải nhiều bài tập",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy cô giáo dạy rất nhiệt tình và vui vẻ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy cô giáo dạy rất nhiệt tình và vui vẻ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên rất tận tâm nhiệt huyết cô có khả năng truyền đặt cao cách giảng dạy lôi cuốn thu hút",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên rất tận tâm nhiệt huyết cô có khả năng truyền đặt cao cách giảng dạy lôi cuốn thu hút",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: phương pháp dạy hay tân tâm nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: phương pháp dạy hay tân tâm nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy rất vui và hiệu quả",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy dạy rất vui và hiệu quả",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thiếu trang bị dụng cụ thực hành cần thiết không đáp ứng đủ thời gian giảng dạy do vắng tiết",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: thiếu trang bị dụng cụ thực hành cần thiết không đáp ứng đủ thời gian giảng dạy do vắng tiết",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: đề nghị giảng viên sử dụng hiệu quả hơn kênh modle để nâng cao chất lượng giảng dạy",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chấm điểm"" trong bình luận sau: giảng viên đảm bảo thời gian lên lớp tốt chấm điểm công bằng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên đảm bảo thời gian lên lớp tốt chấm điểm công bằng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: thầy cho nhiều bài tập",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô rất dễ thương dạy dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô rất dễ thương dạy dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình tạo cách chủ động cho học sinh tiếp cận với môn học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nhiệt tình tạo cách chủ động cho học sinh tiếp cận với môn học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy giảng rất hay dạy rất nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy giảng rất hay dạy rất nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô giảng hay có ví dụ dễ hiểu có làm mẫu bài tập nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô giảng hay có ví dụ dễ hiểu có làm mẫu bài tập nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên gây hứng thú cho sinh viên với bài giảng của mình vui vẻ thân thiện với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên gây hứng thú cho sinh viên với bài giảng của mình vui vẻ thân thiện với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: một số bài thầy giảng còn khó hiểu ít sát thực hành và ít sửa bài tập về nhà",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: một số bài thầy giảng còn khó hiểu ít sát thực hành và ít sửa bài tập về nhà",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: truyện đạt kiến thức dễ hiểu dễ tiếp thu gần gũi nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: truyện đạt kiến thức dễ hiểu dễ tiếp thu gần gũi nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy hay không khí vui vẻ và tận tình giải đáp mọi thắc mắc",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy dạy hay không khí vui vẻ và tận tình giải đáp mọi thắc mắc",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: thầy giải đáp thắc mắc của sinh viên nhiệt tình và đầy đủ kiến thức nhiều và phong phú",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy giải đáp thắc mắc của sinh viên nhiệt tình và đầy đủ kiến thức nhiều và phong phú",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần nâng cấp máy trong phòng máy thực hành vì cấu hình hơi yếu và phòng học không nóng và bụi thì tốt hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: cần nâng cấp máy trong phòng máy thực hành vì cấu hình hơi yếu và phòng học không nóng và bụi thì tốt hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: môn học không mang tính ứng dụng và thực tế kiến thức quá chung chung",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chương trình giảng dạy"" trong bình luận sau: môn học không mang tính ứng dụng và thực tế kiến thức quá chung chung",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên dạy tâm huyết nhiệt tình bài tập cụ thể rõ ràng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: giảng viên dạy tâm huyết nhiệt tình bài tập cụ thể rõ ràng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy tương đối ổn có tính thực tế",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: thầy dạy tương đối ổn có tính thực tế",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng dễ hiểu nhiệt tình trong công tác giảng dạy",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng dễ hiểu nhiệt tình trong công tác giảng dạy",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: mong thầy xen kẽ bài tập vào bài giảng lý thuyết như thế sẽ dễ hiểu bài hơn ạ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên dạy sinh động hiệu quả đảm bảo giờ lên lớp",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên dạy sinh động hiệu quả đảm bảo giờ lên lớp",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: dạy nhiệt tình mở rộng kiến thức cho sinh viên làm bài tập nhiều",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: dạy nhiệt tình mở rộng kiến thức cho sinh viên làm bài tập nhiều",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: dạy nhiệt tình mở rộng kiến thức cho sinh viên làm bài tập nhiều",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy wz gì wz giá tiền dạy rất hay chi tiết nhiệt tình và dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy wz gì wz giá tiền dạy rất hay chi tiết nhiệt tình và dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên luôn tạo điều kiện cho sinh viên luyện nói tiếng anh tại lớp giải thích về bài học ngữ pháp từ mới vào đầu giờ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giáo viên luôn tạo điều kiện cho sinh viên luyện nói tiếng anh tại lớp giải thích về bài học ngữ pháp từ mới vào đầu giờ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: thầy có dạy những kiến thức kinh nghiệm có tính áp dụng lâu dài",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: thầy có dạy những kiến thức kinh nghiệm có tính áp dụng lâu dài",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô dạy rất hay và dễ hiểu đặc biệt rất nhiệt tình trong giảng dạy và quan tâm tới sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô dạy rất hay và dễ hiểu đặc biệt rất nhiệt tình trong giảng dạy và quan tâm tới sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giáo viên dạy tân tâm nhiệt tình dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên dạy tân tâm nhiệt tình dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thân thiện hoà đồng giảng dạy có kỹ lưỡng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thân thiện hoà đồng giảng dạy có kỹ lưỡng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy cho làm các bài tập tại lớp trong khi sinh viên chưa biết gì về vấn đề đó",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: thầy cho làm các bài tập tại lớp trong khi sinh viên chưa biết gì về vấn đề đó",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: giảng viên giảng dạy rất tốt thường xuyên cung cấp thêm nhiều kiến thức",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên giảng dạy rất tốt thường xuyên cung cấp thêm nhiều kiến thức",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy nhiệt tình bài giảng phong phú đa dạng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy nhiệt tình bài giảng phong phú đa dạng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên nhiệt tình tận tâm với công việc slide dễ hiểu hoạt động học tập sôi nổi",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: giảng viên nhiệt tình tận tâm với công việc slide dễ hiểu hoạt động học tập sôi nổi",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên nhiệt tình tận tâm với công việc slide dễ hiểu hoạt động học tập sôi nổi",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô dạy dễ hiểu hỗ trợ tốt cho các bạn",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô dạy dễ hiểu hỗ trợ tốt cho các bạn",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: cần có các thiết bị di động thật để sinh viên thực hành khi cần thiết vì các chương trình mô phỏng trên máy tính là không đầy đủ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần có các thiết bị di động thật để sinh viên thực hành khi cần thiết vì các chương trình mô phỏng trên máy tính là không đầy đủ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: cô giảng rất chán slide tiếng anh dùng nhiều từ chuyên ngành nên nếu không bắt kịp những gì cô giảng thì cũng khó để hiểu được bài giảng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô giảng rất chán slide tiếng anh dùng nhiều từ chuyên ngành nên nếu không bắt kịp những gì cô giảng thì cũng khó để hiểu được bài giảng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô rất vui tính nhiệt tình giảng bài tập chi tiết dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô rất vui tính nhiệt tình giảng bài tập chi tiết dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: cô rất vui tính nhiệt tình giảng bài tập chi tiết dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: chưa tận tâm trong giảng dạy không nghiên cứu kỹ bài giảng trước khi lên lớp",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: chưa tận tâm trong giảng dạy không nghiên cứu kỹ bài giảng trước khi lên lớp",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy dạy thực tế nhiệt tình với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: thầy dạy thực tế nhiệt tình với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: giọng cô nhỏ không nên sắp ở giảng đường vì sẽ rất dễ gây buồn ngủ và không nghe rõ được",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giọng cô nhỏ không nên sắp ở giảng đường vì sẽ rất dễ gây buồn ngủ và không nghe rõ được",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: sử dụng hợp lý thời gian lên lớp giúp đỡ sinh viên nhiều hơn trong quá trình học trên lớp",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: sử dụng hợp lý thời gian lên lớp giúp đỡ sinh viên nhiều hơn trong quá trình học trên lớp",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô nhiệt tình giảng bài kỹ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô nhiệt tình giảng bài kỹ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy vui tính giảng bài dễ hiểu nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy vui tính giảng bài dễ hiểu nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần cải cách lại nội dung các bài thực hành một số kiến nội dung trong bài thực hành đã trở nên lỗi thời",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: cần cải cách lại nội dung các bài thực hành một số kiến nội dung trong bài thực hành đã trở nên lỗi thời",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên nhiệt tình bài giảng thu hút",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên nhiệt tình bài giảng thu hút",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình tạo cách chủ động cho học sinh tiếp cận với môn học và tham gia các chương trình phong trào liên quan để nâng cao kỹ năng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nhiệt tình tạo cách chủ động cho học sinh tiếp cận với môn học và tham gia các chương trình phong trào liên quan để nâng cao kỹ năng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nếu có thì chỉ hướng dẫn bằng lý thuyết mà không làm bài tập mẫu cho sinh viên",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: nếu có thì chỉ hướng dẫn bằng lý thuyết mà không làm bài tập mẫu cho sinh viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: em không muốn nói gì nhưng mong thầy xem lại cách đánh giá sinh viên để công bằng hơn cái sinh viên không biết không phải chỉ ở cúp tiết mà còn ở cách giảng dạy truyền đạt ở giảng viên ví dụ như cô wz gì wz giá tiền rất dễ hiểu tận tâm",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: em không muốn nói gì nhưng mong thầy xem lại cách đánh giá sinh viên để công bằng hơn cái sinh viên không biết không phải chỉ ở cúp tiết mà còn ở cách giảng dạy truyền đạt ở giảng viên ví dụ như cô wz gì wz giá tiền rất dễ hiểu tận tâm",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chương trình giảng dạy"" trong bình luận sau: môn học toàn kiến thức mới mẻ giảng viên nên giảng chi tiết hơn",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: môn học toàn kiến thức mới mẻ giảng viên nên giảng chi tiết hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô quan tâm đến sinh viên và truyền đạt kiến thức rất bổ ích",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: cô quan tâm đến sinh viên và truyền đạt kiến thức rất bổ ích",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: dạy nhiệt tình theo sát môn học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: dạy nhiệt tình theo sát môn học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: hay kể các chuyện liên quan đến thực tiễn giúp bọn em tiếp thu nhanh hơn và cũng có hứng thú trong quá trình học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: hay kể các chuyện liên quan đến thực tiễn giúp bọn em tiếp thu nhanh hơn và cũng có hứng thú trong quá trình học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô thân thiện với học sinh truyền cảm hứng động lực tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô thân thiện với học sinh truyền cảm hứng động lực tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần đặt mục tiêu rõ ràng nhất từ môn học và môn học cần được học ở sinh viên năm nhất vì lúc vào sinh viên còn rất ngỡ ngàng với các khoa và các môn học sẽ học vì thế nên học trước để tạo tâm lý cũng như sinh viên phải biết mình cần làm gì tạo nên sự chủ động trong học tập và làm việc",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: em muốn khi học môn này nên cho đồ án để áp dụng nhiều hơn vì em thấy môn này rất hay",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chấm điểm"" trong bình luận sau: không đánh giá đúng khả năng của học sinh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên trình bày dễ hiểu theo sát bài học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên tận tâm và nhiệt tình giúp đỡ học sinh trong quá trình học tập",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy cũng ít quan tâm đến ý kiến của học sinh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: đề nghị nhà trường sửa hoặc bổ sung mới để việc thực hành có hiệu quả",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: giảng viên linh động cung cấp tài liệu cho sinh viên trong và ngoài hệ thống modle",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên giảng dạy hay",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: cập nhật slide mới tài liệu slide cũ có nhiều điểm khác slide mới không cập nhât đúng thứ tự ví dụ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần áp đặt việc kiểm tra bài cũ và bài mới trên giờ học nhiều hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chấm điểm"" trong bình luận sau: đánh giá tính chuyên cần",tạm,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: thời gian tăng từ tiết lên đến tiết khiến sinh viên mệt mỏi và thiếu tập trung ở cuối giờ học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: điều này xảy ra ở mọi tiết học",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: bài tập nhiều có nhiều câu hỏi hay",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình vui tính hoà đồng dễ gần gũi",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần nhiều hoạt động ngoại khoá",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: mức độ quan tâm học sinh rất cao",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy chỉ giảng những kiến thức có trong slide bài giảng trong khi nội dung môn học có bài tập nhưng sinh viên không được hướng dẫn kỹ về cách làm bài",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: góp ý nhắc nhở nhiệt tình lưu ý sai sót cho sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: tăng cường thêm thiết bị để môn học được hiệu quả",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: hướng dẫn giải bài tập chi tiết",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy dạy rất hăng say nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: tận tình với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: điều này khiến giảng viên khó xử",tạm,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: kính mong các giảng viên mạch số upload tài liệu trước giờ học ít nhất ngày để các bạn sinh viên có thể nghiên cứu trước ở nhà",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chấm điểm"" trong bình luận sau: chấm đồ án chấm không công bằng không thể lấy lý do không thích tính cách của sinh viên mà không cho sinh viên đậu mặc dù đồ án hoàn thành tốt",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: giảng viên ra đồ án cho sinh viên về làm để mở rộng kiến thức",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy rất nhiệt tình và vui vẻ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: bảo học sinh không chịu học là không đúng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: các thầy có học vị cao ắt sẽ có nhiều kinh nghiệm quý báu hơn",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: một số bài tập không rõ không đi sâu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng bài hoà đồng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy tận tâm luôn tạo động lực để học sinh làm bài nhiệt tình giảng dạy",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy hiểu tâm lý sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: giữa các thầy cô nên thống nhất tránh để sinh viên lao đao",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: có nhiều hoạt động học tập sinh động giúp sinh viên thoải mái khi học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy có tạo điều kiện cho chúng em thuyết trình về đồ án môn học nhưng khi chúng em thuyết trình về nội dung giới thiệu về hệ thống nhúng và vai trò cũng như các ngành ứng dụng hệ thống nhúng",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy không dạy thiếu micro nên nhiều lúc em phải đi mượn cho bằng được",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thực trạng chung là giảng viên dạy thực hành ở trường chưa thật sự tận tâm giúp sinh viên nâng cao kỹ năng thực hành của môn học đó",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: xinh",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: các dụng cụ thực hành không được cung cấp đầy đủ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình dễ chịu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy tốt lập nhóm thuyết trình tạo không khí học tập tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên dạy kỹ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: không biết thầy nào dạy chính thức thầy nào dạy cũng nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy ít dạy cài đặt nên khó trong việc áp dụng cài đặt",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: đề nghị nhập chung cả lớp lại học thực hành vì số lượng sinh viên quá ít",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng hay trọng tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy giỏi chu đáo",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô làm việc rất có trách nhiệm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: chúc thầy vui và sống khoẻ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô vui tính nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy ôn rất kỹ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên giải thích một số ví dụ mẫu chưa rõ ràng",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên giao tiếp bình thường",tạm,tạm
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: không ý kiến phương pháp của thấy rất hài lòng ạ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: hầu như không có vấn đề gì không hài lòng",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: để học sinh của mình không có gì sau kết thúc môn phải chăng đó không là thất bại",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: hoặc có thể cho cùng một giảng viên phụ trách lý thuyết và thực hành cho mỗi lớp",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chương trình giảng dạy"" trong bình luận sau: thực sự phải học toán suốt năm cấp và chưa kể năm giá tiền và lên đại học phải học toán thì là cảm xúc khó tả vừa ngán và vừa nản",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng bài rất hay",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: ngôn ngữ thực hành nên trang bị trước cho sinh viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy nghỉ không báo trước quá nhiều số buổi lên lớp giá tiền",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: he s rất funy",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cách truyền đạt kiến thức vẫn chưa tốt",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: phòng thực hành có quá nhiều máy bị hỏng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy có vẻ hơi có chịu",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: bài tập lớn mà thầy wz gì wz giá tiền đưa ra cũng khá là chung chung không yêu cầu rõ ràng cụ thể",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: giảng viên cần chú ý quan sát sinh viên hơn và hỏi xem sinh viên nào chưa hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy rất vui tính",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cách giảng dạy còn hơi khó hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: thực hành em không có học với giảng viên này da có thể nhầm lẫn gì chăng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: thầy ít hướng dẫn các bài tập cách vận dụng kiến thức cần thiết vào bài tập thực tế",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: giảng quá nhanh với phần bài tập không nắm bắt được các dạng bài làm nó như thế nào",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cách truyền đạt qua lời nói khó hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: rất hoà đồng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: điều này gây mất công bằng và không đánh giá được đúng năng lực học tập của các bạn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: nên tập trung cho sinh viên vào một phương pháp một công cụ nào đó để làm bài tập tránh tình trạng sinh viên không biết đường nào để làm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thường xuyên đặt câu hỏi cho sinh viên trả lời",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: sau khi thi kỳ thi cuối kỳ vừa rồi",tạm,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: buổi chiều nên học lúc giá tiền",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô giảng dạy hay dễ tiếp thu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô rất tận tâm và nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: công dụng nó là gì",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô rất tận tình giúp đỡ chúng em trong học tập",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy giảng chậm lại từ dễ tới khó để học sinh tiếp thu tốt hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên tận tình nhiệt tình trong việc cung cấp tài liệu và bài tập qua facebok",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: học bù cũng không hỏi ý kiến sinh viên có trùng với môn khác không học bù lại còn điểm danh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cô cần cải thiện khả năng truyền đạt trên lớp để sinh viên có thêm hứng thú trong học tập",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: dạy chán",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy nội dung ít liên quan tới bài học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: rất hài lòng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: chưa nhiều kiếm thức thêm nâng cao ngoài cơ bản của môn học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chương trình giảng dạy"" trong bình luận sau: môn học còn khá nặng nề không ứng dụng thực tiễn cũng như không phục vụ cho chuyên nghành theo em nghĩ môn giải tích thật sự không cần thiết lắm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: vui vẻ hài hước",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: môn học liên hệ thực tế liên kết với đồ án hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy nói ngoài lề hơi nhiều",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên rất gần gũi với học sinh",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy wz gì wz giá tiền dạy tận tâm lắm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng hơi chậm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chương trình giảng dạy"" trong bình luận sau: thực hành luôn đi trước lý thuyết",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy rất tận tình hướng dẫn cụ thể",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên thân thiện với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nói hơi nhiều",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: bài giảng không thu hút được học sinh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy hay khó chịu không tận tâm nhiệt tình",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cách dạy của thầy như cưỡi ngựa xem hoa giá tiền phút giảng xong một bài",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: không đảm bảo giờ giảng dạy",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nội dung bài giảng hay phù hợp và truyền đạt nội dung bài kết hợp ví dụ tuyệt vời",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: thầy hay chảy mồ hôi nhìn có cảm giác nóng nực dễ sợ luôn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy không thông báo rõ cho sinh viên về nội dung làm chiếm bao nhiêu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy giảng dạy rất có nguyên tắc",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: có nhiều bài tập về nhà",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên chưa có khả năng truyền đạt kinh nghiệm đứng lớp chưa có",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chương trình giảng dạy"" trong bình luận sau: nội dụng môn học không liên quan đến đề thi",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: nên nêu rõ mục đích yêu cầu của môn học khi bắt đầu dạy để sinh viên nắm được mục đích yêu cầu môn học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: quá theo sách",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: đôi chỗ vẫn khó hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô giảng với giọng quá nhỏ chả nghe gì cả",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: mong thầy dạy đúng số tiết mà môn đó quy định",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: giảng viên nhiệt tình hướng dẫn học giải các bài tập khó",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cách truyền đạt của giảng viên chưa tốt",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: vui vẻ hoà đồng",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: tuy nhiên truyền đạt hơi khó hiểu cho sinh viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: chưa có nhiều trao đổi tương tác với sinh viên trên các diễn đàn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: lan man và hơi khó hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: chưa ôn tập được nhiều kiến thức cơ bản của anh văn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng hơi nhanh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giải chi tiết các bài tập tiếp thu bài rất nhanh trong giờ giảng của thầy",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: lý do vào tuần cuối kỳ sinh viên phải làm đồ án rất nhiều môn phải ôn thi",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: học sinh yêu cầu giảng lại không giảng lại và bảo về tự xem lại",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: đào tạo thêm về cơ chế giảng dạy",tệ,tạm
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên nhiệt tình và xinh",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy nhiệt huyết tận tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: môn này em học cải thiện nhưng mà nhà trường huỷ môn em xong đăng tự ý đổi lớp lại em không biết em không đi học nên chắc chắn em rớt",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô giáo dạy tiếng anh nói tiếng anh rất nhỏ và khó nghe nếu nói bằng micro hơn nữa cách dạy của cô khiến cho sinh viên không thể nào không buồn ngủ vì nó rất rất nhàm chán",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: máy chiếu trong phòng học quá mờ khiến sinh viên không nhìn rõ nội dung khi trình chiếu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: cơ sở vật chất chưa tốt để nghe tiếng anh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: lớp học của cô wz gì wz giá tiền có đặc điểm là trình độ tiếng anh quá chênh lệch giữa cách sinh viên trong cùng một lớp",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cho học sinh thuyết trình chủ động",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: luôn trả lời những thắc mắc của sinh viên dạy tận tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: đặc biệt cần thông tin cụ thể về những dụng cụ nào nhà trường phải có trách nhiệm cấp cho sinh viên và giảng viên ví dụ như có trường hợp bút lông viết bảng xài qua vài học kỳ đã khô hết mực bút mờ không viết được nhưng giảng viên và sinh viên không biết đến đâu để đổi hay thay bút mới nên dẫn đến có giảng viên đành nói chay không ghi chép được gì hoặc phải tự đi mua bút viết bảng mới để viết",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cho học sinh tích cực thuyết trình bằng tiếng anh",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên rất nhiệt tình với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy tận tình và thân thiện",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: dạy ít sinh viên chủ yếu nghe sinh viên báo cáo",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: hơi nghiêm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần phân bố lại thời gian lên lớp đừng kéo dài thời gian khi đã hết buổi học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: ngoài việc cho bài tập ra thầy nên giải đáp cho các học sinh các bài tập khó nữa",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: cho làm bài tập vận dụng kiến thức thường xuyên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy hiền và nhiệt tình với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy năng nổ nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: bồi dưỡng chuyên môn giáo viên phần phát âm từ vựng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: như vậy thì quá bất công",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: không hoàn toàn hài lòng với cách giảng dạy của thầy",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên thường hay đến lớp muộn giá tiền phút",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô giáo nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy nên nhiệt tình hướng dẫn hơn",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: thêm nhiều bài tập hay gặp khi thi học kỳ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: bài tập làm thêm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: cho cái nhìn về môi trường bên ngoài doanh nghiệp",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: phòng thực hành khoa wz gì wz giá tiền máy hư tùm lum không hiểu sao phòng thực hành mấy khoa khác như wz gì wz giá tiền wz gì wz giá tiền đầu tư mới với tốt hơn nhiều",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: thời lượng thi ít khiến nhiều câu bỏ trống",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: gây khó khăn cho việc làm bài thi",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: cách thầy dạy môn này trong kỳ trước em không được biết chỉ được nghe từ các bạnem đã cảm thấy vui khi được học với thầy",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chấm điểm"" trong bình luận sau: rất thích cách xét công tâm của cô",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: khi sinh viên nhờ thầy giải một bài tập để làm mẫu nhưng không nhận được bất kỳ bài giải nào từ thầy",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: em nghĩ nên thi thực hành thay vì lý thuyết cuối kỳ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: đi học hay không đi học cũng như nhau",tệ,tạm
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy giúp sinh viên luyện tập rất nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: bài thi phải sát hơn và thêm phần thi nói để kiểm tra và xếp loại đầu vào",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: cô wz gì wz giá tiền thật tuyệt vời",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: không dạy vào trọng tâm chương trình sử dụng giáo trình mà thường đi lan man",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thời gian vào lớp đúng giờ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: phương pháp dạy của thầy chưa hiệu quả",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: gần gũi tận tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: cung cấp các slide tài liệu liên quan quá ít",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: môn học cần đi vào thực tiễn để sinh viên có thể ứng dụng sau này",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy ít khi giảng bài thường để sinh viên tự xem tài liệu là chủ yếu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy wz gì wz giá tiền dạy rất hay rất dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: sự thân thiện và tận tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: môn học cần có chút thay đổi về kiểm tra phần thực hành cần được quan tâm và cần được hỗ trợ hoặc học sau khi đã học được lý thuyết để có nền tảng và cơ sở để thầy cô hướng dẫn sinh viên tốt hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: tận tình vui tính",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: đó là sự nhiệt tình của giảng viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: kiến thức của giáo viên rất tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thực hành đa dạng giúp sinh viên hiểu rõ vấn đề",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy thân thiện lắng nghe sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô nhiệt tình và tâm huyết trong việc dạy học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên giảng dạy nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: đủ những gì cần học không dài dòng",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần giảng kỹ hơn cho sinh viên hiểu bài và có kết hợp với nhiều ví dụ minh hoạ thực tế",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: hơi nhanh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô dạy hay nhưng hơi nhanh",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: các ví dụ đều có liên hệ đến bài tập",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: được rèn luyện kỹ năng giao tiếp tiếng anh cũng như cách tự học tốt ở nhà",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: chia nhỏ bài tập về nhà để cộng điểm cho sinh viên vừa giúp sinh viên làm và hiểu nhuần nhuyễn và tránh tình trạng rớt đồng loạt",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cách giảng bài chi tiết vừa đủ và dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: một số buổi dạy của giảng viên không hiệu quả về giờ giấc",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nhiều lúc thầy nói nhanh quá nghe không kiệp",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên rất nhiệt tình giảng dạy rất sẵn lòng giải đáp thắc mắc của sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: hài lòng hoàn toàn",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần phải có liên hệ thực tiễn trong quá trình giảng dạy để tạo sự ham thích cho người học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: cảm ơn",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: hình thức thực hành dường như không có tác dụng với sinh viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy hay và dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: thầy cho bài tập luyện tập rất nhiều thích hợp cho việc ôn tập lại kiến thức",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy không để ý xem sinh viên có nhận thức được hay không chỉ dạy cho hết bài rôi về",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô vui vẻ hay quan tâm sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: giảng viên nên nhiệt tình hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: phòng thực hành tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: đầy đủ kiến thức",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy dễ hiểu sinh động",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng bài dễ tiếp thu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: tốt giỏi chu đáo",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: rất nhiệt tình với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên tận tâm nhiệt tình hỗ trợ giải đáp thắc mắc môn học cho sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên rất hoà đồng vui vẻ nhiệt tình trong giảng dạy",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên chưa tạo được không khí vui vẻ trong lớp học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiều khi dạy quá thời gian",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên biết cách truyền đạt giảng rất hay và dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: em nghĩ chỉ nên bắt buộc các bài tập có dạng căn bản còn bài tập tương tự thì chỉ khuyến khích sinh viên làm thêm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy bằng nhiệt tình tận tuỵ với sinh viên trong việc hướng dẫn đồ án",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy quá bảo thủ thầy luôn cho rằng ý kiến của thầy là đúng nhất ngoài ra mọi ý kiến khác đều sai",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: em mong cô cũng như toàn thể các giảng viên hãy xem xét lại việc điểm danh vì đại học dù sao cũng là tự học chứ không phải như là phổ thông nữa",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: kiến thức giảng dạy môn tiếng anh hầu như không giúp ích nhiều cho sinh viên trong việc tìm hiểu các tài liệu chuyên ngành",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giáo viên giảng hay dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: đề thi thực hành cần nêu yêu cầu cụ thể rõ ràng hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình dễ gần truyền đạt tận tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: thoải mái về thời gian",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: phòng thực hành nên nâng cấp máy tính",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cô nên tăng tốc độ giải bài hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: bàn ghế còn bụi",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy rất dễ gần",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần tăng thời gian học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: nên cải tiến hệ thống chấm điểm online up hạn sử dụng bài tập cho tất cả học sinh làm rồi có bảng xếp hạng như bên codefun của miền bắc",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: dạy đúng trọng tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy wz gì wz giá tiền nói chuyện cọc lốc không hiểu vấn đề gì hỏi thầy thì thầy lại như quát vào mặt tạt nước lạnh nói chuyện xưng hô mày tao có lúc thì xưng tớ cậu nhưng lời nói đầy ẩn ý hay nói móc và tìm cách bắt bẻ sinh viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: việc phân chia nhóm không hợp lý dẫn tới chất lượng học tập không tốt",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng dạy nhiệt tình quan tâm tới sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: kiến thức thầy dạy rất hay và bổ ích",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: kiến thức đơn giản",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần tuân thủ đúng và đủ giờ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: giáo viên giảng dạy sử dụng nhiều ví dụ thực tiễn",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cung cấp và thường xuyên cập nhật thêm tài liệu về môn học nhiều hơn sử dụng giờ lên lớp hiệu quả hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô vui vẻ giúp lớp cùng nhau hoạt động sôi nổi",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: hạn chế cho ra ví dụ kiểu như giá tiền rồi cho bài tập kiểu như giá tiền",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô dạy khá nhanh nên khó theo kịp bài giảng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: hướng dẫn thực hành chưa tận tình thời gian còn ít",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy rất tận tâm và nhiệt tình chỉ dạy sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: ida pro giá tiền bit hoàn toàn có thể phân tích các file thực thi giá tiền bit nhưng các thanh ghi phức tạp hơn nhiều thay cho ida pro giá tiền bit không phân tích được cái file thực thi giá tiền bit",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: có thể phần thực hành sinh viên sẽ có hai sự lựa chọn tự xây dựng một chương trình phân loại văn bản như vậy chương trình sẽ có thể không xử lý được những đoạn văn bản phức tạp hoặc lớn thế nên cách chấm điểm sẽ có phần nương tay đối với phần áp dụng này",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên tâm huyết nhiệt tình hiểu tâm lý học sinh",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: thầy trẻ trâu",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: nên tăng cường học nghe nói",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: lòng nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy rất tận tâm giảng dạy",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: tốt hết",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình và tâm huyết",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: đề thi quá khó so với bài tập trên lớp",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: truyền đạt nhiều kiến thức cần thiết",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: giáo viên giỏi",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: đầy đủ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: bàn giáo viên rất dơ quạt máy thì chạy như không có chạy mở chỉ thêm tốn điện không có mát",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: em và các bạn thuộc các lớp phần mềm chất lượng cao hầu như không ai muốn đăng ký môn học game cơ bản do giảng viên này đảm nhận nhưng kỳ vừa rồi nhà trường chỉ cung cấp cho chúng em duy nhất một sự lựa chọn là giảng viên này nên chúng em không còn cách nào khác",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần thêm nhiều tài liệu cho môn học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: không thực hành được buổi nào",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cho làm nhiều bài test",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: làm bài tập nhiều mặc dù không hiểu lắm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: chưa chuẩn bị kỹ bài giảng để có thể trả lời các thắc mắc của sinh viên trên lớp",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: ví dụ đề tài của em là các nguyên lý cơ bản bao gồm nguyên tắc của bohm giá tiền",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên dạy rất tận tâm nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cung cấp thêm trang thiết bị phục vụ nhu cầu môn học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: chỉ thông báo trên lớp sẽ khó tránh sai sót",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng dạy rất chi tiết dễ hiểu và dễ tiếp thu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô viết ở góc bảng gần chổ bụt giảng khiến nhiều khi khó quan sát được ạ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cách truyền đạt của giáo viên chưa có sức hút đối với sinh viên nhiều cho lắm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: hướng dẫn chi tiết về cách thực hành",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: có một số buổi không đi dạy",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: luôn gần gũi tham khảo ý kiến sinh viên và thống nhất cũng sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên hoà đồng vui vẻ chỉ giảng tận tình sinh viên ham học hỏi",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viện nhiệt tình tận tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: chia sẻ",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: cung cấp kiến thức trọng tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: nói mở rộng nhiều vấn đề về môn học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: slide chuẩn bị chưa tốt",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy wz gì wz giá tiền dạy rất nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thời gian học tập luôn thiếu sót giảng viên chưa nhiệt tình giảng dạy",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy bằng slide bài giảng hơi nhanh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên dạy rất nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: các phần tiếng việt trong slide được ghi một cách khó hiểu và không rõ ràng nhiều chỗ trong slide bài giảng có vẻ như được dịch bằng gogle dịch từ năm giá tiền",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy quá chuyên nghiệp",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: em mong phần thực hành được hỗ trợ nhiều hơn nữa từ phía giảng viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cách giảng dạy tạo không khí sôi nổi trong lớp",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy vui quá đi hi hi",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: giáo viên quá tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: đôi khi học sinh nào bận muốn về trước thầy vẫn cho",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: mong thầy giảng giải và cho bài tập từng bước nhiều hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: mong rằng những môn có thực hành giáo viên nên mở chất box và forum cho sinh viên dễ trao đổi với nhau cũng như nhanh chóng nhận được lời giải đáp thắc mắc từ giáo viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chương trình giảng dạy"" trong bình luận sau: chất lượng môn học phù hợp",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên dễ gần tận tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: đề nghị nên cho bài tập về nhà",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy rất tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chương trình giảng dạy"" trong bình luận sau: môn học với kiến thức không quá nặng",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: thưa không có ạ",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình truyền đạt kiến thức cho sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy quá tệ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên lên lớp muộn nghe điện thoại trong lúc lên lớp thường xuyên nghỉ dạy không thông báo",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng quá khó hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên nhiệt tình quan tâm đến học sinh",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: mong cô cung cấp nhiều tài liệu có hướng dẫn giải cụ thể các dạng toán để đáp ứng nhu cầu tự học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên nhiệt tình gần gũi với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: nên phát hành giáo trình chuẩn cho môn học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên nhiệt tình hỗ trợ sinh viên tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: không tập trung vào giảng kiến thức cho học sinh hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên hay cho nghỉ học mà không báo trước",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô giáo nhiệt tình vui tính cố gắng truyền đạt cho sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: sự nhiệt tình và tận tình của giáo viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: thêm nhiều kiến thức ngoài mới",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thường xuyên mời các bạn lên giải bài tập và giảng giải lại",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: cuối cùng em xin cảm ơn vì thầy cô đã đọc đến hết",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: rất thích phong cách dạy của thầy x",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy giảng dạy tận tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: đối với người lần đầu tìm hiểu directx với những yêu cầu đặt ra là rất khó",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy cho chép nhiều",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: áp dụng bài học vào thực tế",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: em nghĩ nhà trường nên kiểm tra kỹ trình độ giảng viên trước khi bố trí để họ dạy một môn học nào đó",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy rất hiền và nhiệt tình trong từng tiết học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: khả năng truyền đạt kiến thức sinh viên khó tiếp thu hết",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô dạy rất hay cuốn hút",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: mong thầy cho thêm bài tập về nhà và share slide",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: thầy quá tuyệt vời",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: giảng viên nên giảng sâu vào chương trình học tránh lan man dài dòng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: nên đơn giản hoá với các phần không quan trọng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: cần cung cấp nhiều thông tin bài học hơn",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên ghi chép quá nhiều tốn thời gian",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: ngôn ngữ thực hành các bài lab của từng bộ môn nên được trang bị trước cho sinh viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: môn thực hành cần có bài tập về nhà tài liệu cập nhật rõ ràng hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: tận tâm quan tâm sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: tiết học sinh động",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: không rõ thu được gì từ môn học này",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: giảng viên không sử dụng modle làm kênh thông tin liên lạc với học sinh không up slide tài liệu bài giảng lên gây khó khăn cho việc nắm bắt thông tin về yêu cầu môn học và khó khăn trong học tập",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy hơi nhanh đa số sinh viên không theo kịp",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: đôi khi bị lố giờ giảng",tệ,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: nhiều tiết tự học do sinh viên tự thuyết trình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy rất tận tình với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""chấm điểm"" trong bình luận sau: chấm điểm thiếu công bằng thực hành tại máy trường mà chấm bài cài đặt phần mềm trên laptop",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: tôi và các bạn khác cùng bước vào khi đó thầy yêu cầu đồng loạt mở hết code lên chạy demo để thầy chấm và không may thay thầy đã tìm ra bạn có source code y chang nhau thầy bắt đầu tra hỏi lý thuyết về đề tài x đối với bạn đó",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy cho chép nhiều quá",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy truyền đạt tốt giảng bài dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: hài lòng tất cả",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: biết ứng dụng kiến thức đã học vào thực tiễn tạo hứng thú cho sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kinh nghiệm"" trong bình luận sau: biết ứng dụng kiến thức đã học vào thực tiễn tạo hứng thú cho sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: tăng thời gian thực hành",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: đa phần là tự học là chính có thể là do chương trình đại học quốc gia",tệ,tạm
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: slide còn khó hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: quan tâm nhiều đến sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô giảng dạy rất nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: theo em thì không thể trách thầy wz gì wz giá tiền mà lỗi là do da đưa lịch học thực hành quá chậm trễ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: tăng cường ôn tập để kiểm tra như cho sinh viên làm thử các đề kiểm tra",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: mỗi lúc hết tiết sớm thầy thường giảng cho các sinh viên những kiến thức môn bên ngoài như lập trình giúp sinh viên giải đáp một số thắc mắc hoặc một số bài tập nâng cao",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: chỉ cho sinh viên biết nhiều điều cốt lõi trong môn học mà ít ai biết",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""thiết bị"" trong bình luận sau: phòng máy có quá nhiều máy không sử dụng được",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: giảng viên nên đi dạy thường xuyên hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: em rất thích những tiết sửa bài tập của cô",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thời gian các buổi học thông báo nghỉ chưa chính xác",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: em cảm ơn thầy à còn cái thầy vui tính ghê cười đùa nói chuyện thân thiện",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên dạy dễ hiểu dễ tiếp thu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: nên để sinh viên tự tìm hiểu lý thuyết trước ở nhà đến trường giảng viên chỉ cần giải thích các vấn đề không rõ sau đó đi thẳng vào giải các bài tập",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: thầy cần giao bài tập mỗi buổi lên lớp",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: lý do sinh viên mới bắt đầu tiếp cận môn học chưa hiểu rõ các từ chuyên nghành nên không hiểu nội dung bài giảng dù giảng viên giải thích bằng tiếng việt",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nội dung lan man khó áp dụng vào thực tế",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô rất rất nhiệt tình và tận tâm sẵn sàng giải thích các vấn đề thắc mắc cho sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: đôi khi dạy hơi chán không thu hút được chú ý của học sinh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: nhiều kiến thức hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: mong nhà trường tạo điều kiện cho sinh viên chúng em được nghiên cứu nhiều hơn là phải làm theo",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô dạy rất mơ hồ không hứng thú không nhiệt tình giúp đỡ sinh viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô dạy rất mơ hồ không hứng thú không nhiệt tình giúp đỡ sinh viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô dạy rất nhiệt tình giảng rất hay",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô dạy rất nhiệt tình giảng rất hay",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: không sử dung tiếng anh trong lúc giảng bài lý thuyết để rồi cả slide bằng tiếng anh cũng không hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: không sử dung tiếng anh trong lúc giảng bài lý thuyết để rồi cả slide bằng tiếng anh cũng không hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: môn học cung cấp nhiều kiến thức cần thiết đặc biệt là cô dạy rất tận tâm và hướng đến sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: môn học cung cấp nhiều kiến thức cần thiết đặc biệt là cô dạy rất tận tâm và hướng đến sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên tận tình dạy hay",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên tận tình dạy hay",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nhiệt tình khả năng truyền đạt tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình khả năng truyền đạt tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: đi trễ dạy chậm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: đi trễ dạy chậm",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: bài tập tại lớp còn hơi ít hướng dẫn hơi nhanh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: bài tập tại lớp còn hơi ít hướng dẫn hơi nhanh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: dạy nhiệt tình dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: dạy nhiệt tình dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: dạy đầy đủ chương trình tích cực kiểm tra học sinh",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: dạy đầy đủ chương trình tích cực kiểm tra học sinh",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: giọng nói hơi khó nghe ngoài ra không có gì không hài lòng",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giọng nói hơi khó nghe ngoài ra không có gì không hài lòng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: truyền đạt tốt nhiệt tình thân thiện với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: truyền đạt tốt nhiệt tình thân thiện với sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy dạy rất tận tâm kiến thức chuyên môn cực tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy dạy rất tận tâm kiến thức chuyên môn cực tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: thầy dạy rất tận tâm kiến thức chuyên môn cực tốt",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo án ngắn gọn dễ hiểu dạy học nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giáo án ngắn gọn dễ hiểu dạy học nhiệt tình",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: dạy dễ hiểu nhiệt tình vui tính",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: dạy dễ hiểu nhiệt tình vui tính",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: nội dung giảng dạy còn mơ hồ",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: nhìn chung tạo được cảm hứng rất nhiều cho sinh viên học tập hiệu quả",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: dạy hơi nhanh sinh viên khó theo kịp",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: rất hài lòng thầy dạy khá hay cũng rất vui trong lúc học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cần phương pháp học môn này",tạm,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: chia sẻ nhiều câu chuyện thú vị",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: phần bài làm trên modle có nhiều sai sót gây ảnh hưởng đến điểm chuyên cần",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: nghỉ học thường xuyên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô nhiệt tình chu đáo",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: còn nhanh",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: thêm tiết sửa bài tập nhiều hơn",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: kiến thức truyền tải nhiều khó hiểu",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: em tiến bộ rất nhanh",tốt,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: không nên đề hình thức thực hành là số gây nhàm chán cho sinh viên sau những ngày học lý thuyết thì sinh viên nên được thực hành trên phòng lab dưới sự hướng dẫn của giảng viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""vấn đề chung"" trong bình luận sau: thân ái",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: sử dụng hiệu quả giờ học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên chưa bám sát sinh viên",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""đề xuất"" trong bình luận sau: nên cắt giảm bớt chương trình học môn lý a vì theo em thấy có một số phần không áp dụng vào trong thực tế ngày nay của it chỉ có một số phần là có áp dụng vì thế nên giảm thiểu chương trình học",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: chấm bài không nói lên tính khách quan",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: nhiệt tình vui tính thân thiện",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""tài liệu giảng dạy"" trong bình luận sau: thầy không có up tài liệu cũng như bài giảng lên modle",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên truyền đạt khó hiểu có lúc nói nhanh có lúc nói chậm giọng khó nghe hay bị ngọng",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô giảng hơi nhanh và khó nghe",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên rất nhiệt tình và tận tâm",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy trang bị cho những kỹ năng chuyên sâu và hướng mở của môn học",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giảng viên nhiệt tình và giúp sinh viên hiểu thêm nhiều kiến thức",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giảng viên nhiệt tình và giúp sinh viên hiểu thêm nhiều kiến thức",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giáo viên thân thiện và tích cực đảm bảo nội dung học tập",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên thân thiện và tích cực đảm bảo nội dung học tập",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy dạy nhiệt tình cung cấp một số kiến thức bổ ích cho sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kiến thức"" trong bình luận sau: thầy dạy nhiệt tình cung cấp một số kiến thức bổ ích cho sinh viên",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: thầy thường h mới bắt đầu dạy lời giảng còn khó hiểu do không cho nhiều ví dụ cụ thể cũng như demo",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: thầy thường h mới bắt đầu dạy lời giảng còn khó hiểu do không cho nhiều ví dụ cụ thể cũng như demo",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""bài tập"" trong bình luận sau: không có hoạt động nhóm bài tập ít",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: không có hoạt động nhóm bài tập ít",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: cô dạy nhiệt tình kỹ và dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: cô dạy nhiệt tình kỹ và dễ hiểu",tốt,tốt
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""hành vi"" trong bình luận sau: giáo viên nói hơi nhỏ rất khó nghe và hiểu được bài",tệ,tệ
+"Hãy phân loại trạng thái cảm xúc của khía cạnh: ""kỹ năng giảng dạy"" trong bình luận sau: giáo viên nói hơi nhỏ rất khó nghe và hiểu được bài",tệ,tệ

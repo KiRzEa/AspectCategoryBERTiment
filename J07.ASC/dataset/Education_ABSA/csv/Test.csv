@@ -1,0 +1,606 @@
+review,category,sentiment
+"cần nhiều giờ thực hành hơn nữa vì chủ yếu được học lý thuyết , thời gian tiếp xúc thiết bị ít .",General,negative
+"cần nhiều giờ thực hành hơn nữa vì chủ yếu được học lý thuyết , thời gian tiếp xúc thiết bị ít .",Suggestion,negative
+"giảng viên nhiệt tình , kết hợp truyền đạt nhiều kiến thức trong thực tiễn .",Experience,positive
+"giảng viên nhiệt tình , kết hợp truyền đạt nhiều kiến thức trong thực tiễn .",Behavior,positive
+"cách truyền đạt , sự tận tâm .",Teaching Skill,positive
+"cách truyền đạt , sự tận tâm .",Behavior,positive
+thầy dạy hay và rất nhiệt tình .,Teaching Skill,positive
+thầy dạy hay và rất nhiệt tình .,Behavior,positive
+"môn học nên cập nhật giáo trình mới liên tục , tài liệu học tập cũ , rất nhiều chỗ sai .",Lecture Material,negative
+"môn học nên cập nhật giáo trình mới liên tục , tài liệu học tập cũ , rất nhiều chỗ sai .",Suggestion,negative
+"giảng viên nghỉ phải thông báo cho sinh viên trước , vì môn học thầy luôn điểm danh nhưng thầy lại không lên lớp thường xuyên , bắt sinh viên phải chờ rồi ra về thường xuyên .",Suggestion,negative
+"giảng viên nghỉ phải thông báo cho sinh viên trước , vì môn học thầy luôn điểm danh nhưng thầy lại không lên lớp thường xuyên , bắt sinh viên phải chờ rồi ra về thường xuyên .",Behavior,negative
+"thay đổi cách truyền đạt môn , thay vì giảng viên có giờ lên lớp giảng bài nhàm chán , sinh viên tiếp thu thụ động , ý kiến : giảng viên chia nhỏ nhóm học tập , mỗi buổi sẽ đưa chủ đề của bài hôm đó và giải thích cách làm việc , cho thời gian sinh viên làm việc nhóm với sự giám xác của giảng viên , sau đó bốc thăm cho từng nhóm lên trình bày , sau đó giảng viên nhận xét cho điểm .",Suggestion,negative
+"thay đổi cách truyền đạt môn , thay vì giảng viên có giờ lên lớp giảng bài nhàm chán , sinh viên tiếp thu thụ động , ý kiến : giảng viên chia nhỏ nhóm học tập , mỗi buổi sẽ đưa chủ đề của bài hôm đó và giải thích cách làm việc , cho thời gian sinh viên làm việc nhóm với sự giám xác của giảng viên , sau đó bốc thăm cho từng nhóm lên trình bày , sau đó giảng viên nhận xét cho điểm .",Teaching Skill,negative
+"giảng viên giảng dạy nhiệt tình , phương pháp dạy hay , chỉ dẫn hiệu quả , bài tập làm nhiều .",Exercise,positive
+"giảng viên giảng dạy nhiệt tình , phương pháp dạy hay , chỉ dẫn hiệu quả , bài tập làm nhiều .",Behavior,positive
+"giảng viên giảng dạy nhiệt tình , phương pháp dạy hay , chỉ dẫn hiệu quả , bài tập làm nhiều .",Teaching Skill,positive
+"thầy giảng bài dễ hiểu , vui tính , sẵn sàng giải đáp thắc mắc của sinh viên .",Teaching Skill,positive
+"thầy giảng bài dễ hiểu , vui tính , sẵn sàng giải đáp thắc mắc của sinh viên .",Behavior,positive
+"thầy dạy nhiệt tình , mong được học thầy những kỳ sau :d .",General,positive
+"thầy dạy nhiệt tình , mong được học thầy những kỳ sau :d .",Behavior,positive
+"giảng dạy nhiệt tình , vui vẻ , hài hước tạo cảm giác hứng thú cho sinh viên trong giờ học .",Behavior,positive
+"giảng dạy nhiệt tình , vui vẻ , hài hước tạo cảm giác hứng thú cho sinh viên trong giờ học .",Teaching Skill,positive
+"cô giải nhiều bài tập , dạy dễ hiểu .",Teaching Skill,positive
+"cô giải nhiều bài tập , dạy dễ hiểu .",Behavior,positive
+"cô dạy nhiệt tình , dễ hiểu , quan tâm sinh viên .",Behavior,positive
+"cô dạy nhiệt tình , dễ hiểu , quan tâm sinh viên .",Teaching Skill,positive
+"nâng cao kiến thức cho sinh viên rất tốt , giảng dạy dễ hiểu .",Teaching Skill,positive
+"nâng cao kiến thức cho sinh viên rất tốt , giảng dạy dễ hiểu .",Knowledge,positive
+"thầy dạy hay , nhiều kinh nghiệm , có phần demo trực tiếp trên visual studio giúp dễ hiểu .",Teaching Skill,positive
+"thầy dạy hay , nhiều kinh nghiệm , có phần demo trực tiếp trên visual studio giúp dễ hiểu .",Experience,positive
+"thầy dạy hay , nhiều kinh nghiệm , có phần demo trực tiếp trên visual studio giúp dễ hiểu .",Lecture Material,positive
+"giáo viên hướng dẫn nhiệt tình , vui vẻ , dễ tính .",Teaching Skill,positive
+"giáo viên hướng dẫn nhiệt tình , vui vẻ , dễ tính .",Behavior,positive
+"nhiệt tình giải đáp thắc mắc của sinh viên , chu đáo , tận tâm , nội dung thực hành chuẩn bị cẩn thận và cần thiết .",Lecture Material,positive
+"nhiệt tình giải đáp thắc mắc của sinh viên , chu đáo , tận tâm , nội dung thực hành chuẩn bị cẩn thận và cần thiết .",Behavior,positive
+"cô rất nhiệt tình , giảng bài khá hay .",Teaching Skill,positive
+"cô rất nhiệt tình , giảng bài khá hay .",Behavior,positive
+"nhiệt tình , kỹ năng dạy kinh nghiệm .",Teaching Skill,positive
+"nhiệt tình , kỹ năng dạy kinh nghiệm .",Behavior,positive
+"cung cấp slide , kiến thức , truyền dạt tốt .",Lecture Material,positive
+"cung cấp slide , kiến thức , truyền dạt tốt .",Knowledge,positive
+"cung cấp slide , kiến thức , truyền dạt tốt .",Teaching Skill,positive
+nhiệt tình giúp đỡ sinh viên và tạo sinh viên có nơi để nâng cao kỹ năng lập trình .,Teaching Skill,positive
+nhiệt tình giúp đỡ sinh viên và tạo sinh viên có nơi để nâng cao kỹ năng lập trình .,Behavior,positive
+cô dạy hay nhiệt tình .,Teaching Skill,positive
+cô dạy hay nhiệt tình .,Behavior,positive
+thầy dạy rất hay giải nhiều bài tập .,Teaching Skill,positive
+thầy dạy rất hay giải nhiều bài tập .,Behavior,positive
+thầy cô giáo dạy rất nhiệt tình và vui vẻ .,Behavior,positive
+thầy cô giáo dạy rất nhiệt tình và vui vẻ .,Teaching Skill,positive
+"giảng viên rất tận tâm , nhiệt huyết , cô có khả năng truyền đặt cao , cách giảng dạy lôi cuốn , thu hút .",Behavior,positive
+"giảng viên rất tận tâm , nhiệt huyết , cô có khả năng truyền đặt cao , cách giảng dạy lôi cuốn , thu hút .",Teaching Skill,positive
+"phương pháp dạy hay , tân tâm , nhiệt tình .",Behavior,positive
+"phương pháp dạy hay , tân tâm , nhiệt tình .",Teaching Skill,positive
+thầy dạy rất vui và hiệu quả !,Teaching Skill,positive
+thầy dạy rất vui và hiệu quả !,Behavior,positive
+"thiếu trang bị , dụng cụ thực hành cần thiết , không đáp ứng đủ thời gian giảng dạy do vắng tiết .",Behavior,negative
+"thiếu trang bị , dụng cụ thực hành cần thiết , không đáp ứng đủ thời gian giảng dạy do vắng tiết .",Equipment,negative
+đề nghị giảng viên sử dụng hiệu quả hơn kênh moodle để nâng cao chất lượng giảng dạy .,Suggestion,negative
+"giảng viên đảm bảo thời gian lên lớp tốt , chấm điểm công bằng .",Grading,positive
+"giảng viên đảm bảo thời gian lên lớp tốt , chấm điểm công bằng .",Behavior,positive
+thầy cho nhiều bài tập .,Exercise,positive
+"cô rất dễ thương , dạy dễ hiểu .",Behavior,positive
+"cô rất dễ thương , dạy dễ hiểu .",Teaching Skill,positive
+"nhiệt tình , tạo cách chủ động cho học sinh tiếp cận với môn học .",Behavior,positive
+"nhiệt tình , tạo cách chủ động cho học sinh tiếp cận với môn học .",Teaching Skill,positive
+"thầy giảng rất hay , dạy rất nhiệt tình .",Behavior,positive
+"thầy giảng rất hay , dạy rất nhiệt tình .",Teaching Skill,positive
+"cô giảng hay , có ví dụ dễ hiểu , có làm mẫu bài tập , nhiệt tình .",Behavior,positive
+"cô giảng hay , có ví dụ dễ hiểu , có làm mẫu bài tập , nhiệt tình .",Teaching Skill,positive
+"giảng viên gây hứng thú cho sinh viên với bài giảng của mình , vui vẻ , thân thiện với sinh viên .",Teaching Skill,positive
+"giảng viên gây hứng thú cho sinh viên với bài giảng của mình , vui vẻ , thân thiện với sinh viên .",Behavior,positive
+"một số bài thầy giảng còn khó hiểu , ít sát thực hành và ít sửa bài tập về nhà .",Teaching Skill,negative
+"một số bài thầy giảng còn khó hiểu , ít sát thực hành và ít sửa bài tập về nhà .",Exercise,negative
+"truyện đạt kiến thức dễ hiểu dễ tiếp thu , gần gũi , nhiệt tình .",Teaching Skill,positive
+"truyện đạt kiến thức dễ hiểu dễ tiếp thu , gần gũi , nhiệt tình .",Behavior,positive
+"thầy dạy hay , không khí vui vẻ và tận tình giải đáp mọi thắc mắc .",Teaching Skill,positive
+"thầy dạy hay , không khí vui vẻ và tận tình giải đáp mọi thắc mắc .",Behavior,positive
+"thầy giải đáp thắc mắc của sinh viên nhiệt tình và đầy đủ , kiến thức nhiều và phong phú .",Knowledge,positive
+"thầy giải đáp thắc mắc của sinh viên nhiệt tình và đầy đủ , kiến thức nhiều và phong phú .",Behavior,positive
+cần nâng cấp máy trong phòng máy thực hành vì cấu hình hơi yếu và phòng học không nóng và bụi thì tốt hơn .,Suggestion,negative
+cần nâng cấp máy trong phòng máy thực hành vì cấu hình hơi yếu và phòng học không nóng và bụi thì tốt hơn .,Equipment,negative
+"môn học không mang tính ứng dụng và thực tế , kiến thức quá chung chung .",Knowledge,negative
+"môn học không mang tính ứng dụng và thực tế , kiến thức quá chung chung .",Curriculum,negative
+"giảng viên dạy tâm huyết , nhiệt tình , bài tập cụ thể rõ ràng .",Behavior,positive
+"giảng viên dạy tâm huyết , nhiệt tình , bài tập cụ thể rõ ràng .",Exercise,positive
+"thầy dạy tương đối ổn , có tính thực tế .",Teaching Skill,positive
+"thầy dạy tương đối ổn , có tính thực tế .",Experience,positive
+"giảng dễ hiểu , nhiệt tình trong công tác giảng dạy .",Teaching Skill,positive
+"giảng dễ hiểu , nhiệt tình trong công tác giảng dạy .",Behavior,positive
+"mong thầy xen kẽ bài tập vào bài giảng lý thuyết , như thế sẽ dễ hiểu bài hơn ạ .",Suggestion,negative
+"giảng viên dạy sinh động , hiệu quả , đảm bảo giờ lên lớp .",Teaching Skill,positive
+"giảng viên dạy sinh động , hiệu quả , đảm bảo giờ lên lớp .",Behavior,positive
+"dạy nhiệt tình , mở rộng kiến thức cho sinh viên , làm bài tập nhiều .",Knowledge,positive
+"dạy nhiệt tình , mở rộng kiến thức cho sinh viên , làm bài tập nhiều .",Exercise,positive
+"dạy nhiệt tình , mở rộng kiến thức cho sinh viên , làm bài tập nhiều .",Behavior,positive
+"thầy wzjwz137 dạy rất hay , chi tiết , nhiệt tình và dễ hiểu .",Teaching Skill,positive
+"thầy wzjwz137 dạy rất hay , chi tiết , nhiệt tình và dễ hiểu .",Behavior,positive
+"giáo viên luôn tạo điều kiện cho sinh viên luyện nói tiếng anh tại lớp , giải thích về bài học , ngữ pháp , từ mới vào đầu giờ .",Behavior,positive
+"giáo viên luôn tạo điều kiện cho sinh viên luyện nói tiếng anh tại lớp , giải thích về bài học , ngữ pháp , từ mới vào đầu giờ .",Teaching Skill,positive
+"thầy có dạy những kiến thức , kinh nghiệm có tính áp dụng lâu dài .",Knowledge,positive
+"thầy có dạy những kiến thức , kinh nghiệm có tính áp dụng lâu dài .",Experience,positive
+"cô dạy rất hay và dễ hiểu , đặc biệt rất nhiệt tình trong giảng dạy và quan tâm tới sinh viên .",Teaching Skill,positive
+"cô dạy rất hay và dễ hiểu , đặc biệt rất nhiệt tình trong giảng dạy và quan tâm tới sinh viên .",Behavior,positive
+"giáo viên dạy tân tâm , nhiệt tình , dễ hiểu .",Teaching Skill,positive
+"giáo viên dạy tân tâm , nhiệt tình , dễ hiểu .",Behavior,positive
+"thân thiện , hòa đồng , giảng dạy có kỹ lưỡng .",Teaching Skill,positive
+"thân thiện , hòa đồng , giảng dạy có kỹ lưỡng .",Behavior,positive
+thầy cho làm các bài tập tại lớp trong khi sinh viên chưa biết gì về vấn đề đó .,Behavior,negative
+thầy cho làm các bài tập tại lớp trong khi sinh viên chưa biết gì về vấn đề đó .,Exercise,negative
+"giảng viên giảng dạy rất tốt , thường xuyên cung cấp thêm nhiều kiến thức .",Knowledge,positive
+"giảng viên giảng dạy rất tốt , thường xuyên cung cấp thêm nhiều kiến thức .",Teaching Skill,positive
+"thầy nhiệt tình , bài giảng phong phú đa dạng .",Teaching Skill,positive
+"thầy nhiệt tình , bài giảng phong phú đa dạng .",Behavior,positive
+"giảng viên nhiệt tình , tận tâm với công việc , slide dễ hiểu , hoạt động học tập sôi nổi .",Teaching Skill,positive
+"giảng viên nhiệt tình , tận tâm với công việc , slide dễ hiểu , hoạt động học tập sôi nổi .",Lecture Material,positive
+"giảng viên nhiệt tình , tận tâm với công việc , slide dễ hiểu , hoạt động học tập sôi nổi .",Behavior,positive
+"cô dạy dễ hiểu , hỗ trợ tốt cho các bạn .",Teaching Skill,positive
+"cô dạy dễ hiểu , hỗ trợ tốt cho các bạn .",Behavior,positive
+"cần có các thiết bị di động thật để sinh viên thực hành khi cần thiết , vì các chương trình mô phỏng trên máy tính là không đầy đủ .",Equipment,negative
+"cần có các thiết bị di động thật để sinh viên thực hành khi cần thiết , vì các chương trình mô phỏng trên máy tính là không đầy đủ .",Suggestion,negative
+"cô giảng rất chán slide tiếng anh dùng nhiều từ chuyên ngành , nên nếu không bắt kịp những gì cô giảng thì cũng khó để hiểu được bài giảng .",Lecture Material,negative
+"cô giảng rất chán slide tiếng anh dùng nhiều từ chuyên ngành , nên nếu không bắt kịp những gì cô giảng thì cũng khó để hiểu được bài giảng .",Teaching Skill,negative
+"cô rất vui tính , nhiệt tình , giảng bài tập chi tiết , dễ hiểu .",Behavior,positive
+"cô rất vui tính , nhiệt tình , giảng bài tập chi tiết , dễ hiểu .",Teaching Skill,positive
+"cô rất vui tính , nhiệt tình , giảng bài tập chi tiết , dễ hiểu .",Exercise,positive
+"chưa tận tâm trong giảng dạy , không nghiên cứu kỹ bài giảng trước khi lên lớp .",Teaching Skill,negative
+"chưa tận tâm trong giảng dạy , không nghiên cứu kỹ bài giảng trước khi lên lớp .",Behavior,negative
+"thầy dạy thực tế , nhiệt tình với sinh viên .",Behavior,positive
+"thầy dạy thực tế , nhiệt tình với sinh viên .",Experience,positive
+"giọng cô nhỏ , không nên sắp ở giảng đường vì sẽ rất dễ gây buồn ngủ và không nghe rõ được .",Suggestion,negative
+"giọng cô nhỏ , không nên sắp ở giảng đường vì sẽ rất dễ gây buồn ngủ và không nghe rõ được .",Behavior,negative
+"sử dụng hợp lý thời gian lên lớp , giúp đỡ sinh viên nhiều hơn trong quá trình học trên lớp .",Behavior,negative
+"sử dụng hợp lý thời gian lên lớp , giúp đỡ sinh viên nhiều hơn trong quá trình học trên lớp .",Teaching Skill,negative
+"cô nhiệt tình , giảng bài kỹ .",Teaching Skill,positive
+"cô nhiệt tình , giảng bài kỹ .",Behavior,positive
+"thầy vui tính , giảng bài dễ hiểu , nhiệt tình .",Teaching Skill,positive
+"thầy vui tính , giảng bài dễ hiểu , nhiệt tình .",Behavior,positive
+"cần cải cách lại nội dung các bài thực hành , một số kiến nội dung trong bài thực hành đã trở nên lỗi thời .",Suggestion,negative
+"cần cải cách lại nội dung các bài thực hành , một số kiến nội dung trong bài thực hành đã trở nên lỗi thời .",Exercise,negative
+"giảng viên nhiệt tình , bài giảng thu hút .",Teaching Skill,positive
+"giảng viên nhiệt tình , bài giảng thu hút .",Behavior,positive
+"nhiệt tình , tạo cách chủ động cho học sinh tiếp cận với môn học và tham gia các chương trình phong trào liên quan để nâng cao kỹ năng .",Behavior,positive
+"nhiệt tình , tạo cách chủ động cho học sinh tiếp cận với môn học và tham gia các chương trình phong trào liên quan để nâng cao kỹ năng .",Teaching Skill,positive
+nếu có thì chỉ hướng dẫn bằng lý thuyết mà không làm bài tập mẫu cho sinh viên .,Teaching Skill,negative
+nếu có thì chỉ hướng dẫn bằng lý thuyết mà không làm bài tập mẫu cho sinh viên .,Exercise,negative
+"em không muốn nói gì nhưng mong thầy xem lại cách đánh giá sinh viên để công bằng hơn , cái sinh viên không biết không phải chỉ ở cúp tiết mà còn ở cách giảng dạy , truyền đạt ở giảng viên , ví dụ như cô wzjwz324 , rất dễ hiểu , tận tâm .",Suggestion,negative
+"em không muốn nói gì nhưng mong thầy xem lại cách đánh giá sinh viên để công bằng hơn , cái sinh viên không biết không phải chỉ ở cúp tiết mà còn ở cách giảng dạy , truyền đạt ở giảng viên , ví dụ như cô wzjwz324 , rất dễ hiểu , tận tâm .",Teaching Skill,negative
+"môn học toàn kiến thức mới mẻ , giảng viên nên giảng chi tiết hơn .",Curriculum,positive
+"môn học toàn kiến thức mới mẻ , giảng viên nên giảng chi tiết hơn .",Suggestion,negative
+cô quan tâm đến sinh viên và truyền đạt kiến thức rất bổ ích .,Behavior,positive
+cô quan tâm đến sinh viên và truyền đạt kiến thức rất bổ ích .,Knowledge,positive
+"dạy nhiệt tình , theo sát môn học .",Behavior,positive
+"dạy nhiệt tình , theo sát môn học .",Teaching Skill,positive
+hay kể các chuyện liên quan đến thực tiễn giúp bọn em tiếp thu nhanh hơn và cũng có hứng thú trong quá trình học .,Experience,positive
+hay kể các chuyện liên quan đến thực tiễn giúp bọn em tiếp thu nhanh hơn và cũng có hứng thú trong quá trình học .,Teaching Skill,positive
+"cô thân thiện với học sinh , truyền cảm hứng , động lực tốt .",Teaching Skill,positive
+"cô thân thiện với học sinh , truyền cảm hứng , động lực tốt .",Behavior,positive
+"cần đặt mục tiêu rõ ràng nhất từ môn học và môn học cần được học ở sinh viên năm nhất , vì lúc vào sinh viên còn rất ngỡ ngàng với các khoa và các môn học sẽ học vì thế nên học trước để tạo tâm lý , cũng như sinh viên phải biết mình cần làm gì , tạo nên sự chủ động trong học tập và làm việc .",Suggestion,negative
+em muốn khi học môn này nên cho đồ án để áp dụng nhiều hơn vì em thấy môn này rất hay .,Suggestion,negative
+không đánh giá đúng khả năng của học sinh .,Grading,negative
+"giảng viên trình bày dễ hiểu , theo sát bài học .",Teaching Skill,positive
+giáo viên tận tâm và nhiệt tình giúp đỡ học sinh trong quá trình học tập .,Behavior,positive
+thầy cũng ít quan tâm đến ý kiến của học sinh .,Behavior,negative
+đề nghị nhà trường sửa hoặc bổ sung mới để việc thực hành có hiệu quả .,Suggestion,negative
+giảng viên linh động cung cấp tài liệu cho sinh viên trong và ngoài hệ thống moodle .,Lecture Material,positive
+giảng viên giảng dạy hay .,Teaching Skill,positive
+"cập nhật slide mới , tài liệu slide cũ có nhiều điểm khác slide mới không cập nhât đúng thứ tự , ví dụ .",Lecture Material,negative
+cần áp đặt việc kiểm tra bài cũ và bài mới trên giờ học nhiều hơn .,Suggestion,negative
+đánh giá tính chuyên cần .,Grading,neutral
+thời gian tăng từ 4 tiết lên đến 5 tiết khiến sinh viên mệt mỏi và thiếu tập trung ở cuối giờ học .,General,negative
+điều này xảy ra ở mọi tiết học .,General,negative
+"bài tập nhiều , có nhiều câu hỏi hay .",Exercise,positive
+"nhiệt tình , vui tính , hòa đồng , dễ gần gũi .",Behavior,positive
+cần nhiều hoạt động ngoại khóa .,Suggestion,negative
+mức độ quan tâm học sinh rất cao .,Behavior,positive
+"thầy chỉ giảng những kiến thức có trong slide bài giảng , trong khi nội dung môn học có bài tập nhưng sinh viên không được hướng dẫn kỹ về cách làm bài .",Teaching Skill,negative
+"góp ý , nhắc nhở nhiệt tình , lưu ý sai sót cho sinh viên .",Behavior,positive
+tăng cường thêm thiết bị để môn học được hiệu quả .,Suggestion,negative
+hướng dẫn giải bài tập chi tiết .,Exercise,positive
+"thầy dạy rất hăng say , nhiệt tình .",Behavior,positive
+tận tình với sinh viên .,Behavior,positive
+điều này khiến giảng viên khó xử .,General,neutral
+kính mong các giảng viên mạch số upload tài liệu trước giờ học ít nhất 1 ngày để các bạn sinh viên có thể nghiên cứu trước ở nhà .,Suggestion,negative
+"chấm đồ án : chấm không công bằng , không thể lấy lý do không thích tính cách của sinh viên mà không cho sinh viên đậu , mặc dù đồ án hoàn thành tốt .",Grading,negative
+giảng viên ra đồ án cho sinh viên về làm để mở rộng kiến thức .,Exercise,positive
+thầy rất nhiệt tình và vui vẻ .,Behavior,positive
+bảo học sinh không chịu học là không đúng .,General,negative
+các thầy có học vị cao ắt sẽ có nhiều kinh nghiệm quý báu hơn .,Experience,positive
+"một số bài tập không rõ , không đi sâu .",Exercise,negative
+"giảng bài , hòa đồng .",Behavior,positive
+"thầy tận tâm , luôn tạo động lực để học sinh làm bài , nhiệt tình giảng dạy .",Behavior,positive
+thầy hiểu tâm lý sinh viên .,Behavior,positive
+"giữa các thầy cô nên thống nhất , tránh để sinh viên lao đao .",Suggestion,negative
+có nhiều hoạt động học tập sinh động giúp sinh viên thoải mái khi học .,Teaching Skill,positive
+"thầy có tạo điều kiện cho chúng em thuyết trình về đồ án môn học , nhưng khi chúng em thuyết trình về nội dung : "" giới thiệu về hệ thống nhúng và vai trò cũng như các ngành ứng dụng hệ thống nhúng "" .",Behavior,positive
+thầy không dạy thiếu micro nên nhiều lúc em phải đi mượn cho bằng được !,Behavior,negative
+thực trạng chung là giảng viên dạy thực hành ở trường chưa thật sự tận tâm giúp sinh viên nâng cao kỹ năng thực hành của môn học đó .,Behavior,negative
+xinh .,General,positive
+các dụng cụ thực hành không được cung cấp đầy đủ .,Equipment,negative
+"nhiệt tình , dễ chịu .",Behavior,positive
+"thầy dạy tốt , lập nhóm thuyết trình tạo không khí học tập tốt .",Teaching Skill,positive
+giảng viên dạy kỹ .,Teaching Skill,positive
+"không biết thầy nào dạy chính thức , thầy nào dạy cũng nhiệt tình .",Behavior,positive
+thầy ít dạy cài đặt nên khó trong việc áp dụng cài đặt .,Teaching Skill,negative
+đề nghị nhập chung cả 2 lớp lại học thực hành vì số lượng sinh viên quá ít .,Suggestion,negative
+"giảng hay , trọng tâm .",Teaching Skill,positive
+thầy dạy giỏi chu đáo .,Teaching Skill,positive
+cô làm việc rất có trách nhiệm .,Behavior,positive
+chúc thầy vui và sống khỏe .,General,positive
+"cô vui tính , nhiệt tình .",Behavior,positive
+thầy ôn rất kỹ .,Teaching Skill,positive
+giảng viên giải thích một số ví dụ mẫu chưa rõ ràng .,Teaching Skill,negative
+giáo viên giao tiếp bình thường .,Behavior,neutral
+"không ý kiến , phương pháp của thấy rất hài lòng ạ .",Teaching Skill,positive
+hầu như không có vấn đề gì không hài lòng .,General,positive
+để học sinh của mình không có gì sau kết thúc môn phải chăng đó không là thất bại !,General,negative
+hoặc có thể cho cùng một giảng viên phụ trách lý thuyết và thực hành cho mỗi lớp .,Suggestion,negative
+"thực sự phải học toán suốt 3 năm cấp 3 và chưa kể năm 12 , và lên đại học phải học toán thì là 1 cảm xúc khó tả , vừa ngán và vừa nản .",Curriculum,negative
+giảng bài rất hay .,Teaching Skill,positive
+ngôn ngữ thực hành nên trang bị trước cho sinh viên .,Suggestion,negative
+"thầy nghỉ không báo trước quá nhiều , số buổi lên lớp 50% .",Behavior,negative
+he's very funny .,Behavior,positive
+cách truyền đạt kiến thức vẫn chưa tốt .,Teaching Skill,negative
+phòng thực hành có quá nhiều máy bị hỏng .,Equipment,negative
+thầy có vẻ hơi có chịu .,Behavior,negative
+"bài tập lớn mà thầy wzjwz74 đưa ra cũng khá là chung chung , không yêu cầu rõ ràng , cụ thể .",Exercise,negative
+giảng viên cần chú ý quan sát sinh viên hơn và hỏi xem sinh viên nào chưa hiểu .,Suggestion,negative
+thầy rất vui tính .,Behavior,positive
+cách giảng dạy còn hơi khó hiểu .,Teaching Skill,negative
+"thực hành em không có học với giảng viên này , da có thể nhầm lẫn gì chăng .",General,negative
+"thầy ít hướng dẫn các bài tập , cách vận dụng kiến thức cần thiết vào bài tập thực tế .",Exercise,negative
+"giảng quá nhanh với phần bài tập , không nắm bắt được các dạng bài làm nó như thế nào .",Exercise,negative
+cách truyền đạt qua lời nói khó hiểu .,Teaching Skill,negative
+rất hòa đồng .,Behavior,positive
+điều này gây mất công bằng và không đánh giá được đúng năng lực học tập của các bạn .,Behavior,negative
+"nên tập trung cho sinh viên vào một phương pháp , một công cụ nào đó để làm bài tập , tránh tình trạng sinh viên không biết đường nào để làm .",Suggestion,negative
+thường xuyên đặt câu hỏi cho sinh viên trả lời .,Teaching Skill,positive
+sau khi thi kỳ thi cuối kỳ vừa rồi .,General,neutral
+buổi chiều nên học lúc 13h30 .,Suggestion,negative
+"cô giảng dạy hay , dễ tiếp thu .",Teaching Skill,positive
+cô rất tận tâm và nhiệt tình .,Behavior,positive
+công dụng nó là gì ?,General,negative
+cô rất tận tình giúp đỡ chúng em trong học tập .,Behavior,positive
+"thầy giảng chậm lại , từ dễ tới khó để học sinh tiếp thu tốt hơn .",Teaching Skill,negative
+"giáo viên tận tình , nhiệt tình trong việc cung cấp tài liệu và bài tập qua facebook .",Behavior,positive
+"học bù cũng không hỏi ý kiến sinh viên có trùng với môn khác không , học bù lại còn điểm danh .",Behavior,negative
+cô cần cải thiện khả năng truyền đạt trên lớp để sinh viên có thêm hứng thú trong học tập .,Suggestion,negative
+dạy chán .,Teaching Skill,negative
+thầy dạy nội dung ít liên quan tới bài học .,Teaching Skill,negative
+rất hài lòng !,General,positive
+"chưa nhiều kiếm thức thêm , nâng cao ngoài cơ bản của môn học .",Knowledge,negative
+"môn học còn khá nặng nề , không ứng dụng thực tiễn cũng như không phục vụ cho chuyên nghành , theo em nghĩ , môn giải tích thật sự không cần thiết lắm .",Curriculum,negative
+vui vẻ hài hước .,Behavior,positive
+"môn học liên hệ thực tế , liên kết với đồ án hơn .",Suggestion,negative
+thầy nói ngoài lề hơi nhiều .,Teaching Skill,negative
+giáo viên rất gần gũi với học sinh .,Behavior,positive
+thầy wzjwz263 dạy tận tâm lắm .,Behavior,positive
+giảng hơi chậm .,Teaching Skill,negative
+thực hành luôn đi trước lý thuyết .,Curriculum,negative
+"thầy rất tận tình , hướng dẫn cụ thể .",Behavior,positive
+giảng viên thân thiện với sinh viên .,Behavior,positive
+nói hơi nhiều .,Behavior,negative
+bài giảng không thu hút được học sinh .,Teaching Skill,negative
+"thầy hay khó chịu , không tận tâm , nhiệt tình .",Behavior,negative
+"cách dạy của thầy như cưỡi ngựa xem hoa , 15 phút giảng xong một bài .",Teaching Skill,negative
+không đảm bảo giờ giảng dạy .,Behavior,negative
+"nội dung bài giảng hay , phù hợp và truyền đạt nội dung bài kết hợp ví dụ tuyệt vời !",Teaching Skill,positive
+thầy hay chảy mồ hôi nhìn có cảm giác nóng nực dễ sợ luôn .,General,negative
+thầy không thông báo rõ cho sinh viên về nội dung làm chiếm bao nhiêu .,Behavior,negative
+thầy giảng dạy rất có nguyên tắc .,Teaching Skill,positive
+có nhiều bài tập về nhà .,Exercise,positive
+"giảng viên chưa có khả năng truyền đạt , kinh nghiệm đứng lớp chưa có !",Teaching Skill,negative
+nội dụng môn học không liên quan đến đề thi .,Curriculum,negative
+"nên nêu rõ mục đích , yêu cầu của môn học khi bắt đầu dạy , để sinh viên nắm được mục đích yêu cầu môn học .",Suggestion,negative
+quá theo sách .,Teaching Skill,negative
+đôi chỗ vẫn khó hiểu .,Teaching Skill,negative
+cô giảng với giọng quá nhỏ chả nghe gì cả .,Teaching Skill,negative
+mong thầy dạy đúng số tiết mà môn đó quy định .,Suggestion,negative
+"giảng viên nhiệt tình hướng dẫn học , giải các bài tập khó .",Exercise,positive
+cách truyền đạt của giảng viên chưa tốt .,Teaching Skill,negative
+vui vẻ hòa đồng .,Behavior,positive
+tuy nhiên truyền đạt hơi khó hiểu cho sinh viên .,Teaching Skill,negative
+"chưa có nhiều trao đổi , tương tác với sinh viên trên các diễn đàn .",Behavior,negative
+lan man và hơi khó hiểu .,Teaching Skill,negative
+chưa ôn tập được nhiều kiến thức cơ bản của anh văn 1 .,Teaching Skill,negative
+giảng hơi nhanh .,Teaching Skill,negative
+"giải chi tiết các bài tập , tiếp thu bài rất nhanh trong giờ giảng của thầy .",Teaching Skill,positive
+"lý do : vào 2 tuần cuối kỳ , sinh viên phải làm đồ án rất nhiều môn , phải ôn thi .",General,negative
+học sinh yêu cầu giảng lại không giảng lại và bảo về tự xem lại .,Behavior,negative
+đào tạo thêm về cơ chế giảng dạy .,General,negative
+giảng viên nhiệt tình ( và xinh ) .,Behavior,positive
+thầy nhiệt huyết tận tâm .,Behavior,positive
+"môn này em học cải thiện nhưng mà nhà trường hủy môn em xong đăng tự ý đổi lớp lại , em không biết em không đi học nên chắc chắn em rớt .",General,negative
+cô giáo dạy tiếng anh nói tiếng anh rất nhỏ và khó nghe nếu nói bằng micro hơn nữa cách dạy của cô khiến cho sinh viên không thể nào không buồn ngủ vì nó rất rất nhàm chán .,Teaching Skill,negative
+máy chiếu trong phòng học quá mờ khiến sinh viên không nhìn rõ nội dung khi trình chiếu !,Equipment,negative
+cơ sở vật chất chưa tốt để nghe tiếng anh .,Equipment,negative
+lớp học của cô wzjwz25 có đặc điểm là trình độ tiếng anh quá chênh lệch giữa cách sinh viên trong cùng một lớp .,General,negative
+"cho học sinh thuyết trình , chủ động .",Teaching Skill,positive
+"luôn trả lời những thắc mắc của sinh viên , dạy tận tình .",Behavior,positive
+"đặc biệt cần thông tin cụ thể về những dụng cụ nào nhà trường phải có trách nhiệm cấp cho sinh viên và giảng viên , ví dụ như có trường hợp bút lông viết bảng xài qua vài học kỳ đã khô hết mực , bút mờ không viết được nhưng giảng viên và sinh viên không biết đến đâu để đổi hay thay bút mới nên dẫn đến có giảng viên đành nói chay , không ghi chép được gì , hoặc phải tự đi mua bút viết bảng mới để viết .",Suggestion,negative
+cho học sinh tích cực thuyết trình bằng tiếng anh .,Teaching Skill,positive
+giáo viên rất nhiệt tình với sinh viên .,Behavior,positive
+"thầy tận tình , và thân thiện .",Behavior,positive
+"dạy ít , sinh viên chủ yếu nghe sinh viên báo cáo .",Behavior,negative
+hơi nghiêm .,Behavior,negative
+"cần phân bố lại thời gian lên lớp , đừng kéo dài thời gian khi đã hết buổi học .",Suggestion,negative
+"ngoài việc cho bài tập ra , thầy nên giải đáp cho các học sinh các bài tập khó nữa .",Suggestion,negative
+cho làm bài tập vận dụng kiến thức thường xuyên .,Exercise,positive
+thầy hiền và nhiệt tình với sinh viên .,Behavior,positive
+"thầy năng nổ , nhiệt tình .",Behavior,positive
+"bồi dưỡng chuyên môn giáo viên phần phát âm , từ vựng .",Suggestion,negative
+như vậy thì quá bất công .,General,negative
+không hoàn toàn hài lòng với cách giảng dạy của thầy .,General,negative
+giảng viên thường hay đến lớp muộn 15 phút .,Behavior,negative
+cô giáo nhiệt tình .,Behavior,positive
+thầy nên nhiệt tình hướng dẫn hơn .,Behavior,negative
+thêm nhiều bài tập hay gặp khi thi học kỳ !,Suggestion,negative
+bài tập làm thêm .,Exercise,positive
+cho cái nhìn về môi trường bên ngoài doanh nghiệp .,Experience,positive
+"phòng thực hành khoa wzjwz70 máy hư tùm lum , không hiểu sao phòng thực hành mấy khoa khác như wzjwz71 , wzjwz72 đầu tư mới với tốt hơn nhiều .",Equipment,negative
+thời lượng thi ít khiến nhiều câu bỏ trống .,General,negative
+gây khó khăn cho việc làm bài thi .,General,negative
+cách thầy dạy môn này trong kỳ trước em không được biết chỉ được nghe từ các bạnem đã cảm thấy vui khi được học với thầy .,General,positive
+rất thích cách xét công tâm của cô .,Grading,positive
+khi sinh viên nhờ thầy giải một bài tập để làm mẫu nhưng không nhận được bất kỳ bài giải nào từ thầy .,Exercise,negative
+em nghĩ nên thi thực hành thay vì lý thuyết cuối kỳ .,Suggestion,negative
+đi học hay không đi học cũng như nhau .,General,negative
+thầy giúp sinh viên luyện tập rất nhiệt tình .,Behavior,positive
+bài thi phải sát hơn và thêm phần thi nói để kiểm tra và xếp loại đầu vào .,Suggestion,negative
+cô wzjwz195 thật tuyệt vời .,General,positive
+"không dạy vào trọng tâm chương trình , sử dụng giáo trình mà thường đi lan man .",Teaching Skill,negative
+thời gian vào lớp đúng giờ .,Behavior,positive
+phương pháp dạy của thầy chưa hiệu quả .,Teaching Skill,negative
+"gần gũi , tận tình .",Behavior,positive
+"cung cấp các slide , tài liệu liên quan quá ít .",Lecture Material,negative
+môn học cần đi vào thực tiễn để sinh viên có thể ứng dụng sau này .,Suggestion,negative
+"thầy ít khi giảng bài , thường để sinh viên tự xem tài liệu là chủ yếu .",Behavior,negative
+"thầy wzjwz182 dạy rất hay , rất dễ hiểu .",Teaching Skill,positive
+sự thân thiện và tận tình .,Behavior,positive
+"môn học cần có chút thay đổi về kiểm tra , phần thực hành cần được quan tâm và cần được hỗ trợ hoặc học sau khi đã học được lý thuyết để có nền tảng và cơ sở để thầy cô hướng dẫn sinh viên tốt hơn .",Suggestion,negative
+"tận tình , vui tính <3 .",Behavior,positive
+đó là sự nhiệt tình của giảng viên .,Behavior,positive
+kiến thức của giáo viên rất tốt !,Knowledge,positive
+"thực hành đa dạng , giúp sinh viên hiểu rõ vấn đề .",Teaching Skill,positive
+"thầy thân thiện , lắng nghe sinh viên .",Behavior,positive
+cô nhiệt tình và tâm huyết trong việc dạy học .,Behavior,positive
+giáo viên giảng dạy nhiệt tình .,Behavior,positive
+đủ những gì cần học không dài dòng .,General,positive
+cần giảng kỹ hơn cho sinh viên hiểu bài và có kết hợp với nhiều ví dụ minh họa thực tế .,Suggestion,negative
+hơi nhanh .,Teaching Skill,negative
+cô dạy hay nhưng hơi nhanh .,Teaching Skill,positive
+các ví dụ đều có liên hệ đến bài tập .,Exercise,positive
+được rèn luyện kỹ năng giao tiếp tiếng anh cũng như cách tự học tốt ở nhà .,Teaching Skill,positive
+"chia nhỏ bài tập về nhà để cộng điểm cho sinh viên , vừa giúp sinh viên làm và hiểu nhuần nhuyễn và tránh tình trạng rớt đồng loạt .",Suggestion,negative
+cách giảng bài chi tiết vừa đủ và dễ hiểu .,Teaching Skill,positive
+một số buổi dạy của giảng viên không hiệu quả về giờ giấc .,Teaching Skill,negative
+nhiều lúc thầy nói nhanh quá nghe không kiệp .,Teaching Skill,negative
+"giảng viên rất nhiệt tình giảng dạy , rất sẵn lòng giải đáp thắc mắc của sinh viên .",Behavior,positive
+hài lòng hoàn toàn .,General,positive
+cần phải có liên hệ thực tiễn trong quá trình giảng dạy để tạo sự ham thích cho người học .,Suggestion,negative
+cảm ơn .,General,positive
+hình thức thực hành 2 dường như không có tác dụng với sinh viên .,Suggestion,negative
+thầy dạy hay và dễ hiểu .,Teaching Skill,positive
+"thầy cho bài tập luyện tập rất nhiều , thích hợp cho việc ôn tập lại kiến thức .",Exercise,positive
+"thầy dạy không để ý xem sinh viên có nhận thức được hay không , chỉ dạy cho hết bài rôi về .",Teaching Skill,negative
+"cô vui vẻ , hay quan tâm sinh viên .",Behavior,positive
+giảng viên nên nhiệt tình hơn !,Suggestion,negative
+phòng thực hành tốt .,Equipment,positive
+đầy đủ kiến thức .,Knowledge,positive
+"thầy dạy dễ hiểu , sinh động .",Teaching Skill,positive
+giảng bài dễ tiếp thu .,Teaching Skill,positive
+tốt giỏi chu đáo .,General,positive
+rất nhiệt tình với sinh viên .,Behavior,positive
+"giảng viên tận tâm , nhiệt tình , hỗ trợ giải đáp thắc mắc môn học cho sinh viên .",Behavior,positive
+"giảng viên rất hòa đồng vui vẻ , nhiệt tình trong giảng dạy .",Behavior,positive
+giáo viên chưa tạo được không khí vui vẻ trong lớp học .,Behavior,negative
+nhiều khi dạy quá thời gian .,Behavior,negative
+"giảng viên biết cách truyền đạt , giảng rất hay và dễ hiểu .",Teaching Skill,positive
+"em nghĩ chỉ nên bắt buộc các bài tập có dạng căn bản , còn bài tập tương tự thì chỉ khuyến khích sinh viên làm thêm .",Suggestion,negative
+thầy bằng nhiệt tình tận tụy với sinh viên trong việc hướng dẫn đồ án .,Behavior,positive
+"thầy quá bảo thủ , thầy luôn cho rằng ý kiến của thầy là đúng nhất , ngoài ra mọi ý kiến khác đều sai .",Behavior,negative
+em mong cô cũng như toàn thể các giảng viên hãy xem xét lại việc điểm danh vì đại học dù sao cũng là tự học chứ không phải như là phổ thông nữa .,Suggestion,negative
+kiến thức giảng dạy môn tiếng anh hầu như không giúp ích nhiều cho sinh viên trong việc tìm hiểu các tài liệu chuyên ngành .,Knowledge,negative
+giáo viên giảng hay dễ hiểu .,Teaching Skill,positive
+"đề thi thực hành cần nêu yêu cầu cụ thể , rõ ràng hơn .",Suggestion,negative
+"nhiệt tình , dễ gần , truyền đạt tận tâm .",Behavior,positive
+thoải mái về thời gian .,General,positive
+phòng thực hành nên nâng cấp máy tính .,Suggestion,negative
+cô nên tăng tốc độ giải bài hơn .,Suggestion,negative
+bàn ghế còn bụi .,Equipment,negative
+thầy rất dễ gần .,Behavior,positive
+cần tăng thời gian học .,Suggestion,negative
+"nên cải tiến hệ thống chấm điểm online , update bài tập cho tất cả học sinh làm rồi có bảng xếp hạng , như bên codefun của miền bắc .",Suggestion,negative
+dạy đúng trọng tâm .,Teaching Skill,positive
+"thầy wzjwz239 nói chuyện cọc lốc , không hiểu vấn đề gì hỏi thầy thì thầy lại như quát vào mặt , tạt nước lạnh , … nói chuyện xưng hô mày - tao ( có lúc thì xưng tớ - cậu nhưng lời nói đầy ẩn ý ) , hay nói móc và tìm cách bắt bẻ sinh viên .",Behavior,negative
+việc phân chia nhóm không hợp lý dẫn tới chất lượng học tập không tốt .,Teaching Skill,negative
+"giảng dạy nhiệt tình , quan tâm tới sinh viên .",Behavior,positive
+kiến thức thầy dạy rất hay và bổ ích .,Experience,positive
+kiến thức đơn giản .,Knowledge,positive
+cần tuân thủ đúng và đủ giờ .,Suggestion,negative
+giáo viên giảng dạy sử dụng nhiều ví dụ thực tiễn .,Experience,positive
+"cung cấp và thường xuyên cập nhật thêm tài liệu về môn học nhiều hơn , sử dụng giờ lên lớp hiệu quả hơn .",Suggestion,negative
+"cô vui vẻ , giúp lớp cùng nhau hoạt động sôi nổi .",Behavior,positive
+hạn chế cho ra ví dụ kiểu như 12 rồi cho bài tập kiểu như 245 .,Suggestion,negative
+cô dạy khá nhanh nên khó theo kịp bài giảng .,Teaching Skill,negative
+"hướng dẫn thực hành chưa tận tình , thời gian còn ít .",Behavior,negative
+thầy rất tận tâm và nhiệt tình chỉ dạy sinh viên .,Behavior,positive
+ida pro 64-bit hoàn toàn có thể phân tích các file thực thi 32-bit nhưng các thanh ghi phức tạp hơn nhiều thay cho ida pro 64-bit không phân tích được cái file thực thi 32-bit :) .,General,negative
+"có thể phần thực hành sinh viên sẽ có hai sự lựa chọn : tự xây dựng một chương trình phân loại văn bản , như vậy chương trình sẽ có thể không xử lý được những đoạn văn bản phức tạp hoặc lớn thế nên cách chấm điểm sẽ có phần nương tay đối với phần áp dụng này .",Suggestion,negative
+"giảng viên tâm huyết , nhiệt tình , hiểu tâm lý học sinh .",Behavior,positive
+thầy trẻ trâu .,General,negative
+"nên tăng cường học nghe , nói .",Suggestion,negative
+lòng nhiệt tình .,Behavior,positive
+thầy rất tận tâm giảng dạy .,Behavior,positive
+ok hết .,General,positive
+nhiệt tình và tâm huyết .,Behavior,positive
+đề thi quá khó so với bài tập trên lớp !,Exercise,negative
+truyền đạt nhiều kiến thức cần thiết .,Knowledge,positive
+giáo viên giỏi .,Knowledge,positive
+đầy đủ .,General,positive
+"bàn giáo viên rất dơ , quạt máy thì chạy như không có chạy , mở chỉ thêm tốn điện , không có mát .",Equipment,negative
+"em và các bạn thuộc các lớp phần mềm chất lượng cao hầu như không ai muốn đăng ký môn học game cơ bản do giảng viên này đảm nhận , nhưng kỳ vừa rồi nhà trường chỉ cung cấp cho chúng em duy nhất một sự lựa chọn là giảng viên này nên chúng em không còn cách nào khác .",General,negative
+cần thêm nhiều tài liệu cho môn học .,Suggestion,negative
+không thực hành được buổi nào .,General,negative
+cho làm nhiều bài test .,Behavior,negative
+làm bài tập nhiều mặc dù không hiểu lắm .,Exercise,negative
+chưa chuẩn bị kỹ bài giảng để có thể trả lời các thắc mắc của sinh viên trên lớp .,Teaching Skill,negative
+"ví dụ đề tài của em là : các nguyên lý cơ bản , bao gồm 7 nguyên tắc của bohm ( 1983 ) .",General,positive
+"giáo viên dạy rất tận tâm , nhiệt tình .",Behavior,positive
+cung cấp thêm trang thiết bị phục vụ nhu cầu môn học .,Suggestion,negative
+chỉ thông báo trên lớp sẽ khó tránh sai sót .,General,negative
+"giảng dạy rất chi tiết , dễ hiểu và dễ tiếp thu .",Teaching Skill,positive
+cô viết ở góc bảng gần chổ bụt giảng khiến nhiều khi khó quan sát được ạ .,Teaching Skill,negative
+cách truyền đạt của giáo viên chưa có sức hút đối với sinh viên nhiều cho lắm .,Teaching Skill,negative
+hướng dẫn chi tiết về cách thực hành .,Behavior,positive
+có một số buổi không đi dạy .,Behavior,negative
+"luôn gần gũi , tham khảo ý kiến sinh viên và thống nhất cũng sinh viên .",Behavior,positive
+"giảng viên hoà đồng , vui vẻ , chỉ giảng tận tình sinh viên ham học hỏi .",Behavior,positive
+"giáo viện nhiệt tình , tận tâm .",Behavior,positive
+chia sẻ .,General,positive
+cung cấp kiến thức trọng tâm .,Knowledge,positive
+nói mở rộng nhiều vấn đề về môn học .,Experience,positive
+slide chuẩn bị chưa tốt .,Lecture Material,negative
+thầy wzjwz127 dạy rất nhiệt tình .,Behavior,positive
+"thời gian học tập luôn thiếu sót , giảng viên chưa nhiệt tình giảng dạy .",Behavior,negative
+thầy dạy bằng slide bài giảng hơi nhanh .,Teaching Skill,negative
+giảng viên dạy rất nhiệt tình .,Behavior,positive
+"các phần tiếng việt trong slide được ghi một cách khó hiểu và không rõ ràng , nhiều chỗ trong slide bài giảng có vẻ như được dịch bằng google dịch từ năm 2009 .",Lecture Material,negative
+thầy quá chuyên nghiệp .,Teaching Skill,positive
+em mong phần thực hành được hỗ trợ nhiều hơn nữa từ phía giảng viên .,Suggestion,negative
+"cách giảng dạy , tạo không khí sôi nổi trong lớp .",Teaching Skill,positive
+thầy vui quá đi hi hi .,Behavior,positive
+giáo viên quá tốt .,General,positive
+đôi khi học sinh nào bận muốn về trước thầy vẫn cho .,Behavior,positive
+mong thầy giảng giải và cho bài tập từng bước nhiều hơn .,Suggestion,negative
+"mong rằng những môn có thực hành , giáo viên nên mở chat box và forum cho sinh viên dễ trao đổi với nhau , cũng như nhanh chóng nhận được lời giải đáp thắc mắc từ giáo viên .",Suggestion,negative
+chất lượng môn học phù hợp .,Curriculum,positive
+"giáo viên dễ gần , tận tâm .",Behavior,positive
+đề nghị nên cho bài tập về nhà .,Suggestion,negative
+thầy dạy rất tốt .,Teaching Skill,positive
+môn học với kiến thức không quá nặng .,Curriculum,positive
+"thưa , không có ạ .",General,positive
+nhiệt tình truyền đạt kiến thức cho sinh viên .,Behavior,positive
+thầy dạy quá tệ .,Teaching Skill,negative
+"giáo viên lên lớp muộn , nghe điện thoại trong lúc lên lớp thường xuyên , nghỉ dạy không thông báo .",Behavior,negative
+giảng quá khó hiểu .,Teaching Skill,negative
+"giảng viên nhiệt tình , quan tâm đến học sinh .",Behavior,positive
+mong cô cung cấp nhiều tài liệu có hướng dẫn giải cụ thể các dạng toán để đáp ứng nhu cầu tự học .,Suggestion,negative
+"giảng viên nhiệt tình , gần gũi với sinh viên .",Behavior,positive
+nên phát hành giáo trình chuẩn cho môn học .,Suggestion,negative
+"giảng viên nhiệt tình , hỗ trợ sinh viên tốt .",Behavior,positive
+không tập trung vào giảng kiến thức cho học sinh hiểu .,Teaching Skill,negative
+giảng viên hay cho nghỉ học mà không báo trước .,Behavior,negative
+"cô giáo nhiệt tình , vui tính , cố gắng truyền đạt cho sinh viên .",Behavior,positive
+sự nhiệt tình và tận tình của giáo viên .,Behavior,positive
+thêm nhiều kiến thức ngoài mới .,Knowledge,positive
+thường xuyên mời các bạn lên giải bài tập và giảng giải lại !,Teaching Skill,positive
+"cuối cùng , em xin cảm ơn vì thầy / cô đã đọc đến hết .",General,positive
+rất thích phong cách dạy của thầy x .,Teaching Skill,positive
+thầy giảng dạy tận tâm .,Behavior,positive
+đối với người lần đầu tìm hiểu directx với những yêu cầu đặt ra là rất khó .,General,negative
+thầy cho chép nhiều .,Behavior,negative
+áp dụng bài học vào thực tế .,Teaching Skill,positive
+em nghĩ nhà trường nên kiểm tra kỹ trình độ giảng viên trước khi bố trí để họ dạy một môn học nào đó .,Suggestion,negative
+thầy rất hiền và nhiệt tình trong từng tiết học .,Behavior,positive
+khả năng truyền đạt kiến thức sinh viên khó tiếp thu hết .,Teaching Skill,negative
+"cô dạy rất hay , cuốn hút .",Teaching Skill,positive
+mong thầy cho thêm bài tập về nhà và share slide .,Suggestion,negative
+thầy quá tuyệt vời :3 .,General,positive
+"giảng viên nên giảng sâu vào chương trình học , tránh lan man , dài dòng .",Suggestion,negative
+nên đơn giản hóa với các phần không quan trọng .,Suggestion,negative
+cần cung cấp nhiều thông tin bài học hơn .,Suggestion,positive
+"giảng viên ghi chép quá nhiều , tốn thời gian .",Teaching Skill,negative
+ngôn ngữ thực hành các bài lab của từng bộ môn nên được trang bị trước cho sinh viên .,Suggestion,negative
+"môn thực hành cần có bài tập về nhà , tài liệu cập nhật rõ ràng hơn .",Suggestion,negative
+"tận tâm , quan tâm sinh viên !",Behavior,positive
+tiết học sinh động .,Teaching Skill,positive
+"không rõ "" thu được gì "" từ môn học này .",General,negative
+"giảng viên không sử dụng moodle làm kênh thông tin liên lạc với học sinh , không up slide tài liệu bài giảng lên gây khó khăn cho việc nắm bắt thông tin về yêu cầu môn học và khó khăn trong học tập .",Lecture Material,negative
+"thầy dạy hơi nhanh , đa số sinh viên không theo kịp .",Teaching Skill,negative
+đôi khi bị lố giờ giảng .,Behavior,negative
+nhiều tiết tự học do sinh viên tự thuyết trình .,General,positive
+thầy rất tận tình với sinh viên .,Behavior,positive
+"chấm điểm thiếu công bằng , thực hành tại máy trường mà chấm bài cài đặt phần mềm trên laptop .",Grading,negative
+"tôi và các bạn khác cùng bước vào , khi đó thầy yêu cầu đồng loạt mở hết code lên chạy demo để thầy chấm , và không may thay thầy đã tìm ra 2 bạn có source code y chang nhau , thầy bắt đầu tra hỏi lý thuyết về đề tài 'xxx' đối với 2 bạn đó .",Behavior,positive
+thầy cho chép nhiều quá .,Behavior,negative
+"thầy truyền đạt tốt , giảng bài dễ hiểu .",Teaching Skill,positive
+hài lòng tất cả .,General,positive
+biết ứng dụng kiến thức đã học vào thực tiễn tạo hứng thú cho sinh viên .,Teaching Skill,positive
+biết ứng dụng kiến thức đã học vào thực tiễn tạo hứng thú cho sinh viên .,Experience,positive
+tăng thời gian thực hành .,Suggestion,negative
+"đa phần là tự học là chính , có thể là do chương trình đại học quốc gia .",General,negative
+slide còn khó hiểu .,Lecture Material,negative
+quan tâm nhiều đến sinh viên .,Behavior,positive
+cô giảng dạy rất nhiệt tình !,Behavior,positive
+theo em thì không thể trách thầy wzjwz120 mà lỗi là do daa đưa lịch học thực hành quá chậm trễ .,General,negative
+tăng cường ôn tập để kiểm tra như : cho sinh viên làm thử các đề kiểm tra .,Suggestion,negative
+"mỗi lúc hết tiết sớm , thầy thường giảng cho các sinh viên những kiến thức môn bên ngoài như lập trình giúp sinh viên giải đáp một số thắc mắc hoặc một số bài tập nâng cao .",Teaching Skill,positive
+chỉ cho sinh viên biết nhiều điều cốt lõi trong môn học mà ít ai biết .,Teaching Skill,positive
+phòng máy có quá nhiều máy không sử dụng được .,Equipment,negative
+giảng viên nên đi dạy thường xuyên hơn .,Suggestion,negative
+em rất thích những tiết sửa bài tập của cô .,Teaching Skill,positive
+"thời gian các buổi học , thông báo nghỉ chưa chính xác .",Behavior,negative
+"em cảm ơn thầy <3 à còn cái thầy vui tính ghê , cười đùa nói chuyện thân thiện .",Behavior,positive
+"giảng viên dạy dễ hiểu , dễ tiếp thu .",Teaching Skill,positive
+nên để sinh viên tự tìm hiểu lý thuyết trước ở nhà đến trường giảng viên chỉ cần giải thích các vấn đề không rõ sau đó đi thẳng vào giải các bài tập .,Suggestion,negative
+thầy cần giao bài tập mỗi buổi lên lớp .,Suggestion,negative
+"lý do : sinh viên mới bắt đầu tiếp cận môn học chưa hiểu rõ các từ chuyên nghành nên không hiểu nội dung bài giảng , dù giảng viên giải thích bằng tiếng việt .",General,negative
+"nội dung lan man , khó áp dụng vào thực tế .",Teaching Skill,negative
+"cô rất rất nhiệt tình và tận tâm , sẵn sàng giải thích các vấn đề thắc mắc cho sinh viên .",Behavior,positive
+"đôi khi dạy hơi chán , không thu hút được chú ý của học sinh .",Teaching Skill,negative
+nhiều kiến thức hơn .,Suggestion,negative
+mong nhà trường tạo điều kiện cho sinh viên chúng em được nghiên cứu nhiều hơn là phải làm theo .,Suggestion,negative
+"cô dạy rất mơ hồ , không hứng thú , không nhiệt tình giúp đỡ sinh viên .",Behavior,negative
+"cô dạy rất mơ hồ , không hứng thú , không nhiệt tình giúp đỡ sinh viên .",Teaching Skill,negative
+"cô dạy rất nhiệt tình , giảng rất hay .",Teaching Skill,positive
+"cô dạy rất nhiệt tình , giảng rất hay .",Behavior,positive
+không sử dung tiếng anh trong lúc giảng bài lý thuyết để rồi cả slide bằng tiếng anh cũng không hiểu .,Teaching Skill,negative
+không sử dung tiếng anh trong lúc giảng bài lý thuyết để rồi cả slide bằng tiếng anh cũng không hiểu .,Lecture Material,negative
+"môn học cung cấp nhiều kiến thức cần thiết , đặc biệt là cô dạy rất tận tâm và hướng đến sinh viên .",Teaching Skill,positive
+"môn học cung cấp nhiều kiến thức cần thiết , đặc biệt là cô dạy rất tận tâm và hướng đến sinh viên .",Behavior,positive
+"giảng viên tận tình , dạy hay .",Teaching Skill,positive
+"giảng viên tận tình , dạy hay .",Behavior,positive
+"nhiệt tình , khả năng truyền đạt tốt .",Teaching Skill,positive
+"nhiệt tình , khả năng truyền đạt tốt .",Behavior,positive
+"đi trễ , dạy chậm .",Behavior,negative
+"đi trễ , dạy chậm .",Teaching Skill,negative
+"bài tập tại lớp còn hơi ít , hướng dẫn hơi nhanh !",Teaching Skill,negative
+"bài tập tại lớp còn hơi ít , hướng dẫn hơi nhanh !",Exercise,negative
+"dạy nhiệt tình , dễ hiểu .",Behavior,positive
+"dạy nhiệt tình , dễ hiểu .",Teaching Skill,positive
+"dạy đầy đủ chương trình , tích cực kiểm tra học sinh .",Teaching Skill,positive
+"dạy đầy đủ chương trình , tích cực kiểm tra học sinh .",Behavior,positive
+"giọng nói hơi khó nghe , ngoài ra không có gì không hài lòng .",General,positive
+"giọng nói hơi khó nghe , ngoài ra không có gì không hài lòng .",Behavior,negative
+"truyền đạt tốt , nhiệt tình , thân thiện với sinh viên .",Behavior,positive
+"truyền đạt tốt , nhiệt tình , thân thiện với sinh viên .",Teaching Skill,positive
+"thầy dạy rất tận tâm , kiến thức chuyên môn cực tốt .",Behavior,positive
+"thầy dạy rất tận tâm , kiến thức chuyên môn cực tốt .",Teaching Skill,positive
+"thầy dạy rất tận tâm , kiến thức chuyên môn cực tốt .",Knowledge,positive
+"giáo án ngắn gọn , dễ hiểu , dạy học nhiệt tình .",Behavior,positive
+"giáo án ngắn gọn , dễ hiểu , dạy học nhiệt tình .",Teaching Skill,positive
+"dạy dễ hiểu , nhiệt tình , vui tính .",Teaching Skill,positive
+"dạy dễ hiểu , nhiệt tình , vui tính .",Behavior,positive
+nội dung giảng dạy còn mơ hồ .,Knowledge,negative
+nhìn chung tạo được cảm hứng rất nhiều cho sinh viên học tập hiệu quả .,Teaching Skill,positive
+"dạy hơi nhanh , sinh viên khó theo kịp .",Teaching Skill,negative
+"rất hài lòng , thầy dạy khá hay , cũng rất vui trong lúc học .",Teaching Skill,positive
+cần phương pháp học môn này .,Teaching Skill,neutral
+chia sẻ nhiều câu chuyện thú vị .,Teaching Skill,positive
+phần bài làm trên moodle có nhiều sai sót gây ảnh hưởng đến điểm chuyên cần .,Exercise,negative
+nghỉ học thường xuyên .,General,negative
+"cô nhiệt tình , chu đáo .",Behavior,positive
+còn nhanh .,General,negative
+thêm tiết sửa bài tập nhiều hơn .,Suggestion,negative
+"kiến thức truyền tải nhiều , khó hiểu .",Teaching Skill,negative
+em tiến bộ rất nhanh .,General,positive
+không nên đề hình thức thực hành là số 2 gây nhàm chán cho sinh viên sau những ngày học lý thuyết thì sinh viên nên được thực hành trên phòng lab dưới sự hướng dẫn của giảng viên .,Suggestion,negative
+thân ái !,General,positive
+sử dụng hiệu quả giờ học .,Teaching Skill,positive
+giảng viên chưa bám sát sinh viên .,Behavior,negative
+"nên cắt giảm bớt chương trình học môn lý a2 vì theo em thấy có một số phần không áp dụng vào trong thực tế ngày nay của it , chỉ có một số phần là có áp dụng vì thế nên giảm thiểu chương trình học .",Suggestion,negative
+chấm bài không nói lên tính khách quan .,Behavior,negative
+"nhiệt tình , vui tính , thân thiện .",Behavior,positive
+thầy không có up tài liệu cũng như bài giảng lên moodle .,Lecture Material,negative
+"giảng viên truyền đạt khó hiểu , có lúc nói nhanh , có lúc nói chậm , giọng khó nghe , hay bị ngọng .",Teaching Skill,negative
+cô giảng hơi nhanh và khó nghe .,Teaching Skill,negative
+giáo viên rất nhiệt tình và tận tâm .,Behavior,positive
+thầy trang bị cho những kỹ năng chuyên sâu và hướng mở của môn học .,Teaching Skill,positive
+giảng viên nhiệt tình và giúp sinh viên hiểu thêm nhiều kiến thức .,Behavior,positive
+giảng viên nhiệt tình và giúp sinh viên hiểu thêm nhiều kiến thức .,Teaching Skill,positive
+"giáo viên thân thiện và tích cực , đảm bảo nội dung học tập .",Teaching Skill,positive
+"giáo viên thân thiện và tích cực , đảm bảo nội dung học tập .",Behavior,positive
+"thầy dạy nhiệt tình , cung cấp một số kiến thức bổ ích cho sinh viên .",Behavior,positive
+"thầy dạy nhiệt tình , cung cấp một số kiến thức bổ ích cho sinh viên .",Knowledge,positive
+"thầy thường 8h mới bắt đầu dạy , lời giảng còn khó hiểu do không cho nhiều ví dụ cụ thể cũng như demo .",Behavior,negative
+"thầy thường 8h mới bắt đầu dạy , lời giảng còn khó hiểu do không cho nhiều ví dụ cụ thể cũng như demo .",Teaching Skill,negative
+"không có hoạt động nhóm , bài tập ít .",Exercise,negative
+"không có hoạt động nhóm , bài tập ít .",Teaching Skill,negative
+"cô dạy nhiệt tình , kỹ và dễ hiểu .",Behavior,positive
+"cô dạy nhiệt tình , kỹ và dễ hiểu .",Teaching Skill,positive
+"giáo viên nói hơi nhỏ , rất khó nghe , và hiểu được bài .",Behavior,negative
+"giáo viên nói hơi nhỏ , rất khó nghe , và hiểu được bài .",Teaching Skill,negative
