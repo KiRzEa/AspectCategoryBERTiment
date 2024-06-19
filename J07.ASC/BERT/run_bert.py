@@ -62,6 +62,7 @@ tokenized_dataset = dataset.map(preprocess_function,
                                 batched=True,
                                 batch_size=1024,
                                 remove_columns=dataset['train'].column_names)
+print(tokenized_dataset)
 #======================================
 training_args = TrainingArguments(
     output_dir="checkpoint",
