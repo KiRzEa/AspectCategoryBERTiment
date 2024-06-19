@@ -32,7 +32,7 @@ def create_dataset(data_dir, domain):
     
 def get_label2id(df):
     labels = df['sentiment'].unique().tolist()
-    return {idx for idx, _ in labels}
+    return {idx for idx, _ in enumerate(labels)}
 
 def preprocess_function(examples, tokenizer, max_length, padding="max_length"):
     cleaned_review = clean_doc(examples['review'])
