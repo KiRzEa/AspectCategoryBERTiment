@@ -52,7 +52,7 @@ set_seed(seed)
 model = AutoModelForSequenceClassification.from_pretrained(model_id)
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 #======================================
-dataset, label2id = create_dataset(domain)
+dataset, label2id = create_dataset(data_dir, domain)
 #======================================
 max_length = get_max_length(dataset['train'], tokenizer)
 #======================================
