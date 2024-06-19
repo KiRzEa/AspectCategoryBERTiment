@@ -3,7 +3,6 @@ import argparse
 import time
 import warnings
 from utils import *
-import transformers
 from transformers import (
     AutoModelForSequenceClassification,
     AutoTokenizer,
@@ -84,8 +83,8 @@ trainer = Trainer(
     model=model,
     args=training_args,
     data_collator=collator,
-    train_dataset=dataset_dict["train"],
-    eval_dataset=dataset_dict["validation"],
+    train_dataset=tokenized_dataset["train"],
+    eval_dataset=tokenized_dataset["validation"],
     compute_metrics=compute_metrics
 )
 #======================================
@@ -105,6 +104,6 @@ print("Inference time (seconds): ", inference_time)
 
 scores = evaluation_scores(labels, predictions, time_training, inference_time)
 export_score_to_file(scores, model_id, domain)
-save_prediction_to_file(dataset['test']['review'], dataset['test']['category'], y_test, y_pred, domain, model_id)
+save_prediction_to_file(dataset['test']['review'], dataset['test']['category'], labels, predictions, domain, model_id)
 
 #======================================

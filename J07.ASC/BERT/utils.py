@@ -96,7 +96,7 @@ def export_score_to_file(scores, model_id, domain):
 
 def save_prediction_to_file(review, category, y_true, y_pred, domain, model_id):
     path_output = "prediction/"+ str(domain) + "_" + str(model_id.replace("/", "_")) + ".csv"
-    df = pd.DataFrame(list(zip(x_test, category, y_true, y_pred)), columns =['review', 'category', 'y_true', 'y_pred'])
+    df = pd.DataFrame(list(zip(review, category, y_true, y_pred)), columns =['review', 'category', 'y_true', 'y_pred'])
     df.to_csv(path_output, index=False)
     
     return df

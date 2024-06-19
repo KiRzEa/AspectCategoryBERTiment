@@ -123,7 +123,7 @@ def mapping_category(domain):
         return hotel_dict
     
     elif domain == "Mother":
-        return model_dict
+        return mother_dict
     
     elif domain == "Technology":
         return technology_dict
