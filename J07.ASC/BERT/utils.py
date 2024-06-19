@@ -18,9 +18,9 @@ def create_dataset(data_dir, domain):
 
     label2id = get_label2id(train)
 
-    train['sentiment'] = train['sentiment'].map(label2id)
-    dev['sentiment'] = dev['sentiment'].map(label2id)
-    test['sentiment'] = test['sentiment'].map(label2id)
+    train['sentiment'] = train['sentiment'].replace(label2id)
+    dev['sentiment'] = dev['sentiment'].replace(label2id)
+    test['sentiment'] = test['sentiment'].replace(label2id)
 
     dataset = DatasetDict({
         'train': Dataset.from_pandas(train),
@@ -32,7 +32,7 @@ def create_dataset(data_dir, domain):
     
 def get_label2id(df):
     labels = df['sentiment'].unique().tolist()
-    return {idx for idx, _ in enumerate(labels)}
+    return {sentiment: idx for idx, sentiment in enumerate(labels)}
 
 def preprocess_function(examples, tokenizer, max_length, padding="max_length"):
     cleaned_review = clean_doc(examples['review'])

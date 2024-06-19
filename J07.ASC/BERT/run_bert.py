@@ -49,10 +49,12 @@ print("="*50)
 #======================================
 set_seed(seed)
 #======================================
-model = AutoModelForSequenceClassification.from_pretrained(model_id)
-tokenizer = AutoTokenizer.from_pretrained(model_id)
-#======================================
 dataset, label2id = create_dataset(data_dir, domain)
+print(dataset)
+print(dataset['train'][:5])
+#======================================
+model = AutoModelForSequenceClassification.from_pretrained(model_id, num_labels=len(label2id))
+tokenizer = AutoTokenizer.from_pretrained(model_id)
 #======================================
 max_length = get_max_length(dataset['train'], tokenizer)
 #======================================
