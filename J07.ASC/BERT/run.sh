@@ -2,11 +2,11 @@
 
 # Define the list of model IDs
 model_ids=(
-    "vinai/phobert-base",
-    "vinai/phobert-base-v2",
-    "uitnlp/visobert",
-    "google-bert/bert-base-multilingual-uncased",
-    "FacebookAI/xlm-roberta-base",
+    "vinai/phobert-base"
+    "vinai/phobert-base-v2"
+    "uitnlp/visobert"
+    "google-bert/bert-base-multilingual-uncased"
+    "FacebookAI/xlm-roberta-base"
     "microsoft/deberta-v3-base"
     )
 
