@@ -51,7 +51,7 @@ set_seed(seed)
 #======================================
 dataset, label2id = create_dataset(data_dir, domain)
 print(dataset)
-print(dataset['train'][:5])
+print(label2id)
 #======================================
 model = AutoModelForSequenceClassification.from_pretrained(model_id, num_labels=len(label2id))
 tokenizer = AutoTokenizer.from_pretrained(model_id)

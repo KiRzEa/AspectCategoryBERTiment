@@ -35,7 +35,7 @@ def get_label2id(df):
     return {sentiment: idx for idx, sentiment in enumerate(labels)}
 
 def preprocess_function(examples, tokenizer, max_length, padding="max_length"):
-    cleaned_review = clean_doc(examples['review'])
+    cleaned_review = clean_doc(example['review'] for example in examples)
     tokenized_inputs = tokenizer(cleaned_review, examples['category'], max_length=max_length, padding=padding, truncation=True)
     tokenized_inputs['labels'] = examples['sentiment']
 
