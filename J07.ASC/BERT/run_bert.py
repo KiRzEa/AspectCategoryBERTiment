@@ -28,7 +28,6 @@ parser.add_argument("--seed", type=int, default=42)
 args = parser.parse_args()
 
 model_id = args.model_id
-data_dir = args.data_dir
 domain = args.domain
 learning_rate = args.lr
 num_epochs = args.num_epochs
