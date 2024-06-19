@@ -104,7 +104,7 @@ def export_score_to_file(scores, model_id, domain):
 
 def save_prediction_to_file(review, category, y_true, y_pred, domain, model_id):
     pred_dir = os.path.join(os.path.dirname(os.getcwd()), "prediction")
-    path_output = os.path.join(pred_dir, f"{domain}_{model_id.replace("/", "_")}.csv")
+    path_output = os.path.join(pred_dir, f"{domain}_{model_id.replace('/', '_')}.csv")
     df = pd.DataFrame(list(zip(review, category, y_true, y_pred)), columns =['review', 'category', 'y_true', 'y_pred'])
     df.to_csv(path_output, index=False)
     
