@@ -3,6 +3,7 @@ import os, random
 import numpy as np
 import torch
 from datasets import Dataset, DatasetDict
+from category_mapping import *
 from preprocessing import *
 from sklearn.metrics import *
 
@@ -22,6 +23,10 @@ def create_dataset(data_dir, domain):
     dev['sentiment'] = dev['sentiment'].replace(label2id)
     test['sentiment'] = test['sentiment'].replace(label2id)
 
+    train['category'] = train['category'].replace(mapping_category(domain))
+    dev['category'] = dev['category'].replace(mapping_category(domain))
+    test['category'] = test['category'].replace(mapping_category(domain))
+
     dataset = DatasetDict({
         'train': Dataset.from_pandas(train),
         'dev': Dataset.from_pandas(dev),
@@ -35,8 +40,8 @@ def get_label2id(df):
     return {sentiment: idx for idx, sentiment in enumerate(labels)}
 
 def preprocess_function(examples, tokenizer, max_length, padding="max_length"):
-    cleaned_review = [clean_doc(example['review']) for example in examples]
-    tokenized_inputs = tokenizer(cleaned_review, examples['category'], max_length=max_length, padding=padding, truncation=True)
+    cleaned_reviews = [clean_doc(example['review']) for example in examples]
+    tokenized_inputs = tokenizer(cleaned_reviews, examples['category'], max_length=max_length, padding=padding, truncation=True)
     tokenized_inputs['labels'] = examples['sentiment']
 
     return tokenized_inputs
