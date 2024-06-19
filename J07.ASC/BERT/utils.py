@@ -9,9 +9,9 @@ from sklearn.metrics import *
 
 def create_dataset(domain):
 
-    path_train = os.path.join(os.chdir(os.path.dirname(os.getcwd())), 'dataset', f"{domain}_ABSA", "csv", "Train.csv")
-    path_dev = os.path.join(os.chdir(os.path.dirname(os.getcwd())), 'dataset', f"{domain}_ABSA", "csv", "Dev.csv")
-    path_test = os.path.join(os.chdir(os.path.dirname(os.getcwd())), 'dataset', f"{domain}_ABSA", "csv", "Test.csv")
+    path_train = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"{domain}_ABSA", "csv", "Train.csv")
+    path_dev = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"{domain}_ABSA", "csv", "Dev.csv")
+    path_test = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"{domain}_ABSA", "csv", "Test.csv")
 
     train = pd.read_csv(path_train)
     dev = pd.read_csv(path_dev)
