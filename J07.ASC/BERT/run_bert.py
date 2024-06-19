@@ -74,8 +74,8 @@ training_args = TrainingArguments(
     warmup_ratio=0.1,
     logging_dir="checkpoint/logs",
     logging_strategy="steps",
-    logging_steps=500,
-    eval_steps=500,
+    logging_steps=len(tokenized_dataset['train']) // batch_size,
+    eval_steps=len(tokenized_dataset['train']) // batch_size,
     save_strategy="no",
 )
 
