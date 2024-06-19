@@ -52,7 +52,15 @@ def get_max_length(examples, tokenizer):
 def compute_metrics(p):
     predictions, labels = p
     predictions = np.argmax(predictions, axis=-1)
-
+    print(labels)
+    print(predictions)
+    print(type(labels))
+    print(type(predictions))
+    try:
+        print(labels.shape)
+        print(predictions.shape)
+    except:
+        pass
     accuracy_test = round(accuracy_score(labels, predictions)*100,4)
     balanced_accuracy = round(balanced_accuracy_score(labels, predictions)*100,4)
     f1_weighted_test = round(f1_score(labels, predictions, average='weighted')*100,4)
