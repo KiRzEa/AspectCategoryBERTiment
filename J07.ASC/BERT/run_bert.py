@@ -95,7 +95,7 @@ print("Inference time (seconds): ", inference_time)
 #======================================
 # Evaluation
 
-scores = evaluation_scores(labels, predictions, time_training, inference_time)
+scores = evaluation_scores(labels, predictions, time_training, inference_time, label2id)
 export_score_to_file(scores, model_id, domain)
 save_prediction_to_file(dataset['test']['review'], dataset['test']['category'], labels, predictions, domain, model_id)
 

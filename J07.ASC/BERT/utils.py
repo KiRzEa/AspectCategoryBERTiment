@@ -67,7 +67,7 @@ def compute_metrics(p):
         'F1-Macro': f1_macro_test
     }
 
-def evaluation_scores(y_test, y_pred,time_training,inference_time):
+def evaluation_scores(y_test, y_pred,time_training,inference_time, label2id):
     accuracy_test = round(accuracy_score(y_test, y_pred)*100,4)
     balance_accuracy = round(balanced_accuracy_score(y_test, y_pred)*100,4)
     f1_weighted_test = round(f1_score(y_test, y_pred, average='weighted')*100,4)
@@ -81,7 +81,7 @@ def evaluation_scores(y_test, y_pred,time_training,inference_time):
                 + "\nTraining time: " + str(time_training) \
                 + "\nInference time: " + str(inference_time)
     
-    scores += "\n" + str(classification_report(y_test, y_pred)) + "\n"
+    scores += "\n" + str(classification_report(y_test, y_pred, target_names=label2id.keys())) + "\n"
     print("===============\n")
     print(scores)
     return scores
