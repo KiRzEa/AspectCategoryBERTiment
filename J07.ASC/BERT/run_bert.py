@@ -24,10 +24,12 @@ parser.add_argument("--lr", type=float, default=3e-4)
 parser.add_argument("--num_epochs", type=int, default=20)
 parser.add_argument("--batch_size", type=int, default=8)
 parser.add_argument("--seed", type=int, default=42)
+parser.add_argument("--data_dir", type=str, default='../dataset')
 
 args = parser.parse_args()
 
 model_id = args.model_id
+data_dir = args.data_dir
 domain = args.domain
 learning_rate = args.lr
 num_epochs = args.num_epochs
@@ -36,6 +38,7 @@ seed = args.seed
 #======================================
 print("="*50)
 print("[INFO] Model ID: ", model_id)
+print("[INFO] Data Directory: ", data_dir)
 print("[INFO] Type of Dataset: ", domain)
 print("[INFO] Learning Rate: ", learning_rate)
 print("[INFO] Number of Epochs: ", num_epochs)
