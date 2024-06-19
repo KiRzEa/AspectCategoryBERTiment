@@ -75,6 +75,7 @@ training_args = TrainingArguments(
     logging_dir="checkpoint/logs",
     logging_strategy="steps",
     logging_steps=500,
+    eval_steps=500,
     save_strategy="no",
 )
 
