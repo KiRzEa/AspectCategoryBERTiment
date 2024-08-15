@@ -6,12 +6,13 @@ from datasets import Dataset, DatasetDict
 from category_mapping import *
 from preprocessing import *
 from sklearn.metrics import *
+from pyvi import ViTokenizer
 
 def create_dataset(domain):
 
-    path_train = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"{domain}_ABSA", "csv", "Train.csv")
-    path_dev = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"{domain}_ABSA", "csv", "Dev.csv")
-    path_test = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"{domain}_ABSA", "csv", "Test.csv")
+    path_train = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"ACSA_{domain}", "csv", "Train.csv")
+    path_dev = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"ACSA_{domain}", "csv", "Dev.csv")
+    path_test = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"ACSA_{domain}", "csv", f"{domain}_sub_test.csv")
 
     train = pd.read_csv(path_train)
     dev = pd.read_csv(path_dev)
@@ -39,8 +40,11 @@ def get_label2id(df):
     labels = df['sentiment'].unique().tolist()
     return {sentiment: idx for idx, sentiment in enumerate(labels)}
 
-def preprocess_function(examples, tokenizer, max_length, padding="max_length"):
-    cleaned_reviews = [clean_doc(review) for review in examples['review']]
+def preprocess_function(examples, tokenizer, max_length, padding="max_length", segment=False):
+    if segment:
+        cleaned_reviews = [ViTokenizer.tokenize(clean_doc(review)) for review in examples['review']]
+    else:
+        cleaned_reviews = [clean_doc(review) for review in examples['review']]
     tokenized_inputs = tokenizer(cleaned_reviews, examples['category'], max_length=max_length, padding=padding, truncation=True)
     tokenized_inputs['labels'] = examples['sentiment']
 

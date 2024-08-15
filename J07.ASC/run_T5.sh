@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Define the list of model IDs
-model_ids=("google/mt5-base")
+model_ids=("google/mt5-base" "VietAI/vit5-base")
 
 # Define the list of dataset types
-dataset_types=("Phone" "Beauty" "Technology" "Mother" "Education")
+dataset_types=("Phone" "Restaurant" "Hotel")
 # "Restaurant" "Hotel" "Phone" "Beauty" "Technology" "Mother" "Education"
 
 # Loop through each combination of model ID and dataset type

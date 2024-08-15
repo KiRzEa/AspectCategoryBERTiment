@@ -1,0 +1,1245 @@
+,review,category,sentiment
+0,Ngoài ra bên cạnh khách sạn có quán karaok nên khá ồn ào.,HOTEL#MISCELLANEOUS,positive
+1,1. Khi tôi lên phòng thì mặc dù wifi vẫn có hiển thị nhưng tôi không thể vào được.,FACILITIES#QUALITY,negative
+2,"Phòng sạch sẽ, tiện nghi được bố trí gọn gàng.",ROOMS#COMFORT,positive
+3,"Khách sạn Blue Sea có vẻ hơi cũ, tiện nghi phòng ốc hơi cũ nên cảm thấy chưa được bắt mắt lắm, bù lại thì tiện nghi cũng tương đối đầy đủ, vệ sinh sạch sẽ, nhân viên thân thiện và vị trí gần biển nên đi lại thuận tiện.",ROOMS#QUALITY,negative
+4,"Khách sạn Blue Sea có vị trí nằm gần biển nên đi lại rất thuận tiện, dịch vụ phòng ốc ở đây, tôi đánh giá là khá tốt, phòng được vệ sinh sạch sẽ, gọn gàng, các dịch vụ kèm theo đều đạt tiêu chuẩn, đáp ứng được yêu cầu của tôi.",ROOMS#GENERAL,positive
+5,"Vài lưu ý:Các bạn nên đặt phòng tầng 3 309 hoặc 311 hướng city view vì cửa sổ nhìn thẳng ra hồ, trung tâm thành phố tuy hơi ồn nhưng cảm nhận được cuộc sống và cảnh đẹp của Đà Lạt.",ROOMS#COMFORT,negative
+6,Về tổng quan resort tôi thấy hài lòng.,HOTEL#GENERAL,positive
+7,"Không chỉ có vậy, khách sạn này toạ lạc ở một vị trí rất đẹp.",LOCATION#GENERAL,positive
+8,Và vị trí cũng xa trung tâm và khó tìm nên cũng bất tiện.,LOCATION#GENERAL,negative
+9,"Tuy nhiên, ăn sáng không được phong phú và không hợp khẩu vị lắm.",FOOD&DRINKS#STYLE&OPTIONS,negative
+10,"Wifi lúc đầu thì không có, phòng không có nước nóng tôi phải nhờ nhân viên lên hỗ trợ.",ROOM_AMENITIES#MISCELLANEOUS,negative
+11,So với mức giá thì chất lượng dịch vụ như vậy cũng được rồi.,HOTEL#QUALITY,positive
+12,"Nhân viên dọn phòng sạch sẽ, gọn gàng, cung cấp đầy đủ vật dụng, đáp ứng được nhu cầu của tôi.",ROOMS#CLEANLINESS,positive
+13,"Phòng ngủ sạch sẽ, tạo giấc ngủ ngon.",ROOMS#CLEANLINESS,positive
+14,Thảm màu xáL khói.,ROOM_AMENITIES#MISCELLANEOUS,neutral
+15,Thứ hai nhân viên phục vụ cũng bình thường và cuối cùng vị trí cũng được nhưng tổng quan tôi đánh giá mọi thứ chỉ ở mức trung bình.,LOCATION#GENERAL,positive
+16,"Phòng ốc thì sạch sẽ, đồ đạc gọ n gàng.Nhân viên thì vui vẻ, ni ềm nở chào đón. Bữa sáng không phải buf fet nhưng ăn cũng được.Vị trí đi lại cũng tiện và giá cả thì phải chăng.",ROOMS#CLEANLINESS,positive
+17,Bữa sáng tại đây thì khá là ngon.,FOOD&DRINKS#QUALITY,positive
+18,"Tổng quan về resort này là khuôn viên nhỏ, phòng nhỏ.",ROOMS#DESIGN&FEATURES,negative
+19,Nhân viên phục vụ thái độ cũng được và giá cả thì không xứng đáng với chất lượng phòng.,ROOMS#QUALITY,positive
+20,"Cảnh quan của Terracotta Hotel resort đẹp, không khí mát mẻ, trong lành.",HOTEL#DESIGN&FEATURES,positive
+21,Sau khi yêu cầu đổi phòng thì họ lại xếp tôi ở căn phòng có cửa sổ rộng hơn 1 tí nhưng phụ thu 300.000đ/ ngày nên tôi không Tồng ý.,ROOMS#DESIGN&FEATURES,positive
+22,"Tuy nhiên các tiện ích kèm theo không tốt lắm, nhất là hồ bơi không sạch sẽ mấy.",FACILITIES#CLEANLINESS,negative
+23,"Nhân viên thì tôi không tiếp xúc nhiều, vị trí thì cũng được, nước nóng đầy đủ để tôi sử dụng.",ROOM_AMENITIES#MISCELLANEOUS,positive
+24,Phòng ốc tại đây khá sạch sẽ và cũng tương đối đủ tiện nghi phù hợp với nhu cầu của tôi.,ROOMS#COMFORT,positive
+25,"Phòng ốc sạch sẽ, tuy nhiên máy nước nóng không xài được :.",ROOM_AMENITIES#QUALITY,negative
+26,"Hoạt động vui chơi giải trí đa dạng, tiện lợi.",FACILITIES#GENERAL,positive
+27,Tuy nhiên tôi nhận thấy máy nước nóng hoạt động chưa được ổn định lắm.,ROOM_AMENITIES#QUALITY,negative
+28,Duy chỉ có một chút trục trặc:gối của khách sạn rất cao.,ROOM_AMENITIES#COMFORT,negative
+29,Không gian rộng rãi và mát mẻ.,HOTEL#DESIGN&FEATURES,positive
+30,"Tiện nghi, trang thiết bị cơ bản trong phòng được khách sạn cung cấp tương đối đầy đủ.",ROOM_AMENITIES#GENERAL,positive
+31,"Mùa này ở Mũi Né Paradise Beach Resort bãi biển rất nhiều rác nên không tắm được, mặc dù nhân viên ở đây cũng rất tích cực để dọn nhưng do thiên nhiên nên cũng không cải thiện được.",FACILITIES#CLEANLINESS,negative
+32,"Và sáng hôm sau các loại bánh mà cô tiếp tân xinh đẹp mang lên phòng cho tôi đều có mặt đầy đủ trên quầy buffet trong 3 buổi sáng liên tiếp không thay đổi = > chồng tôi bảo, thế hoá ra chiều hôm nọ họ đưa bánh thừa buổi sáng lên cho mìnH à em.",SERVICE#GENERAL,negative
+33,Cảm nhận khách quan của riêng tôi khi lưu trú lại Terracotta Hotel and Resort Đà Lạt thì dịch vụ tốt.,SERVICE#GENERAL,positive
+34,"Wifi lúc đầu thì không có, phòng không có nước nóng tôi phải nhờ nhân viên lên hỗ trợ.",FACILITIES#GENERAL,negative
+35,Quang cảnh xung quanh rất đẹp nhưng tiếc cái là khuôn viên hơi nhỏ.,HOTEL#DESIGN&FEATURES,negative
+36,"Bên cạnh đó, phòng ở cũng tạm được.",ROOMS#GENERAL,neutral
+37,"Về phòng ốc tôi thấy ok, đồ đạc gọn gàng và toilet sạch sẽ.",ROOM_AMENITIES#CLEANLINESS,positive
+38,"Ở resort được cái view thì đẹp, nhân viên cũng lịch sự, vui vẻ.",HOTEL#GENERAL,positive
+39,"Chất lượng dịch vụ khách sạn cung cấp tốt, phòng ở sạch sẽ, trang thiết bị, tiện nghi đầy đủ.",FACILITIES#GENERAL,positive
+40,Wifi khá yếu.,FACILITIES#QUALITY,negative
+41,"Xét về phòng ở thì dịch vụ phòng tốt, đạt tiêu chuẩn, vệ sinh sạch sẽ, gọn gàng, đầy đủ tiện nghi.",ROOMS#GENERAL,positive
+42,"Phòng lần này tôi ở hơi nhỏ hơn so với những lần trước, nhưng tiện nghi trong phòng cũng tương đối đầy đủ và hữu ích, có một vấn đề nhỏ thôi là vòi sen trong nhà vệ sinh ở phòng tôi bị vấn đề nên không thể móc lên tường được nhưng sử dụng vẫn ok.",ROOM_AMENITIES#GENERAL,positive
+43,Giá cả khá tương xứng.,HOTEL#PRICES,positive
+44,THuê xe máy ở khách sạn giá hơi mắc hơn ở ngoài.,FACILITIES#PRICES,negative
+45,Họ sắp xếp tôi ở căn phòng có thiết kế nội thất khang trang.,ROOM_AMENITIES#DESIGN&FEATURES,positive
+46,"Chứ nhìn phòng vẫn trang nhã, tiện nghi.",ROOMS#DESIGN&FEATURES,positive
+47,Giá phòng vừa phù hợp.,ROOMS#PRICES,positive
+48,Bữa sáng được phục vụ ở tầng cao nhất của nhà hàng.,FOOD&DRINKS#STYLE&OPTIONS,neutral
+49,"Khách sạn có dịch vụ chất lượng tốt, chúng Tôi được nhận phòng nhanh chóng, tiện nghi phòng ốc được chuẩn bị khang trang và lịch sự.",HOTEL#QUALITY,positive
+50,Phòng ốc không được như mong đợi nhưng vì giá thấp nên tôi thấy chấp nhận được.,ROOMS#PRICES,positive
+51,Nằm ở vị trí dễ dàng tìm kiếm và khá gần chợ cũng như những địa điểm khác nên chúng Tôi cảm thấy giá cả hợp lý và chất lượng phòng cũng rất ổn.,HOTEL#PRICES,positive
+52,"Tôi thấy dịch vụ ở Khách Sạn Blue Sea rất là tốt, chỉ có 1 điều tôi chưa ưng ý lắm đó là dịch vụ thuê xe, chất lượng xe máy cho thuê chưa được tốt.",FACILITIES#QUALITY,negative
+53,"Phòng nghỉ rộng rãi, đầy đủ tiện nghi và đặc biệt là nhân viên nhà hàng rất gần gũi và nhiệt tình, chỉ có điều thức ăn ở đây chỉ bình thường chưa được đặc sắc cho lắm nhưng không thành vấn đề.",FOOD&DRINKS#QUALITY,negative
+54,"Phòng thì không được sạch sẽ, nhà vệ sinh bị nghẹt và không thoát được nước, thức ăn sáng cũng không ngon.",FOOD&DRINKS#QUALITY,negative
+55,"Lần này, ở Terracotta Hotel Resort và Spa Đà Lạt, tôi chưa hài lòng lắm vì tôi đặt giường đôi nhưng resort nói hết phòng và xếp tôi ở phòng 2 giường đơn, phải ghép giường, nên nghỉ ngơi cũng chưa thoải mái lắm.",ROOMS#COMFORT,negative
+56,Phòng ốc tại Terracotta Hotel and Resort Đà Lạt này tôi thấy không được đẹp và cũng không giống với hình ảnh trên website của Mytour.,ROOM_AMENITIES#DESIGN&FEATURES,negative
+57,Điều này làm chúng tôi rất khó chịu và có cảm giác không an toàn.,ROOMS#MISCELLANEOUS,negative
+58,"Khách sạn Ngọc Lan Đà Lạt có vị trí nằm gần trung tâm nên đi lại thuận tiện, dịch vụ phòng ốc ở đây cũng tốt, vệ sinh phòng sạch sẽ, gọn gàng, tiện nghi đầy đủ, nhân viên thì lịch sự, vui vẻ, mọi thứ đều ổn, giá cả cũng khá hợp lý, tôi khá hài lòng khi nghỉ tại đây.",ROOMS#PRICES,positive
+59,ban đêm có thêm sữa nóng khá tốt.,FOOD&DRINKS#STYLE&OPTIONS,negative
+60,Tuy nhiên so với kiến trúc khách sạn 4  sao thì tôi thấy chưa được đẹp và hiện đại.,HOTEL#DESIGN&FEATURES,negative
+61,"Giá cả hợp lý, tiện nghi đầy đủ.",FACILITIES#GENERAL,positive
+62,Trang bị nội thất phòng khá khang trang nhưng không gian phòng vào buổi đêm hơi ẩm.,ROOM_AMENITIES#DESIGN&FEATURES,positive
+63,"Phòng ốc thì đã cũ, cửa toilet không khoá được, trong những phòng tôi đặt thì có phòng không có quạt phải gọi bổ sung, máy nước nóng lúc có lúc không, nghỉ ngơi thì cũng tạm thôi.",ROOMS#QUALITY,negative
+64,Nhưng khách sạn không có thang máy mà phòng của tôi ở lầu 3 nên leo lên leo xuống cũng hơi mệt.,FACILITIES#DESIGN&FEATURES,positive
+65,"Trước khi tới đây, tôi đã tham khảo thông tin về Ngọc Lan và có xem qua một số bức hình về khách sạn nhưng tôi không nghĩ rằng nơi này lạ tuyệt vời và đẹp như thế.",HOTEL#DESIGN&FEATURES,positive
+66,"Phòng đẹp, rộng rãi, thoáng mát, trang bị đầy đủ tiện nghi.",ROOMS#GENERAL,positive
+67,"Toilet sạch sẽ, chăn ga gối mền thơm tho cũng như vật dụng sinh hoạt cá nhân mới mẻ.",ROOM_AMENITIES#CLEANLINESS,positive
+68,"Cảnh quang xung quanh khá đẹp, yên tĩnh, thích hợp để nghỉ ngơi, tôi thấy mức giá cả như vậy cũng rất hợp lý, giá cả tương xứng với dịch vụ của khách sạn, tôi hài lòng khi ở đây.",HOTEL#DESIGN&FEATURES,positive
+69,"Máy lạnh chạy rầm rầm suốt đêm, mặt nhân viên thu vé cho khách vào ăn sáng thì đằng đằng sát khí chắc sợ khách ăn hết đồ ăn hay  sao đó.",ROOM_AMENITIES#QUALITY,negative
+70,"Tuy nhiên, khách sạn không đủ chỗ cho khách để xe và sàn gỗ kêu to khi đi lại trong phòng.",FACILITIES#COMFORT,negative
+71,"Phòng ở bố trí tiện nghi, cơ sở vật chất cơ bản đầy đủ.",FACILITIES#GENERAL,positive
+72,"Cảnh đẹp, thoáng mát, sạch sẽ.",HOTEL#DESIGN&FEATURES,positive
+73,"Chiếc giường trong căn phòng của tôi cũng rất dễ chịu và rộng rãi, tôi hài lòng với quyết định của mình khi nghỉ lại đây.",ROOMS#COMFORT,positive
+74,"Cơ sở hạ tầng trang nhã, thiết bị nội thất hiện đại.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+75,"Tại khách sạn có cho thuê xe máy với giá rẻ, xe cho thuê đều là xe mới.",FACILITIES#QUALITY,positive
+76,"Buffet sáng ở đây cũng dở, ít món, cũng không thấy ai châm thêm món.",FOOD&DRINKS#STYLE&OPTIONS,negative
+77,"Đội ngũ nhân viên thân thiện, nhiệt tình.",SERVICE#GENERAL,positive
+78,"Tôi đã ở nhiều lần tại Terracotta Hotel and Resort Đà Lạt nên kì nghỉ đợt này tôi cũng chọn nơi này làm điểm dừng chân và tiếp tục hài lòng về mọi thứ từ chất lượng phòng ốc, nhân viên phục vụ đến các tiện ích đi kèm cũng như vị trí, view xung quanh hay việc ăn uống và mức giá cả.",ROOMS#QUALITY,positive
+79,Tuy nhiên thì phòng ốc ở đây tôi thấy có vẻ hơi cũ.,ROOMS#QUALITY,negative
+80,"Tuy nhiên, ăn sáng ở đây chỉ có 2 món.",FOOD&DRINKS#STYLE&OPTIONS,negative
+81,"Tuy khách sạn hơi cũ về tiện nghi nhưng nhân viên phục vụ thì rất tốt, giá cả lại hợp lý.",SERVICE#GENERAL,positive
+82,"Buffet sáng phong phú, tuy nhiên nếu khách sạn có thể thay đổi món ăn theo ngày thì dịch vụ sẽ tuyệt vời hơn.",FOOD&DRINKS#STYLE&OPTIONS,positive
+83,"Phòng ốc ở Terracotta Hotel Resort và Spa Đà Lạt này thì đạt tiêu chuẩn, phòng sạch sẽ, gọn gàng, đầy đủ tiện nghi, nhìn chung là dịch vụ ổn, không có gì phàn nàn.",ROOMS#QUALITY,positive
+84,"Tôi đánh giá cao dịch vụ ở khách sạn Phương Huy 1 này, dịch vụ rất ok, mọi thứ đều tốt, đạt tiêu chuẩn và tương xứng với giá cả.",ROOMS#QUALITY,positive
+85,Tôi đánh giá resort được 9 điểm.,HOTEL#GENERAL,positive
+86,"Resort gần biển, phòng rộng rãi, sạch sẽ, đầy đủ tiện nghi.",ROOMS#DESIGN&FEATURES,positive
+87,"Bù lại thì chủ khách sạn rất là dễ thương, vui vẻ.",HOTEL#COMFORT,positive
+88,"Điều tôi ấn tượng nhất chính là sự hoà đồng, mến khách của những nhân viên ở khách sạn Happy này.",HOTEL#GENERAL,positive
+89,Ngoại trừ phòng cách âm chưa được tốt nên hơi ồn thì những dịch vụ khác khách sạn cung cấp tốt.,ROOMS#COMFORT,negative
+90,"Khách sạn thật tuyệt, phòng đẹp cảnh đẹp, giá thức ăn phù hợp.",FOOD&DRINKS#PRICES,positive
+91,"Tuy nhiên tôi có đem 1 cái ly và 1 cái muỗng ở trong phòng ra ngoài uống nước và để đó, chứ không đem về phòng.",FOOD&DRINKS#MISCELLANEOUS,neutral
+92,Đặt phòng nhưng tôi đi suốt nên không đánh giá được tất cả.,HOTEL#GENERAL,neutral
+93,"Phòng ốc khá ổn, vệ sinh sạch sẽ, nghỉ ngơi không có gì phiền lòng.",HOTEL#CLEANLINESS,positive
+94,Tôi đã đi rất nhiều khách sạn mà chưa thấy đâu tệ như ở đây:- Wifi thì không có tí sóng nào cả.,FACILITIES#QUALITY,negative
+95,Tôi quên thoa kem tránh muỗi nên bị chít nhiều.,HOTEL#MISCELLANEOUS,negative
+96,"Vừa qua, tôi có chọn khách sạn Blue Sea để đặt phòng và nhận thấy phòng ốc nơi này tốt vệ sinh sạch sẽ, tiện nghi đầy đủ, tuy nhiên wifi không vào được, nơi giữ xe không có bảo vệ, do đó khi gửi thì không được an toàn.",FACILITIES#MISCELLANEOUS,negative
+97,"Phòng ốc được trang bị đầy đủ tiện nghi, vệ sinh cũng sạch sẽ.",FACILITIES#GENERAL,positive
+98,Đặc biệt là mức chi phí phù hợp với chất lượng khách sạn.,HOTEL#PRICES,positive
+99,"Đặc biệt là không gian thoáng mát, sạch sẽ và thái độ phục vụ nhiệt tình.",HOTEL#CLEANLINESS,positive
+100,"Ăn sáng cũng ngon, nhìn chung, với giá cả như vậy thì tôi thấy cũng hợp lý, tôi cảm thấy hài lòng khi nghỉ tại đây.",HOTEL#PRICES,positive
+101,Một điểm trừ tại Happy Day 1 Guesthouse là toilet hơi cũ và bị ẩm mốc.,ROOM_AMENITIES#QUALITY,negative
+102,"Nhà hàng làm đồ ăn đắt và ít, hồ bơi dơ, các tiện ích giải trí khác luôn quá tải, bãi xe chật chội và nhân viên xin xỏ thêm tiền xe.",FOOD&DRINKS#PRICES,negative
+103,"Tuy nhiên, tôi thấy bất tiện khi vị trí resort này hơi xa trung tâm và thức ăn ở đây dở, không được ngon cho lắm.",FOOD&DRINKS#QUALITY,negative
+104,"Về dịch vụ thì khách sạn Blue Sea chẳng có vấn đề gì, nhân viên phục vụ cũng bình thường nhưng cơ sở vật chất ở đây thì kém quá, phòng ốc xấu, đồ đạc cũ kĩ nhìn có vẻ xuống cấp.",ROOM_AMENITIES#DESIGN&FEATURES,negative
+105,"Khi tôi trả thêm phí và được chuyển qua phòng khác thì có cửa sổ, tuy nhiên hệ thống máy nước nóng không điều chỉnh được nhiệt độ nên không hài lòng lắm.",ROOM_AMENITIES#PRICES,negative
+106,"Mọi thứ đều ổn, duy chỉ có thức ăn trong khách sạn quá đắt so với chất lượng và số lượng.",FOOD&DRINKS#PRICES,negative
+107,Resort có 1 quầy bar nhỏ ở hồ bơi.,FACILITIES#DESIGN&FEATURES,neutral
+108,"Chất lượng phòng ốc ok, đầy đủ tiện nghi đã thể hiện trên website.",ROOM_AMENITIES#GENERAL,positive
+109,"Nghỉ ngơi tại khách sạn này thì tôi không phàn nàn gì cả, những gì khách sạn đang có tốt như:đội ngũ nhân viên phục vụ khách hàng vui vẻ, lịch sự, trang thiết bị, tiện nghi được bố trí đầy đủ, vệ sinh phòng ốc sạch sẽ.",FACILITIES#PRICES,positive
+110,"Khách Sạn Phương Huy 1 nằm cách xa chợ tầm 2 km, nhưng khách sạn cung cấp dịch vụ cho thuê xe máy nên việc đi lại cũng dễ dàng, tiện lợi.",FACILITIES#COMFORT,positive
+111,"Thiết kế phòng ốc rộng rãi, dọn phòng kỹ càng và sạch sẽ nên tôi thấy ở đây cũng khá tốt.",ROOMS#DESIGN&FEATURES,positive
+112,"Tuy nhiên, phòng không sạch sẽ lắm, và trông cũng không đẹp mấy.",ROOMS#DESIGN&FEATURES,negative
+113,"Vị trí đi lại cũng dễ dàng, ăn uống tốt và giá cả phù hợp.",FOOD&DRINKS#PRICES,positive
+114,"Nói chung, tôi thấy không thích dịch vụ này.",SERVICE#GENERAL,negative
+115,VỊ TRÍ GẦN BIỂN TUY HƠI XA TRUNG TÂM NHƯNG THÍCH HỢP NGHỈ DƯỠNG.,LOCATION#GENERAL,positive
+116,"Chiếc giường trong căn phòng của tôi cũng rất dễ chịu và rộng rãi, tôi hài lòng với quyết định của mình khi nghỉ lại đây.",ROOM_AMENITIES#COMFORT,positive
+117,"Với tôi những dịch vụ mà HappyDay Hotel có rất tốt đặc biệt là nhân viên rất linh hoạt, nhiệt tình vì tôi có đến khách sạn sớm mà vẫn được nhận phòng, phòng ở ok, vệ sinh sạch sẽ và trang thiết đầy đủ.",ROOMS#CLEANLINESS,positive
+118,Do ở gần mái.,ROOMS#DESIGN&FEATURES,neutral
+119,"Tôi đánh giá cao dịch vụ ở khách sạn Phương Huy 1 này, dịch vụ rất ok, mọi thứ đều tốt, đạt tiêu chuẩn và tương xứng với giá cả.",ROOMS#PRICES,positive
+120,Tuy nhiên bãi biển ở đây không đẹp.,FACILITIES#DESIGN&FEATURES,negative
+121,"Phòng ốc khách sạn được trang bị đầy đủ tiện nghi, vệ sinh sạch sẽ, nhân viên khách sạn vui vẻ và nhiệt tình.",ROOMS#CLEANLINESS,positive
+122,"Tôi đánh giá chất lượng tại Mũi Né Paradise Beach Resort cũng bình thường, chưa đặc sắc lắm nhưng cũng đáp ứng được các nhu cầu cơ bản của gia đình tôi từ hệ thống phòng ốc, nhân viên phục vụ, tiện nghi đi kèm cũng như quang cảnh, vị trí và giá cả.",HOTEL#QUALITY,neutral
+123,Những món ăn khách sạn cung cấp không hợp khẩu vị của tôi và không được phong phú.,FOOD&DRINKS#STYLE&OPTIONS,negative
+124,Với lại nhân viên dọn dẹp vệ sinh phòng ốc sạch sẽ và gọn gàng nữa.,ROOMS#DESIGN&FEATURES,positive
+125,Nhưng khá bất tiện với tôi khi wifi ở đây hoạt động khá yếu.,FACILITIES#QUALITY,negative
+126,"Xét về tổng quan từ vị trí, tiện nghi đến thái độ phục vụ của nhân viên đều khiến tôi cảm thấy hài lòng.",FACILITIES#COMFORT,positive
+127,"Tổng quan về resort này là khuôn viên nhỏ, phòng nhỏ.",HOTEL#DESIGN&FEATURES,negative
+128,"Không gian của resort thoáng mát, bãi biển gần đó nên đi chơi cũng tiện, nhân viên phục vụ hiền lành và dễ gần.",HOTEL#COMFORT,positive
+129,Dưới lầu quầy massage dưới không được tốt lắm,FACILITIES#COMFORT,negative
+130,"Khách sạn Ngọc Lan Đà Lạt có vị trí ở trung tâm nên đi lại rất thuận tiện, tuy nhiên, cũng do gần trung tâm nên không gian có vẻ hơi ồn ào và cũng hạn chế view đẹp, được cái thì phòng ốc của khách sạn hơi nhỏ nhưng tiện nghi rất đầy đủ, vệ sinh sạch sẽ, đúng tiêu chuẩn 4  sao.",HOTEL#QUALITY,positive
+131,"Trang thiết bị, cơ sở vật chất được cung cấp đầy đủ.",FACILITIES#GENERAL,positive
+132,"Với tiện nghi cũng khá đầy đủ và thoải mái Tôi cảm thấy hài lòng và thích thú hơn nữa là ẩm thực ở nơi này rất ngon như nem nướng, lẩu gà lá é ở đường 3/4. v. v Nhìn chung chuyến đi du lịch đến Đà Lạt Tôi cảm thấy thật thú vị.",HOTEL#COMFORT,positive
+133,"Họ bố trí tôi ở căn phòng gọn gàng và tươm tất, nội thất hoạt động tốt.",ROOM_AMENITIES#QUALITY,positive
+134,"Cảnh quan Cần Giờ Resort mát mẻ, khuôn viên rộng rãi, tôi cảm thấy thoải mái khi trải nghiệm dịch vụ ở resort này.",HOTEL#DESIGN&FEATURES,positive
+135,"Hồ bơi sạch và rộng, nhìn chung cơ sở vật chất ở đây khá phù hợp với giá tiền.",FACILITIES#CLEANLINESS,positive
+136,Về phòng ốc ở resort thì ok nhưng ở đây có vẻ thiếu nhân viên vì khi tôi xuống ăn bữa sáng phải ngồi rất lâu mà không thấy ai đến hỏi thăm cả.,ROOMS#GENERAL,positive
+137,Tôi chỉ có một ý kiến là phòng ở đây cách âm chưa được tốt.,ROOMS#DESIGN&FEATURES,negative
+138,Còn vị trí thì ngay trung tâm nên không gần biển và giá cả cũng chấp nhận được.,HOTEL#PRICES,neutral
+139,Buffet sáng chưa được đa dạng lắm.,FOOD&DRINKS#STYLE&OPTIONS,negative
+140,Điểm trừ lớn nhất của Khách Sạn Phương Huy 1 này này chính là căn phòng khá bí vì không có cửa sổ.,ROOMS#DESIGN&FEATURES,negative
+141,"Khách sạn này thì rất tệ, phòng hôi, ẩm mốc.",ROOMS#CLEANLINESS,positive
+142,"Tuy nhiên, tôi thấy Khách Sạn Saphir Đà Lạt có cơ sở vật chất không đạt tiêu chuẩn, chỉ đạt tiêu chuẩn 4  sao.",FACILITIES#GENERAL,negative
+143,Phòng ở được chú ý dọn dẹp vệ sinh sạch sẽ và trang bị tiện nghi đầy đủ.,ROOM_AMENITIES#GENERAL,positive
+144,Chọn lựa Khách Sạn TTC Hotel Premium Ngọc Lan để nghỉ ngơi là một quyết định đúng đắn.,HOTEL#GENERAL,positive
+145,"Phòng tôi ở vị trí cuối cùng của dãy, lúc trời mưa mặc dù đã đóng cửa sổ nhưng vẫn bị nước nhiễu vào phòng.",ROOMS#MISCELLANEOUS,negative
+146,"Khách sạn có chất lượng ok, đáp ứng tốt nhu cầu nghỉ ngơi của tôi.",HOTEL#QUALITY,positive
+147,"Vật dụng, trang thiết bị cần thiết được khách sạn cung cấp đầy đủ, bố trí gọn gàng.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+148,Chúng Tôi đã trãi qua kỳ nghỉ ở đây thật thú vị.,HOTEL#COMFORT,positive
+149,"Máy lạnh chạy rầm rầm suốt đêm, mặt nhân viên thu vé cho khách vào ăn sáng thì đằng đằng sát khí chắc sợ khách ăn hết đồ ăn hay  sao đó.",ROOM_AMENITIES#COMFORT,negative
+150,"Anh bạn đi cùng gia đình tôi gọi cá thu chiên sốt me, nhìn dĩa cá chỉ có 1/2 khứa cá với cái giá 140 nghìn thì không hợp lý.",FOOD&DRINKS#PRICES,negative
+151,Tôi cảm thấy hài lòng trong thời gian ở Terracotta Hotel and Resort Đà Lạt.,HOTEL#COMFORT,positive
+152,"Phòng ốc có đỡ hơn nhưng trong phòng không đáp ứng được các tiện nghi thiết yếu nhất, không có cả điện thoại bàn.",ROOM_AMENITIES#GENERAL,negative
+153,"Phòng thì cũng sạch sẽ, gọn gàng.",HOTEL#CLEANLINESS,positive
+154,"Về vệ sinh thì sạch sẽ, nhân viên thì thái độ thân thiện, vui vẻ cũng như vị trí đi lại khá thuận tiện.",LOCATION#GENERAL,positive
+155,"View ngoài thì đẹp, nhưng nội thất bên trong phòng bình dân, đèn nhà vệ sinh và phòng ngủ quá tối.",ROOM_AMENITIES#DESIGN&FEATURES,negative
+156,"Còn cơ sở vật chất thì rất là tệ, phòng ốc cũ kĩ, trang thiết bị cũng cũ, vệ sinh thì không sạch sẽ và wifi rất là yếu.",FACILITIES#QUALITY,negative
+157,"Để đánh giá về dịch vụ tại khách sạn Phương Huy 1 Đà Lạt là mọi thứ khá ổn, đáp ứng được nhu cầu tuy không nổi bật từ vị trí toạ lạc, thái độ nhân viên phục vụ cũng như vệ sinh phòng ốc, tiện nghi đi kèm và vấn đề giá cả.",LOCATION#GENERAL,neutral
+158,Dịch vụ phòng chưa tốt.,ROOMS#GENERAL,negative
+159,"Về vệ sinh thì tương đối ổn, tiện nghi thì thiếu bình đun nước sôi nên khi nào cần nước nóng thì báo nhân viên đem lên.",HOTEL#CLEANLINESS,neutral
+160,"Nhân viên cũng lịch sự, làm việc ok, dịch vụ như vậy là đáp ứng được yêu cầu của tôi và có giá hợp lý, tôi hài lòng khi ở đây.",HOTEL#COMFORT,positive
+161,May là mình ở đây có 1 đêm.,HOTEL#GENERAL,neutral
+162,"View ngoài thì đẹp, nhưng nội thất bên trong phòng bình dân, đèn nhà vệ sinh và phòng ngủ quá tối.",ROOM_AMENITIES#QUALITY,negative
+163,"Đồ ăn nhanh xúc xích, thịt nguội 3 hôm như 1.",FOOD&DRINKS#STYLE&OPTIONS,negative
+164,Phòng đầu tiên tôi ở thì cửa toilet bị sứt nên phải báo nhân viên đổi phòng khác.,ROOM_AMENITIES#QUALITY,negative
+165,"Được điểm giá cả hợp lý, nhân viên nhiệt tình, vị trí khách sạn thuận tiện đi lại.",HOTEL#PRICES,positive
+166,"Giá phòng phù hợp, vị trí lại gần biển phù hợp cho việc đi du lịch.",ROOMS#PRICES,positive
+167,Khách Sạn Blue Sea phục vụ bữa sáng tương đối đa dạng.,FOOD&DRINKS#STYLE&OPTIONS,positive
+168,Tôi thấy khá hài lòng về dịch vụ của Terracotta Hotel and Resort Đà Lạt.,HOTEL#COMFORT,positive
+169,"Giá cả hợp lý, các tiện ích và dịch vụ cơ bản đáp ứng được yêu cầu của tôi, không có gì phàn nàn, đó là những đánh giá của tôi về dịch vụ ở khách sạn Mường Thanh Grand Đà Nẵng này, tôi hài lòng khi nghỉ tại đây.",HOTEL#PRICES,positive
+170,"- Mình đặt phòng hướng hồ bơi hơn 800 nghìn, đến nơi đề nghị đổi phòng hướng biển bù thêm 200 nghìn / đêm, phòng khá thoải mái nhưng tv bé quá, nước nóng khó điều khiển, một số đồ dùng hơi cũ.",ROOM_AMENITIES#COMFORT,positive
+171,"Về chất lượng phòng ốc thì khá tốt, giữ gìn vệ sinh sạch sẽ, nội thất, tiện nghi đầy đủ.",ROOMS#QUALITY,positive
+172,"Có nghỉ qua tại Mũi Né Paradise Beach Resor nên tôi thấy phòng ở khách sạn này hơi nhỏ, những dịch vụ trong phòng không được ổn lắm như trà, xà phòng không được tốt, bữa sáng nên được cải thiện hơn ngoài ra thì trong vệ sinh được sạch sẽ và tiện nghi đầy đủ.",FOOD&DRINKS#QUALITY,negative
+173,"Cơ sở vật chất khách sạn mới, phòng trang trí đẹp và điều kiện vệ sinh cũng sạch sẽ nên nghỉ lại rất thoải mái.",HOTEL#CLEANLINESS,positive
+174,"Những vật dụng, tiện nghi cần thiết được khách sạn cung cấp đầy đủ, gọn gàng.",FACILITIES#GENERAL,positive
+175,Thức ăn sáng được chuẩn bị chu đáo và hợp khẩu vị.,FOOD&DRINKS#QUALITY,positive
+176,"Terracotta Hotel and Resort Đà Lạt phục vụ buffet sáng khá ngon, món ăn phong phú.",FOOD&DRINKS#QUALITY,positive
+177,"Tôi đặc biệt hài lòng về vấn đề ẩm thực của resort, đầu bếp nấu ăn rất ngon.",FOOD&DRINKS#QUALITY,positive
+178,"Tôi đặt phòng trên Mytour, khi đến resort khoảng 11 giờ30, tiếp tân báo vì đang có khách nên sớm nhất 13 giờ mới đuợc nhận phòng.",SERVICE#GENERAL,negative
+179,"Tôi đi cùng với gia đình, nói chung khách sạn tốt, nhân viên thân thiện, chu đáo, phòng ốc sạch sẽ, thoải mái.",ROOMS#CLEANLINESS,positive
+180,"Nếu đánh giá về tiêu chuẩn thì khách sạn này chưa đạt chuẩn 4  sao, cửa phòng tôi không kín, hệ thống cách âm không tốt nên tôi bị ảnh hưởng bởi tiếng động bên ngoài ; buffet ít món ; khi tôi sử dụng dịch vụ ở nhà hàng bên dưới khách sạn thì nhận xét về nhân viên ở đây chưa năng động, thiếu chủ động trong việc phục vụ, khi khách yêu cầu thì mới phục vụ thì tôi thấy hơi mất thời gian nên chưa hài lòng.",ROOMS#COMFORT,negative
+181,Khách sạn có phục vụ bữa khuya và sữa cho buổi tối rất chu đáo.,FOOD&DRINKS#STYLE&OPTIONS,positive
+182,"Còn lại mọi dịch vụ khác đều ổn so với mức giá từ vệ sinh, tiện nghi đến nhân viên phục vụ cũng như vị trí đi lại.",LOCATION#GENERAL,positive
+183,"TỔng quát thì khách sạn chất lượng phục vụ rất tốt, phòng ốc đẹp, tiện nghi, sạch sẽ, trang thiết bị hiện đại, internet tốc độ cao, vị trí thuận lợi.",ROOM_AMENITIES#QUALITY,positive
+184,Tôi thấy khách sạn này cũng bình thường và vào dịp lễ thì giá hơi cao.,HOTEL#PRICES,positive
+185,"Khách Sạn Blue Sea tốt, phòng nghỉ sạch sẽ và gọn gàng, trang thiết bị đầy đủ, hoạt động tốt.",ROOM_AMENITIES#QUALITY,positive
+186,"Thêm vào đó, vị trí thuận tiện di chuyển, cùng với dịch vụ phòng ở hợp lý so với giá tiền nên tôi thấy ở được.",ROOMS#GENERAL,positive
+187,"Với lại, hiện nay resort cũng chưa có bãi tắm riêng nữa.",FACILITIES#MISCELLANEOUS,negative
+188,"Phòng ốc thì sạch sẽ, đồ đạc gọ n gàng.Nhân viên thì vui vẻ, ni ềm nở chào đón. Bữa sáng không phải buf fet nhưng ăn cũng được.Vị trí đi lại cũng tiện và giá cả thì phải chăng.",HOTEL#PRICES,positive
+189,"Khách sạn có tiện nghi đầy đủ, vệ sinh tốt, phục vụ ổn.",FACILITIES#GENERAL,positive
+190,khi ở Mũi Né Paradise Beach Resort tôi rất hài lòng.,HOTEL#COMFORT,positive
+191,"Phòng ốc đẹp, cảnh quan, không gian thoán đãng, có bể bơi trong nhà.",FACILITIES#GENERAL,positive
+192,Phòng chật nóng và có mùi.,ROOMS#COMFORT,negative
+193,Tôi hài lòng và không có điều gì khiến tôi phàn nàn khi đến đây cả.,HOTEL#COMFORT,positive
+194,Khách sạn hướng biển nên cảnh rất đẹp và đầy đủ các tiện nghi.,ROOM_AMENITIES#GENERAL,positive
+195,"Tôi đã ở nhiều lần tại Terracotta Hotel and Resort Đà Lạt nên kì nghỉ đợt này tôi cũng chọn nơi này làm điểm dừng chân và tiếp tục hài lòng về mọi thứ từ chất lượng phòng ốc, nhân viên phục vụ đến các tiện ích đi kèm cũng như vị trí, view xung quanh hay việc ăn uống và mức giá cả.",FOOD&DRINKS#QUALITY,positive
+196,Chất lượng phòng ở đáp ứng được sự thoáng mát cũng như sự sạch sẽ.,ROOMS#CLEANLINESS,positive
+197,"Ăn sáng cũng ngon, nhìn chung, với giá cả như vậy thì tôi thấy cũng hợp lý, tôi cảm thấy hài lòng khi nghỉ tại đây.",HOTEL#COMFORT,positive
+198,Tuy nhiên vẫn còn trục trặc về thiết bị.,FACILITIES#GENERAL,negative
+199,Về phòng ốc thì vệ sinh sạch sẽ nhưng có một điểm trừ là nệm lò xo nên nằm đau lưng.,ROOM_AMENITIES#COMFORT,negative
+200,Vì chất lượng dịch vụ ok nên tôi mới ở lại đây.,HOTEL#QUALITY,positive
+201,Tôi sẽ đánh giá khách sạn này ở mức cao nhất vì chất lượng nơi này tốt lắm.,HOTEL#QUALITY,positive
+202,"Trong toilet đèn sáng yếu, nước cũng yếu.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+203,Hy vọng khách sạn sẽ khắc phục lần sau.,HOTEL#GENERAL,negative
+204,"Giá cả của Ngọc Lan phải chăng với chất lượng dịch vụ phòng, khá sạch sẽ, tiện nghi.",ROOMS#CLEANLINESS,positive
+205,"Dịch vụ rất tốt, buffet sáng và buffet nướng thứ 7 rất ngon.",FOOD&DRINKS#QUALITY,positive
+206,"Cần Giờ resort là nơi tôi nghỉ dưỡng trong dịp hè vừa qua, nói chung là kì nghỉ cũng vui bởi ở đây không gian yên tĩnh, bãi biển ngay gần đó do đó đi chơi khá tiện.",HOTEL#COMFORT,positive
+207,Chuyến đi Đà Nẵng cùng gia đình của chúng Tôi vừa qua đã chọn dịch vụ khách sạn Mường Thanh Grand Đà Nẵng để nghỉ lại và thấy dịch vụ phòng ốc khang trang và lịch sự Thức ăn sáng được chuẩn bị chu đáo và khá hợp khẩu vị.,FOOD&DRINKS#QUALITY,positive
+208,"Vào gần 2 giờ chúng tôi có tiếng mở cửa rất mạnh mà không hề gõ cửa, tôi đã hô to hỏi:ai vậy, nhưng không có tiếng trả lời, nhân viên tiếp tục mở cửa phòng nhưng vướng phải chốt an toàn nên lại đóng sầm lại.",ROOMS#COMFORT,negative
+209,"Về dịch vụ phòng ốc tại Happy Day 1 Hotel theo tôi đánh giá cũng tạm ổn vì hệ thống máy nóng lạnh chập chờn, lúc thì nóng quá, lúc thì không nóng.",ROOM_AMENITIES#MISCELLANEOUS,negative
+210,"Khách sạn đẹp, nhân viên ở đây phục vụ rất tốt, thân thiện, mến khách.",HOTEL#DESIGN&FEATURES,positive
+211,Về cơ sở vật chất của Cần Giờ Resort tôi thấy cũng tương đối ổn.,FACILITIES#GENERAL,positive
+212,Họ bố trí tôi ở căn phòng khá thông thoáng và tươm tất nữa.,ROOMS#DESIGN&FEATURES,positive
+213,"So với giá dưới 1 triệu đồng thì chấp nhận được, có lẽ chúng tôi đi vào dịp tết đông khách nên không được phục vụ chu đáo, món ăn sáng nghèo nàn, bãi biển không tắm được và rất nguy hiểm với gia đình nào có trẻ nhỏ.",FOOD&DRINKS#STYLE&OPTIONS,negative
+214,"Tuy nhiên, dịch vụ phòng không tốt lắm.",ROOMS#GENERAL,negative
+215,"Về resort thì có các nhận xét sau:- vị trí:xa trung tâm, hẻo lánh cách chợ 8km.",LOCATION#GENERAL,negative
+216,Do thời điểm tôi đi ngay trúng vào lúc khách sạn Phương Huy 1 Đà Lạt đang sửa chữa nên hơi ồn.,HOTEL#MISCELLANEOUS,positive
+217,"Khách sạn Saphir là lựa chọn của tôi để nghỉ ngơi khi đến Đà Lạt và tôi thấy lựa chọ này là đúng đắn, vì phòng ốc tôi ở rất thoải mái, không có gì phàn nàn cả, nhân viên thì cũng vui vẻ và nhiệt tình, tôi đã có một chuyến đi thành công và dịch vụ ở khách sạn này góp 1 phần nhỏ vào sự thành công đó.",ROOMS#COMFORT,positive
+218,Đằng này những vật dụng phát sinh mà không biết tìm ở đâu đành gọi taxi ra thành phố.,HOTEL#MISCELLANEOUS,negative
+219,"Khách sạn khá là tốt, vị trí nằm trên đường NCT, trung tâm thành phố nên đi lại thuận tiện.",HOTEL#GENERAL,positive
+220,"Chất lượng phòng ốc thoải mái, chú ý giữ gìn vệ sinh sạch sẽ, trang bị tiện nghi, nội thất đầy đủ.",ROOMS#QUALITY,positive
+221,Giá phòng hợp lý.,ROOMS#PRICES,positive
+222,Nói chung nghĩ dưỡng tại đây vào dịp cuối tuần là lí tưởng.,HOTEL#GENERAL,positive
+223,"Diện tích phòng ở rộng rãi, được vệ sinh sạch sẽ, tiện nghi đầy đủ, rất thoải mái khi ở.",ROOMS#COMFORT,positive
+224,"Thái độ nhân viên phục vụ dễ thương, vui vẻ, khung cảnh đẹp, ăn uống ổn và giá cả phù hợp.",FOOD&DRINKS#QUALITY,positive
+225,"Terracotta Hotel and Resort Đà Lạt phục vụ buffet sáng khá ngon, món ăn phong phú.",FOOD&DRINKS#STYLE&OPTIONS,positive
+226,"Hôm đầu tiên tôi đến sớm, khách sạn chưa có phòng nên tôi gửi hành lý lại để đi chơi rồi chiều về nhận phòng.",HOTEL#GENERAL,positive
+227,Nói chung là resort phải nên chú trọng vấn đề vệ sinh an toàn thực phẩm trong bữa ăn của khách hàng.,FOOD&DRINKS#MISCELLANEOUS,negative
+228,Theo đánh giá của cá nhân tôi thì Cần Giờ Resort có chất lượng rất tốt.,HOTEL#QUALITY,positive
+229,Giá tiền hợp lý so với chất lượng dịch vụ mà Khách Sạn Phương Huy 1 Đà Lạt đang cung cấp.,HOTEL#QUALITY,positive
+230,"Phòng tôi ở thì cũ, kiếng trên bàn trang điểm bị bể và máy nóng lạnh thì bật không lên nước nóng.",ROOMS#QUALITY,negative
+231,Tôi đặt phòng với giá khá rẻ tại khách hàng này.,HOTEL#GENERAL,positive
+232,"Mình đặt phòng 2 ngày nhưng do đường ống nước bị hư nên không có phòng, khách sạn liên hệ cho mình ở khách sạn bên cạnh.",ROOM_AMENITIES#QUALITY,negative
+233,"Thức ăn thì ngon nhưng chưa có phong phú, ở lại 4 ngày 3 đêm mà ăn sáng thì lập lại giống nhau.",FOOD&DRINKS#STYLE&OPTIONS,negative
+234,Chất lượng nơi này khiến tôi hài lòng lòng.,HOTEL#QUALITY,positive
+235,"Hồ bơi cực kì bẩn, thành hồ không ai lau chùi, lá cây rơi xuống không có nhân viên thu nhặt, nước thì đụt ngầu tôi phản ánh với lễ tân thì họ bảo máy lọc nước bị hỏng.",FACILITIES#CLEANLINESS,negative
+236,Vị trí đi lại ổn và giá cả ở mức phải chăng nên tôi cũng tạm hài lòng khi lưu trú ở kì nghỉ vừa qua.,HOTEL#PRICES,positive
+237,"Phòng ốc rộng, đầy đủ tiện nghi, vệ sinh sạch sẽ và nhân viên chăm sóc khách hàng chu đáo nên tôi đã có một kì nghỉ thoái mái, vui vẻ.",ROOM_AMENITIES#GENERAL,positive
+238,Tôi hoàn toàn hài lòng về mọi dịch vụ cũng như chất lượng mà khách sạn Blue Sea đã cung cấp trong thời gian lưu trú tại đây cùng gia đình.,HOTEL#QUALITY,positive
+239,"Khách sạn đẹp, nhân viên nhiệt tình, vị trí thuận lợi, ăn sáng khá ngon.",HOTEL#DESIGN&FEATURES,positive
+240,"Thêm vào đó, vị trí thuận tiện di chuyển, cùng với dịch vụ phòng ở hợp lý so với giá tiền nên tôi thấy ở được.",ROOMS#PRICES,positive
+241,Chăn với drap cũng không được sạch lắm.,ROOM_AMENITIES#CLEANLINESS,negative
+242,"Phòng ốc đầy đủ tiện nghi, thoáng mát, được dọn dẹp sạch sẽ nhưng nếu diện tích phòng rộng hơn thì ok hơn.",ROOM_AMENITIES#GENERAL,positive
+243,bể bơi dơ,FACILITIES#CLEANLINESS,negative
+244,"Khách sạn có dịch vụ chất lượng tốt, chúng Tôi được nhận phòng nhanh chóng, tiện nghi phòng ốc được chuẩn bị khang trang và lịch sự.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+245,"Phòng ốc sạch sẽ, tiện nghi cơ bản.",ROOM_AMENITIES#GENERAL,positive
+246,Thức ăn ngon và đa dạng.,FOOD&DRINKS#STYLE&OPTIONS,positive
+247,"Phòng ở cũng đảm bảo dược sự thoáng mát, sạch sẽ.",ROOMS#COMFORT,positive
+248,Sau khi nghỉ ngơi tại khách sạn Blue Sea tôi cảm thấy cơ sở vật chất xuống cấp nhanh so với lần đầu tôi đi cách đây 1 năm.,FACILITIES#QUALITY,negative
+249,Rộng và thoáng.,HOTEL#COMFORT,positive
+250,Hồ bơi là của khu Resort Sơn Thuỷ bên cạnh và muốn bơi phải đi bộ sang và mua vé !,FACILITIES#MISCELLANEOUS,negative
+251,Khách sạn không có thang máy nên đi lại hơi khó khăn.,FACILITIES#DESIGN&FEATURES,negative
+252,"Còn về vị trí khách sạn tốt, thuận lợi đi lại.",LOCATION#GENERAL,positive
+253,"Diện tích phòng nghỉ rộng rãi, không gian mát mẻ, tạo cảm giác thư giãn khi nghỉ ngơi lại đây.",ROOMS#DESIGN&FEATURES,positive
+254,"Tổng quan nơi này đẹp, phòng ốc sạch sẽ, các bạn nhân viên vui vẻ, giá cả hợp lý.",HOTEL#PRICES,positive
+255,"Khách sạn không có thang máy nên hơi bất tiện, tuy nhiên có thể yêu cầu nhân viên khiêng vali lên tân phòng.",ROOM_AMENITIES#MISCELLANEOUS,negative
+256,Chúng tôi nghỉ chân tại khách sạn Ngọc Lan trong hai đêm.,HOTEL#GENERAL,neutral
+257,"Phòng nghỉ của tôi bài trí ấm cúng, tôi có cảm giác rất thoải mái khi nghỉ ở đây.",ROOMS#COMFORT,positive
+258,"Phòng ốc được thiết kế sang trọng, không gian ấm cúng, tiện nghi đầy đủ mà mọi thứ được sắp xếp rất hài hoà, bữa sáng thì ngon miệng và đa dạng.",HOTEL#DESIGN&FEATURES,positive
+259,Trong phòng không có điện thoại nên tôi phải đi xuống tận quầy lễ tân để gọi người lên sửa.,ROOM_AMENITIES#MISCELLANEOUS,negative
+260,"Nói chung, nhân viên nhiệt tình, nhưng cơ sở vật chất không tốt.",ROOM_AMENITIES#QUALITY,negative
+261,"Theo cá nhân tôi thấy thì dịch vụ ở khách sạn Phương Huy 1 ok, vì giá cả hợp lý, giá không cao nên cũng không có ý kiến nhiều về dịch vụ, nhìn chung thì phòng ốc cũng đạt tiêu chuẩn, vệ sinh sạch sẽ, tiện nghi có đầy đủ.",HOTEL#CLEANLINESS,positive
+262,"Tuy nhiên phòng có vẻ chưa được dọn dẹp sạch sẽ, đồ đạc bên trong hơi cũ.",ROOMS#DESIGN&FEATURES,negative
+263,Biển ở đây sạch và tắm rất được.,FACILITIES#CLEANLINESS,positive
+264,"Phòng khá tiện nghi, tuy nhiên có chút rắc rối với cái máy nước nóng lanh.",ROOM_AMENITIES#QUALITY,neutral
+265,"Phòng tôi ở có view đẹp, gần biển nên có gió mát lộng, tiện nghi đầy đủ.",ROOMS#GENERAL,positive
+266,Nhân viên dịch vụ phòng nên kiểm tra về đường điện và pin của remote để khách hàng hài lòng hơn.,ROOM_AMENITIES#MISCELLANEOUS,neutral
+267,"Buổi tối ở resort yên tĩnh, hơi buồn.",HOTEL#MISCELLANEOUS,positive
+268,"Tôi được bố trí nghỉ ngơi tại phòng 001 nhưng phòng ốc cũng như tiện nghi dơ, tất cả mọi thứ cũ.",ROOMS#GENERAL,negative
+269,Khi mới bước vào phòng thì ra giường có mùi hôi khó chịu nên tôi cũng có nhờ nhân viên thay giúp tôi thì phải chờ đến chiều thì mới có người lên hỗ trợ đổi ra giường khác.,ROOM_AMENITIES#CLEANLINESS,negative
+270,Chẳng điểm nào khiến tôi phiền lòng cả.,HOTEL#COMFORT,positive
+271,"Khách Sạn Ngọc Lan Đà Lạt là lựa chọn để nghỉ ngơi của tôi trong chuyến đi vừa rồi, tôi đánh giá dịch vụ ở đây được 9 điểm, mọi thứ đều tốt, các tiện ích cơ bản đáp ứng được yêu cầu của khách, vệ sinh chung tốt, tiện nghi đầy đủ.",FACILITIES#GENERAL,positive
+272,"Tôi thấy phòng ở của khách sạn Happy Day này hơi nhỏ, nên ở không thoải mái lắm, vệ sinh trong phòng thì khá sạch sẽ, tuy nhiên, mền ở đây hơi nhỏ.",ROOMS#DESIGN&FEATURES,positive
+273,"Phòng ở bình thường, không có vấn đề gì phát sinh cả.",ROOMS#GENERAL,neutral
+274,Phòng tôi ở giường thì xục xịch cứ kêu cót két làm ngủ không được.,ROOM_AMENITIES#COMFORT,negative
+275,"Không gian trong phòng mà tôi ở thoáng đãng, sáng sủa luôn có ánh nắng nên tôi cảm thấy rất hài lòng.",ROOMS#COMFORT,positive
+276,"Không gian xung quanh của resort rất là thoáng đãng, ở cũng thoải mái, Các dịch vụ từ phòng ở, tiện nghi, cách phục vụ của nhân viên cho đến ăn sáng cũng đều rất ổn, tôi đều hài lòng.",HOTEL#COMFORT,positive
+277,Nhìn chung thì resort này có chất lượng tốt.,HOTEL#QUALITY,positive
+278,"Lúc đi chơi về tôi thấy các vết đen bám trên lông thảm nên có gọi lễ tân hỏi, tôi được thông báo đã hút bụi rất kĩ.",ROOM_AMENITIES#MISCELLANEOUS,neutral
+279,Ở đây có chỗ tắm nhưng không thích hợp lắm với tôi vì gia đình tôi có trẻ con nên muốn có bãi tắm riêng thì sẽ thuận tiện hơn.,FACILITIES#COMFORT,negative
+280,"Phòng sạch sẽ, tuy nhỏ nhưng rất ấm cúng và đẹp, view đẹp, ăn sáng ngon và phong phú, nằm ngay tại khu vực trung tâm của Đà lạt rất tiện đi bộ hay đi xe máy đi ăn, đi chơi nhưng vẫn có sự biệt lập yên tĩnh rất tuyệt vời.",ROOMS#GENERAL,positive
+281,"Đồng thời, họ trang bị đầy đủ những tiện nghi hữu dụng.",FACILITIES#GENERAL,positive
+282,Resort có bãi đỗ xe nhưng có tính phí riêng.,FACILITIES#PRICES,negative
+283,"Nhìn chung là chất lượng cũng được, phù hợp với giá cả.",HOTEL#QUALITY,positive
+284,So với chi phí đã bỏ ra thì chất lượng khách sạn đang cung cấp cũng được.,HOTEL#QUALITY,neutral
+285,"Nhìn chung, phòng ốc ở HappyDay Hotel đạt tiêu chuẩn, vệ sinh khá sạch sẽ, dọn dẹp gọn gàng, không có gì phàn nàn khi ở đây.",ROOMS#DESIGN&FEATURES,positive
+286,"Căn phòng tôi ở hơi chật, không thoáng và không sạch sẽ lắm, phòng vệ sinh có mùi.",ROOMS#CLEANLINESS,negative
+287,"Kì nghỉ vừa qua tôi có đặt phòng ở Terracotta Hotel and Resort Đà Lạt, resort cung cấp đầy đủ các tiện nghi phục vụ cho nhu cầu nghỉ ngơi của tôi, giá cả tương xứng so với chất lượng dịch vụ.",HOTEL#PRICES,positive
+288,"Hồ bơi không có người cứu hộ, cũng không có người chăm nom, nhưng hoa trên cây rụng xuống không được vớt bỏ gì cả.",FACILITIES#MISCELLANEOUS,negative
+289,"Dịch vụ hồ bơi khá sâu, không có hồ bơi cho trẻ em, nên cũng hơi bất tiện.",FACILITIES#DESIGN&FEATURES,negative
+290,"Còn nhân viên phục vụ vui vẻ và thân thiện, vấn đề đi lại tiện lợi và giá cả phải chăng.",HOTEL#PRICES,positive
+291,"Khách sạn sạch đẹp, tiện nghi đầy đủ, ăn sáng buffet ngon, quang cảnh rất đẹp, nhân viên thân thiện, hồ bơi nước ấm, kids ground, bida, gym, spa, hair salon, xe đưa đón trung tâm rất tốt.",FACILITIES#GENERAL,positive
+292,"Họ nâng cấp miễn phí cho tôi loại phòng cao hơn, các trang thiết bị tiện nghi đều hoạt động tốt, dọn phòng tươm tất.",ROOM_AMENITIES#QUALITY,positive
+293,"Quang cảnh xung quanh không có gì, chỉ có nét độc đáo duy nhất là có vài chiếc oto cổ, trong phòng khách sạn làm theo phong cách cổ, tuy nhiên các vật liệu hết sức rẻ tiền thiết bị không thuận tiện cho người sử dụng sàn phòng tắm làm bằng gỗ không phù hợp hôi và mốc bẩn trong phòng tắm không có bồn, xà phòng bàn chải đánh răng là loại rẻ tiền chuyên dùng cho phòng trọ, ăn sáng đơn giản không có gì nhiều, nhân viên phục vụ không chuyên nghiệp.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+294,"Phong cảnh xung quanh đây tương đối đẹp, yên tĩnh là một nơi thư giãn khá lý tưởng.",HOTEL#DESIGN&FEATURES,positive
+295,Phòng rộng nhưng nên có ngăn cách giữa chỗ làm việc và giường ngủ.,ROOM_AMENITIES#DESIGN&FEATURES,negative
+296,Cộng với dịch vụ phòng ở đáp ứng được tiêu chí cơ bản về sự sạch sẽ.,ROOMS#CLEANLINESS,positive
+297,Chứ về cơ sở vật chất thì tốt.,FACILITIES#GENERAL,positive
+298,"Khách Sạn view đẹp, vị trí luận lợi, cổ điển mang phong cách riêng. Buffet sáng cần thay đổi món ăn đa dạng hơn, 3 ngày thực đơn giống nhau làm thức ăn không còn hấp dẫn. Vệ sinh cần dọn dẹp tốt hơn có 2 em gián xuất hiện trên giường - Còn lại đều ok.",FOOD&DRINKS#STYLE&OPTIONS,negative
+299,"khách sạn có dọn phòng nhưng chỉ gấp lại chăn mà không hề quét phòng, về phòng thấy chăn gối gọn gàng nhưng phòng thì bẩn nguyên nên k hiểu dọn phòng làm gì ?",ROOMS#CLEANLINESS,negative
+300,"Tuy nhiên, có 2 điểm tôi cảm thấy chưa được hài lòng đó là:vào buổi tối, xảy ra 3 hay 4 lần cúp điện khoản 5 phút rồi có lại ; truyền hình cáp thì sau 23:59 thì không có tín hiệu nhưng tới sáng hôm sau thì có lại.",ROOMS#MISCELLANEOUS,negative
+301,"Khách sạn Ngọc Lan Đà Lạt có vị trí nằm gần trung tâm nên đi lại thuận tiện, dịch vụ phòng ốc ở đây cũng tốt, vệ sinh phòng sạch sẽ, gọn gàng, tiện nghi đầy đủ, nhân viên thì lịch sự, vui vẻ, mọi thứ đều ổn, giá cả cũng khá hợp lý, tôi khá hài lòng khi nghỉ tại đây.",ROOMS#QUALITY,positive
+302,"Phòng ở đạt chất lượng, vệ sinh đảm bảo, nội thất khang trang.",ROOMS#QUALITY,positive
+303,"Tôi thấy phòng ốc ở Cần Giờ resort khá sạch sẽ, tiện nghi đầy đủ.",ROOMS#CLEANLINESS,positive
+304,Kỳ lễ vừa qua tôi có nghỉ ngơi tại Terracotta Hotel and Resort Đà Lạt tôi thấy rất hài lòng về chất lượng dịch vụ ở đây từ dịch vụ phòng ốc cũng như nhân viên cũng như vị trí đi lại mọi thứ đều có chất lượng tốt.,ROOMS#GENERAL,positive
+305,"Còn về giường nệm thì ổn, không có nước suối miễn phí trong phòng.",ROOM_AMENITIES#QUALITY,positive
+306,Thức ăn phù hợp khẫu vị !,FOOD&DRINKS#QUALITY,positive
+307,"Các dịch vụ tại khách sạn Phương Huy 1 Đà Lạt theo tôi cũng khá tốt từ vệ sinh phòng ốc sạch sẽ, thái độ nhân viên nhiệt tình, vị trí thuận tiện đi lại và giá cả phải chăng.",HOTEL#PRICES,positive
+308,Trang thiết bị tạm được.,FACILITIES#GENERAL,neutral
+309,"Mũi Né Paradise Beach Resort có chất lượng phòng ốc bị xuống cấp, sơ tường bị bong tróc, không có nước nóng, có mùi ẩm thấp, phòng hôi.",ROOMS#QUALITY,negative
+310,"Khach sạn có phong cả đẹp, thích hợp nghĩ duong.",HOTEL#DESIGN&FEATURES,positive
+311,"Họ chuẩn bị khá nhanh, dọn dẹp tương đối sạch và đồ đạc ngăn nắp.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+312,"Tuy nhiên phòng ốc và tiện nghi hơi cũ, mình chỉ thấy tạm hài lòng.",ROOM_AMENITIES#DESIGN&FEATURES,negative
+313,Phòng ốc cũng đạt được những yêu cầu cơ bản.,ROOMS#GENERAL,positive
+314,"Phòng ốc lịch sự, mỗi tội buổi tối có muỗi khiến giấc ngủ không được ngon nếu như không bật điều hòa.",ROOMS#COMFORT,negative
+315,"Khách sạn Happy Day có dịch vụ ổn, không phải là quá tốt, nhưng vì giá cả cũng không cao nên không đòi hỏi nhiều về dịch vụ của khách sạn, nhìn chung, thì khách sạn ở cũng được, phòng ốc sạch sẽ, đầy đủ các vật dụng cơ bản.",HOTEL#PRICES,positive
+316,"Sạch sẽ, thoáng mát, nhân viên rất thoải mái, dịch vụ tốt, địa điểm khách sạn nằm ngay khu trung tâm dễ dàng đi chơi, chúng tôi cảm thấy rất hài lòng khi ở tại đây, sẽ quay lại Happy hotel trong chuyến du lịch đến Đà Lạt lần sau, cám ơn Happy hotel đã cho chúng tôi một trải nghiệm tuyệt vời.",ROOMS#COMFORT,positive
+317,"Tôi cảm thấy mọi thứ ở khách sạn ổn từ phòng ốc, vệ sinh, tiện nghi đến thái độ phục vụ của các bạn nhân viên cũng như vị trí và giá cả.",HOTEL#CLEANLINESS,positive
+318,Vị trí không gần chợ lắm.,LOCATION#GENERAL,positive
+319,Tuy nhiên nhà vệ sinh nơi này đã khá cũ rồi.,ROOM_AMENITIES#DESIGN&FEATURES,positive
+320,"Phòng ốc cũng tạm ổn, nhưng vệ sinh ở khách sạn tôi chưa được hài lòng lắm.",HOTEL#CLEANLINESS,negative
+321,Vị trí khách sạn cũng khá dễ tìm và thuận tiện đi lại tham quan.,LOCATION#GENERAL,positive
+322,"Căn phòng không quá tuyệt vời nhưng sạch sẽ, trang thiết bị cơ bản là đầy đủ.",ROOMS#GENERAL,neutral
+323,"Nhân viên làm việc cũng rất nhiệt tình, chuyên nghiệp, tôi khá hài lòng khi nghỉ tại đây, dịch vụ không có gì phàn nàn.",HOTEL#COMFORT,positive
+324,Tôi hy vọng khách sạn bổ sung thêm mùng hoặc cải thiện tình trạng này để làm hài lòng khách hàng hơn.,ROOM_AMENITIES#MISCELLANEOUS,negative
+325,"Vệ sinh ngoài hành lang khá dơ, khi nhận phòng thì phòng khá nhỏ, bí vì không có ban công, phòng hôi, không có nước uống, tủ lạnh đã củ và không hoạt động được.",ROOM_AMENITIES#QUALITY,negative
+326,ban đêm rất đẹp.,HOTEL#DESIGN&FEATURES,positive
+327,Nằm ở vị trí dễ dàng tìm kiếm và khá gần chợ cũng như những địa điểm khác nên chúng Tôi cảm thấy giá cả hợp lý và chất lượng phòng cũng rất ổn.,ROOMS#QUALITY,positive
+328,"Vào khoảng 14 giờ, tôi đặt xe đi vòng quanh hồ, nhân viên hẹn lại đến 16 giờ30 nhưng vẫn không bố trí được tài xế để lái xe, tôi thấy chưa hài lòng về phần dịch vụ này lắm.",SERVICE#GENERAL,negative
+329,"Thái độ các bạn nhân viên phục vụ khách hàng chuyên nghiệp, nhiệt tình.",SERVICE#GENERAL,positive
+330,Thức ăn sáng cũng được chuẩn bị đầy đủ.,FOOD&DRINKS#QUALITY,positive
+331,Ở resort vẫn lấy tiền giữ xe là 30.000 đồng.,FACILITIES#PRICES,negative
+332,Phòng ốc không sạch sẽ.,ROOMS#CLEANLINESS,positive
+333,Nhìn chung cũng không có gì phàn nàn nhiều.,HOTEL#COMFORT,positive
+334,Phòng chật nóng và có mùi.,ROOMS#MISCELLANEOUS,negative
+335,"Khách sạn mới, sạch và đẹp.",HOTEL#DESIGN&FEATURES,positive
+336,CÓ 1 điều nhỏ là máy lạnh thỉnh thoảng bị rỉ nước bắn xuống chỗ nằm.,ROOM_AMENITIES#MISCELLANEOUS,negative
+337,Tôi chưa từng thấy ở resort nào mà lại thu phí giữ xe như ở đây cả.,FACILITIES#PRICES,negative
+338,Trả lại phòng đơn tuy nhiên khách sạn lại không hoàn trả lại số tiền này cho chúng tôi.,SERVICE#GENERAL,negative
+339,"Tuy nhiên phòng có vẻ chưa được dọn dẹp sạch sẽ, đồ đạc bên trong hơi cũ.",ROOMS#CLEANLINESS,negative
+340,"Chất lượng phòng ốc chưa tốt, một phần vì phòng cũ, một phần vì vật dụng trong phòng chưa thiết thực.",ROOM_AMENITIES#MISCELLANEOUS,negative
+341,"Nhà tắm 2 ngăn sạch sẽ, áp lực nước vòi sen rất lớn.",ROOM_AMENITIES#MISCELLANEOUS,negative
+342,Khách sạn 4  sao mà hệ thống máy lạnh nóng.,ROOM_AMENITIES#QUALITY,negative
+343,"Hồ bơi khách sạn này không sạch, xung quanh có rát, hệ thống xử lý nước chưa tốt, không có bộ lọc mặc dù lúc nào cũng có người vớt rát nhưng không vớt sạch được, mỗi lần tắm xong thì mẹ con tôi đều bị nổi mẫn đỏ.",FACILITIES#CLEANLINESS,negative
+344,"Khuôn viên rộng rãi, đồ ăn phục vụ đa dạng mà cũng ngon miệng, các hoạt động vui chơi giải trí rất vui.",FOOD&DRINKS#STYLE&OPTIONS,positive
+345,"Nước trong hồ bơi không sạch, lâu lâu mới thay một lần. Đồ ăn thì đảm bảo an toàn vệ sinh nhưng giá thành còn đắt quá.",FOOD&DRINKS#MISCELLANEOUS,positive
+346,"Phòng rộng rãi, sạch sẽ, thoáng mát, mang lại cho tôi cảm giác khá thoải mái.",HOTEL#COMFORT,positive
+347,"Phòng ốc sạch sẽ, ăn sáng ít món nhưng cũng tạm ổn.",FOOD&DRINKS#STYLE&OPTIONS,negative
+348,Nói chung là tôi cảm thấy hài lòng khi ở đây.,HOTEL#COMFORT,positive
+349,"Terracotta Hotel Resort và Spa Đà Lạt có chất lượng phòng ốc cũng được, đạt tiêu chuẩn.",ROOMS#QUALITY,positive
+350,"Vừa qua, tôi có chọn Khách Sạn Phương Huy 1 Đà Lạt làm nơi lưu trú của mình theo đánh giá của tôi thì dịch vụ ở đây chỉ ở mức trung bình, từ chất lượng phòng ốc đến thái độ làm việc của nhân viên.",ROOMS#QUALITY,neutral
+351,"Tuy nhiên, nhân viên ở bộ phần Spa tôi thấy không được nhiệt tình cho lắm.",SERVICE#GENERAL,negative
+352,"Phòng ốc với diện tích rộng rãi, vệ sinh sạch sẽ, được trang bi tiện nghi đầy đủ phù hợp nhu cầu sử dụng.",ROOMS#CLEANLINESS,positive
+353,Các trang thiết bị tại khách sạn Saphir Đà Lạt có vẻ hơi cũ nên tv hình ảnh hay bị nhiễu và không được rõ.,ROOM_AMENITIES#QUALITY,negative
+354,"Và sáng hôm sau các loại bánh mà cô tiếp tân xinh đẹp mang lên phòng cho tôi đều có mặt đầy đủ trên quầy buffet trong 3 buổi sáng liên tiếp không thay đổi = > chồng tôi bảo, thế hoá ra chiều hôm nọ họ đưa bánh thừa buổi sáng lên cho mìnH à em.",FOOD&DRINKS#MISCELLANEOUS,negative
+355,"Cách bố trí trang thiết bị hợp lý, các tiện nghi khang trang, dọn phòng kỹ lưỡng, gọn gàng.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+356,Chỉ có điều resort nên kiểm tra lại đường truyền internet và tv để nâng cao chất lượng dịch vụ hơn.,FACILITIES#QUALITY,negative
+357,"Chuyến đi Đà Lạt vừa qua Tôi chọn dịch vụ khách sạn Phương Huy 1 để nghỉ lại và thấy dịch vụ phòng ốc khang trang, tiện nghi đầy đủ, chúng Tôi được nhanh phòng và phục vụ nhiệt tình chu đáo nữa nên hoà toàn hài lòng và ấn tượng về dịch vụ này.",ROOM_AMENITIES#GENERAL,positive
+358,"phòng ốc bình thường, ngay sát biển, mọi thứ đều ổn, nhân viên nhiệt tình thân thiên, cảm ơn mytour.",LOCATION#GENERAL,neutral
+359,Sau khi về có thì có những lời khen về chất lượng khách sạn này đang cung cấp.,HOTEL#QUALITY,positive
+360,"Tuy việc phục vụ bữa sáng khá bình thường nhưng bù lại tiện nghi khách sạn khang trang, không gian sạch sẽ, thoải mái khi ở.",FOOD&DRINKS#QUALITY,neutral
+361,Giá phòng ở đây cũng phù hợp với chất lượng.,HOTEL#QUALITY,neutral
+362,"Phòng ốc lịch sự, mỗi tội buổi tối có muỗi khiến giấc ngủ không được ngon nếu như không bật điều hòa.",ROOMS#GENERAL,positive
+363,"Phòng khách sạn rất đẹp và yên tĩnh, vấn đề vệ sinh luôn được chú ý.",HOTEL#DESIGN&FEATURES,positive
+364,Đúng ra thì nên mở thêm minimart để khách tiện mua nhu yếu phẩm cần thiết.,HOTEL#MISCELLANEOUS,negative
+365,Khi bước vào phòng tôi giật mình với bình cắm hoa héo mà không thấy ai thay.,ROOMS#DESIGN&FEATURES,negative
+366,Họ bố trí tôi ở căn phòng có diện tích rộng rãi và được thiết kế tiện nghi trang nhã.,ROOMS#DESIGN&FEATURES,positive
+367,Giá lại cao so với chất lượng.,HOTEL#QUALITY,negative
+368,"Cách chế biến các món ăn trong bữa sáng chưa ngon, vì họ nêm nếm hơi lợ lợ, không mấy hợp khẩu vị với tôi.",FOOD&DRINKS#QUALITY,negative
+369,Nhân viên thì nói chuyện lịch sự và vui vẻ đón tiếp.,SERVICE#GENERAL,positive
+370,"Vừa qua, mình có một chuyến nghỉ dưỡng 2 đêm ở đây, nhìn chung thì rất tuyệt vời không có điểm gì để chê, Về vị trí thì khách sạn nằm khá xa trung tâm thành phố, mất khoảng 30 phút đi bằng Taxi, tuy nhiên bù lại thì bên trong khu Resort rất rộng lớn và rất đẹp với nhiều cây xanh và vườn hoa.",LOCATION#GENERAL,negative
+371,"Phòng rất yên tĩnh, thoáng đãng, vê sinh luôn sạch sẽ, tiện nghi đầy đủ.",ROOMS#COMFORT,positive
+372,"Tiện nghi, trang thiết bị được khách sạn cung cấp khá đầy đủ.",FACILITIES#GENERAL,positive
+373,"Tôi rất hài lòng về mọi thứ của khách sạn từ phòng ốc, vấn đề vệ sinh, tiện nghi đầy đủ đến thái độ phục vụ của các bạn nhân viên và vị trí toạ lạc.",ROOM_AMENITIES#GENERAL,positive
+374,"Khách sạn này có không gian mát mẻ rồi vệ sinh thì sạch sẽ, nhân viên thì ân cần.",HOTEL#CLEANLINESS,positive
+375,"Gia đình tôi có con nhỏ, mỗi lần muốn pha sữa phải xin khách sạn nước sôi chứ phòng không có ấm đun nước.",ROOM_AMENITIES#MISCELLANEOUS,negative
+376,"Tôi rất hài lòng về Khách Sạn Saphir Đà Lạt, phòng thoáng mát, có view nhìn ra toàn thành phố rất đẹp, nhân viên lại nhiệt tình chu đáo.",ROOMS#COMFORT,positive
+377,"Điểm cộng là không gian resort sạch sẽ, thái độ phục vụ niềm nở và vui vẻ.",HOTEL#CLEANLINESS,positive
+378,Trong phòng toilet có mùi hôi vì hệ thống đã cũ quá rồi.,ROOM_AMENITIES#CLEANLINESS,negative
+379,"Happy Day Hotel có dịch vụ cũng được, phòng ốc tôi ở được vệ sinh sạch sẽ, đầy đủ tiện nghi, dịch vụ phòng ổn và tương xứng với giá cả.",ROOM_AMENITIES#GENERAL,positive
+380,"Giá phòng phải chăng, vừa túi tiền.",ROOMS#PRICES,positive
+381,"Sau khi ở đây tôi nhận xét chất lượng và dịch vụ khá tốt từ vị trí toạ lạc, giá cả, hệ thống phòng ốc, vệ sinh tiện nghi đi kèm, nhân viên phục vụ cũng như cảnh quang xung quanh.",ROOMS#GENERAL,positive
+382,"Nhà hàng Carrot ăn ngon, buffet sáng từ 6 giờ - 9 giờ, mình đến lúc 7 giờ 30 thì đông nghịt không có chỗ ngồi, chỉ còn 2 bàn ngoài nắng nên vừa ăn sáng vừa tắm nắng lun vậy.",FOOD&DRINKS#MISCELLANEOUS,negative
+383,"Khách sạn đẹp, phòng ốc dễ thương.",ROOMS#GENERAL,positive
+384,Họ bố trí tôi ở căn phòng có diện tích rộng rãi và được thiết kế tiện nghi trang nhã.,ROOM_AMENITIES#DESIGN&FEATURES,positive
+385,"Còn về giường nệm thì ổn, không có nước suối miễn phí trong phòng.",ROOM_AMENITIES#MISCELLANEOUS,negative
+386,"Nhìn chung khách sạn sạch sẽ, cơ sở vật chất tốt, đồ ăn sáng hơi nghèo nàn nhưng tạm ổn so với tiêu chuẩn 4  sao.",FACILITIES#GENERAL,neutral
+387,"Giá thành phù hợp với chất lượng phòng, tiện nghi đầy đủ, vệ sinh đảm bảo.",ROOMS#QUALITY,positive
+388,Theo tôi nhận thấy khách sạn này có chất lượng cũng ổn.,HOTEL#QUALITY,positive
+389,"Khách sạn có không gian mát mẻ, do vệ sinh thường xuyên nên rất sạch sẽ, về nhân viên thì thân thiện, nhanh nhẹn, đồ ăn thì ngon.",FOOD&DRINKS#QUALITY,positive
+390,Khách sạn như một toà lâu đài hiện đại.,HOTEL#DESIGN&FEATURES,positive
+391,Nhân viên ở đây từ phục vụ tới lễ tân đều thân thiện và nhiệt tình.,SERVICE#GENERAL,positive
+392,Nhân viên cũng ổn.,SERVICE#GENERAL,neutral
+393,"Tôi rất hài lòng khi quyết định nghỉ ngơi tại khách sạn này từ đội ngũ nhân viên phục vụ khách hàng chuyên nghiệp đến phòng ốc chú ý giữ gìn vệ sinh chu đáo và bố trí vật dụng, nội thất cần thiết đầy đủ, gọn gàng.",ROOM_AMENITIES#GENERAL,positive
+394,"Khách sạn Ngọc Lan Đà Lạt có vị trí nằm gần trung tâm nên đi lại thuận tiện, dịch vụ phòng ốc ở đây cũng tốt, vệ sinh phòng sạch sẽ, gọn gàng, tiện nghi đầy đủ, nhân viên thì lịch sự, vui vẻ, mọi thứ đều ổn, giá cả cũng khá hợp lý, tôi khá hài lòng khi nghỉ tại đây.",HOTEL#COMFORT,positive
+395,Nên trang bị thêm quạt vì đôi khi buổi trưa ở Đà Lạt khá nóng.,ROOM_AMENITIES#COMFORT,negative
+396,"Tuy nhiên theo tôi quan sát thì thấy vẫn còn 1 phòng trống, không ai ở hết.",ROOMS#MISCELLANEOUS,negative
+397,"Gần khách sạn có nhiều điểm tham quan, di tích lịch sử nổi tiếng.",LOCATION#GENERAL,positive
+398,"Khách sạn Blue Sea có vẻ hơi cũ, tiện nghi phòng ốc hơi cũ nên cảm thấy chưa được bắt mắt lắm, bù lại thì tiện nghi cũng tương đối đầy đủ, vệ sinh sạch sẽ, nhân viên thân thiện và vị trí gần biển nên đi lại thuận tiện.",ROOM_AMENITIES#QUALITY,negative
+399,Nhưng có lẽ kiến trúc khách sạn này không phù hợp với tôi vì theo phong cách cổ kính nên tôi không thích lắm.,HOTEL#DESIGN&FEATURES,negative
+400,Thức ăn ngon và đa dạng.,FOOD&DRINKS#QUALITY,positive
+401,"Vòi nước thì có nước chảy tùm lum, lavabo thì nước rút chậm.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+402,"Nhìn chung, thì dịch vụ ở Paradise  Mũi Né không có gì phàn nàn cả.",SERVICE#GENERAL,neutral
+403,"Tôi nghĩ buổi trưa 12 giờ thì đâu có khách nào bơi đâu, đáng lẽ giờ đó họ nên vệ sinh hồ, còn buổi sáng sớm trời sẽ mát nên dành thời gian đó để khách có thể được bơi sớm hơn.",FACILITIES#CLEANLINESS,negative
+404,"Chất lượng phòng ốc chưa tốt, một phần vì phòng cũ, một phần vì vật dụng trong phòng chưa thiết thực.",ROOMS#QUALITY,negative
+405,"Từ thái độ nhân viên đến chất lượng phòng ốc, tiện nghi, các trang thiết bị trong phòng cũng như vị trí thuận tiện và giá cả đều bình thường.",ROOMS#QUALITY,positive
+406,"Nhân viên nhiệt tình, thức ăn ngon, vị trí đẹp, vệ sinh sạch sẽ.",HOTEL#CLEANLINESS,positive
+407,"Khách sạn bình thường, nhưng vị trí tốt.",LOCATION#GENERAL,positive
+408,Khách sạn có phong cách cổ kín và đẹp rất khác so với những nơi chúng tôi từng ở.,HOTEL#DESIGN&FEATURES,positive
+409,Khách Sạn Saphir Đà Lạt đang có công trình sửa chữa nên nhìn chưa được tươm tất lắm.,HOTEL#MISCELLANEOUS,positive
+410,"Phòng ốc được dọn dẹp vệ sinh sạch sẽ, nội thất trong phòng được trang bị đầy đủ nghi đầy đủ, cung cách phục vụ của nhân viên khách sạn này ok, nhiệt tình, thân thiện.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+411,Còn giá cả thì tôi thấy cũng tương xứng với chất lượng.,HOTEL#QUALITY,positive
+412,"Phòng ốc thì không giống như quảng cáo, hơi cũ, tv cũng cũ và nhỏ, tủ lạnh thì không có và vệ sinh thì tương đối. Nhân viên thì thái độ lịch sự và lễ phép.Vị trí đi lại thuận tiện và giá cả thì hợp lý.",ROOM_AMENITIES#MISCELLANEOUS,negative
+413,"Đánh giá nơi này quang cảnh đẹp, yên tĩnh, phòng ốc thì sạch sẽ, trang thiết bị đầy đủ đến các bé nhân viên lễ phép và thân thiện.",ROOM_AMENITIES#GENERAL,positive
+414,"Nhân viên thì vui vẻ, lịch sự, không gian thoáng mát, rộng rãi, các tiện ích có đầy đủ.",FACILITIES#GENERAL,positive
+415,"Trang thiết bị, tiện nghi khách sạn cung cấp khá đầy đủ.",FACILITIES#GENERAL,positive
+416,"Bù lại, thái độ phục vụ, cung cách đón tiếp của nhân viên resort tốt, họ lịch sự với khách hàng nên tôi thấy tạm ổn.",SERVICE#GENERAL,positive
+417,"Khách sạn Yên tĩnh, gần chợ.",HOTEL#COMFORT,positive
+418,"Hôm tôi đến khách sạn xếp tôi phòng ở đưới tầng hầm, phòng vệ sinh thì có mùi hôi, khách sạn thì tối.",ROOM_AMENITIES#CLEANLINESS,negative
+419,Sau khi đi về thì ba mẹ tôi không hề phàn nàn gì về dịch vụ cả.,SERVICE#GENERAL,positive
+420,"Happy Day 1 Hotel có dịch vụ ok, tôi đi lần này và cảm thấy hài lòng khi nghỉ tại đây.",HOTEL#COMFORT,positive
+421,"Phòng ốc có thiết kế đẹp, vệ sinh đảm bảo.",ROOMS#CLEANLINESS,positive
+422,Các trang thiết bị nội thất hoạt động tốt.,ROOM_AMENITIES#QUALITY,positive
+423,Tôi khuya muộn tôi mới nhận được phòng mà căn phòng không lấy gì làm tốt cho lắm.,ROOMS#DESIGN&FEATURES,positive
+424,"Bữa sáng khá chán, bởi vì lượng khách ít nên resort không tổ chức buffet mà mỗi người chỉ chọn 1 món với tí hoa quả thôi.",FOOD&DRINKS#STYLE&OPTIONS,negative
+425,Bữa sáng hợp khẩu vị của tôi.,FOOD&DRINKS#QUALITY,positive
+426,"Tuy nhiên, tôi thấy phòng chưa được sạch lắm, không có máy sấy tóc cho khách sử dụng.",ROOMS#CLEANLINESS,negative
+427,Họ xếp tôi ở căn phòng có đầy đủ những tiện nghi hiện đại.,ROOM_AMENITIES#DESIGN&FEATURES,positive
+428,"Cơ sở hạ tầng trang nhã, thiết bị nội thất hiện đại.",FACILITIES#QUALITY,positive
+429,Cảm ơn myotur đã hỗ trợ tôi đặt phòng nhanh chóng và giá tốt.,ROOMS#PRICES,positive
+430,"Lúc đầu tôi thấy không vui lắm, tại vì họ xếp tôi ở căn phòng gác mái.",ROOMS#DESIGN&FEATURES,negative
+431,Chất lượng cũng tốt.,ROOMS#QUALITY,positive
+432,"Tuy khách sạn không hỗ trợ cho trẻ em và người khuyết tật xe lăn vì không có đường lên cho xe đẩy, xe lăn.",FACILITIES#DESIGN&FEATURES,negative
+433,"Tôi cảm thấy hơi buồn vì thời điểm tôi ở đây là thứ sáu, hơi vắng người.",HOTEL#MISCELLANEOUS,negative
+434,"Từ khách sạn có thể đi bộ ra chợ Đà Lạt và hồ Xuân Hương, chỉ mất khoảng 5 phút.",LOCATION#GENERAL,positive
+435,"Resort này có ưu điểm về vị trí bãi biển khá đẹp, thái độ nhân viên phục vụ niềm nở, đồ ăn sáng cũng ngon miệng còn về chất lượng phòng thì tôi chẳng hài lòng tí nào.",ROOMS#QUALITY,negative
+436,Nhóm chúng tôi đi toàn những người trẻ nhưng phong cách của khách sạn hơi cổ kính như toà lâu đài nên không phù hợp cho lắm.,HOTEL#DESIGN&FEATURES,negative
+437,Khách Sạn Phương Huy 1 Đà Lạt không có thang máy nên đi lên xuống hơi vất vả chút.,FACILITIES#DESIGN&FEATURES,negative
+438,"Mũi Né Paradise Beach Resort thiết kế đẹp, phòng ốc sạch sẽ, nhân viên thân thiện.",HOTEL#CLEANLINESS,positive
+439,Tiện nghi trong phòng được trang bị khang trang lịch sự.,ROOM_AMENITIES#DESIGN&FEATURES,positive
+440,Tuy nhiên tôi nhận thấy máy nước nóng hoạt động chưa được ổn định lắm.,ROOM_AMENITIES#MISCELLANEOUS,negative
+441,"Khi đặt phòng tôi đã phân vân hướng nhìn ra hồ đẹp vào buổi sáng hay nhìn thành phố lên đèn, sau một hồi suy nghĩ quyết định chọn hướng chiêm ngưỡng thành phố về đêm nên đã chọn hướng city view.",ROOMS#GENERAL,neutral
+442,Vị trí gần bãi biển.,LOCATION#GENERAL,positive
+443,"sảnh  ồn ào, bẩn, cẩu thả.",HOTEL#COMFORT,negative
+444,"Mọi thứ đều tốt và đáp ứng đủ nhu cầu từ vệ sinh phòng ốc, tiện nghi đi kèm đến nhân viên phục vụ cũng như vị trí và giá cả.",ROOMS#PRICES,positive
+445,Với lại bữa sáng cũng ít món nữa.,FOOD&DRINKS#STYLE&OPTIONS,negative
+446,Giá cả ở đây cũng rất hợp lý nên tôi cảm thấy hài lòng.,HOTEL#COMFORT,positive
+447,"Mà hình như là máy nước nóng không hoạt động, nhưng do thời tiết nóng nên tôi cũng chỉ dùng nước lạnh.",ROOM_AMENITIES#QUALITY,negative
+448,- Phòng họp:Máy điều hoà hư mà không sửa chữa.,ROOM_AMENITIES#QUALITY,negative
+449,"Tuy nhiên tôi cũng có góp ý là thức ăn trong resort không ngon, nếu nâng cao chất lượng món ăn cũng như đa dạng hơn thì tôi sẽ hài lòng hơn nữa.",FOOD&DRINKS#STYLE&OPTIONS,negative
+450,"Nhìn chung, phòng ốc ở HappyDay Hotel đạt tiêu chuẩn, vệ sinh khá sạch sẽ, dọn dẹp gọn gàng, không có gì phàn nàn khi ở đây.",HOTEL#DESIGN&FEATURES,positive
+451,Tuy nhiên giường nệm hơi cứng.,ROOM_AMENITIES#COMFORT,positive
+452,Máy nước nóng lạnh điều chỉnh dễ dàng.,ROOM_AMENITIES#MISCELLANEOUS,positive
+453,"Các phòng đơn hơi nhỏ một chút, phòng đôi thì khá rộng rãi, có ban công và cửa sổ.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+454,Tôi thấy căn phòng mà tôi đang ở chưa phù hợp tiêu chuẩn 3  sao vì trang thiết bị nội thất cũ và thiết kế chưa được đẹp.,ROOMS#DESIGN&FEATURES,negative
+455,"Chất lượng phòng nghỉ phù hợp với nhu cầu nghỉ ngơi, tiện nghi được trang bị đầy đủ, họ chuẩn bị phòng ốc khá chu đáo, ngăn nắp.",ROOMS#QUALITY,positive
+456,Vào buổi tối thì đường đi không có đèn nên khá tối. 4.,HOTEL#MISCELLANEOUS,negative
+457,"Căn phòng hiện đại, đẹp, view tốt.",ROOMS#DESIGN&FEATURES,positive
+458,"Vừa qua, mình có một chuyến nghỉ dưỡng 2 đêm ở đây, nhìn chung thì rất tuyệt vời không có điểm gì để chê, Về vị trí thì khách sạn nằm khá xa trung tâm thành phố, mất khoảng 30 phút đi bằng Taxi, tuy nhiên bù lại thì bên trong khu Resort rất rộng lớn và rất đẹp với nhiều cây xanh và vườn hoa.",HOTEL#DESIGN&FEATURES,positive
+459,"Phòng ở bố trí tiện nghi, nội thất cần thiết đầy đủ.",ROOM_AMENITIES#GENERAL,positive
+460,Nhìn chung chất lượng rất xứng đáng với tiêu chuẩn 4  sao và tôi hài lòng khi ở đây.,HOTEL#QUALITY,positive
+461,"Ăn sáng thì cũng ít món, chưa đa dạng lắm nhưng ăn được.",FOOD&DRINKS#STYLE&OPTIONS,positive
+462,"Giá cả hợp lý, các tiện ích và dịch vụ cơ bản đáp ứng được yêu cầu của tôi, không có gì phàn nàn, đó là những đánh giá của tôi về dịch vụ ở khách sạn Mường Thanh Grand Đà Nẵng này, tôi hài lòng khi nghỉ tại đây.",FACILITIES#GENERAL,positive
+463,"Chuyến đi tham quan du lịch đà lạt vừa qua Tôi chọn dịch vụ khách sạn Phương Huy 1 và thấy được nhận phòng ốc sạch sẽ, có đầy đủ tiện nghi và đón tiếp chu đáo Tôi cảm thấy rất hài lòng về dịch vụ này.",ROOM_AMENITIES#GENERAL,positive
+464,"Hồ bơi sạch và rộng, nhìn chung cơ sở vật chất ở đây khá phù hợp với giá tiền.",FACILITIES#PRICES,positive
+465,Cần Giờ Resort này có chất lượng và dịch vụ được.,HOTEL#QUALITY,positive
+466,Tuy nhiên có một điều bất tiện là toilet hay bị nghẹt.,ROOM_AMENITIES#QUALITY,negative
+467,Khách sạn gần trung tâm và chợ - phòng vệ sinh sạch sẽ - tiện nghi tạm ổn riêng phòng tắm vòi sen không có chỗ gắn lên tường nên hơi bất tiện - Khách sạn nhỏ nên không có thang máy.,ROOM_AMENITIES#DESIGN&FEATURES,negative
+468,Tôi đặt cho người nhà và nhận được phản hồi chất lượng tiện nghi phòng ốc chưa tốt cho lắm có lẽ theo thời gian nên chưa mới.,ROOM_AMENITIES#QUALITY,negative
+469,"Về dịch vụ phòng thì tôi thấy cũng tốt, sạch sẽ, gọn gàng, tương xứng với giá cả.",ROOMS#PRICES,positive
+470,"Phòng resort sạch sẽ, tiện nghi cũng tương đối đầy đủ.",ROOM_AMENITIES#GENERAL,positive
+471,Vị trí đi lại dễ dàng và giá cả phải chăng.,LOCATION#GENERAL,positive
+472,"Bãi biển phía trước resort đang xây dựng 1 bức tường lớn, nên muốn ra biển phải đi một quãng xa 500m.",HOTEL#MISCELLANEOUS,positive
+473,Mình nghĩ 2  sao nhưng nếu chịu khó chăm chút 1 tí có khi lại được lòng khách hơn những resort cao cấp khác.,HOTEL#GENERAL,positive
+474,Việc xây dựng rất ồn ào.,HOTEL#MISCELLANEOUS,positive
+475,"Xung quanh resort có phong cảnh đẹp, hồ bơi và bãi biển sạch sẽ.",FACILITIES#CLEANLINESS,positive
+476,"Phòng ốc đạt tiêu chuẩn, sạch sẽ, gọn gàng, tươm tất, trang bị đầy đủ tiện nghi.",ROOMS#CLEANLINESS,positive
+477,Theo đánh giá của cá nhân tôi thì chất lượng khách sạn này nhìn chung tốt.,HOTEL#QUALITY,positive
+478,"Vị trí thì nằm trong hẻm, các dịch vụ còn lại đều ok, phòng khá sạch sẽ, ở cũng không có gì phàn nàn, đầy đủ tiện nghi cơ bản.",ROOM_AMENITIES#GENERAL,positive
+479,Lại thêm vấn đề buffet không ngon nữa.,FOOD&DRINKS#QUALITY,negative
+480,"Mọi thứ ở đây từ phòng ốc, nhân viên cho đến bữa ăn đều khá ok và tôi có thể cho khách sạn được 10 điểm về chất lượng.",ROOMS#GENERAL,positive
+481,"Bên cạnh đó, căn phòng họ sắp xếp tôi ở cũng đáp ứng được những tiêu chí cơ bản về sự thoáng mát, sạch sẽ.",ROOMS#COMFORT,positive
+482,"Tôi đánh giá chất lượng tại Mũi Né Paradise Beach Resort cũng bình thường, chưa đặc sắc lắm nhưng cũng đáp ứng được các nhu cầu cơ bản của gia đình tôi từ hệ thống phòng ốc, nhân viên phục vụ, tiện nghi đi kèm cũng như quang cảnh, vị trí và giá cả.",HOTEL#PRICES,neutral
+483,Ăn sáng tuy không phong phú nhưng chất lượng.,FOOD&DRINKS#QUALITY,positive
+484,Phòng ốc tương đối được so với giá tiền tôi bỏ ra.,ROOMS#PRICES,neutral
+485,"Phòng ốc thì đã cũ, cửa toilet không khoá được, trong những phòng tôi đặt thì có phòng không có quạt phải gọi bổ sung, máy nước nóng lúc có lúc không, nghỉ ngơi thì cũng tạm thôi.",ROOM_AMENITIES#QUALITY,negative
+486,"Tôi đánh giá chất lượng tại Mũi Né Paradise Beach Resort cũng bình thường, chưa đặc sắc lắm nhưng cũng đáp ứng được các nhu cầu cơ bản của gia đình tôi từ hệ thống phòng ốc, nhân viên phục vụ, tiện nghi đi kèm cũng như quang cảnh, vị trí và giá cả.",FACILITIES#GENERAL,neutral
+487,Vị trí thì hơi buồn do khách du lịch tập trung phía trên nhiều hơn.,LOCATION#GENERAL,negative
+488,"Phòng ốc vệ sinh sạch sẽ, tiện nghi cơ bản.",HOTEL#CLEANLINESS,positive
+489,"Nhân viên thì vui vẻ, lịch sự, không gian thoáng mát, rộng rãi, các tiện ích có đầy đủ.",HOTEL#DESIGN&FEATURES,positive
+490,Với giả rẻ chỉ tầm 200 nghìn thì tôi hài lòng khi nghỉ tại đây.,HOTEL#COMFORT,positive
+491,"Phòng cũng rộng rãi, thoáng mát, tiện nghi, đạt tiêu chuẩn.",ROOMS#COMFORT,positive
+492,"Khách sạn Blue Sea có vẻ hơi cũ, tiện nghi phòng ốc hơi cũ nên cảm thấy chưa được bắt mắt lắm, bù lại thì tiện nghi cũng tương đối đầy đủ, vệ sinh sạch sẽ, nhân viên thân thiện và vị trí gần biển nên đi lại thuận tiện.",ROOM_AMENITIES#DESIGN&FEATURES,negative
+493,"Khách sạn có vị trí tốt, tiện nghi sang trọng, phục vụ nhiệt tình.",LOCATION#GENERAL,positive
+494,Kì nghỉ mát vừa qua ở Đà Lạt tôi có chọn Happy Day 1 Guesthouse làm nơi lưu trú và có vài ý kiến sau.,HOTEL#GENERAL,positive
+495,"Giá phòng bình dân nên phòng ốc cũng tương đối, khách sạn cũng dọn dẹp sạch sẽ và chuẩn bị đầy đủ tiện nghi.",ROOMS#CLEANLINESS,positive
+496,"Bãi tắm thì cũng như các resort khác:Bãi sau, nước không sạch lắm.",FACILITIES#CLEANLINESS,negative
+497,"Nơi đây tập trung rất nhiều chỗ ăn uống khá ngon, giá tốt.",HOTEL#MISCELLANEOUS,positive
+498,"Họ đã sắp xếp phòng cho chúng tôi rất lãng mạn, ngọt ngào làm chúng tôi cảm giác thật hạnh phúc.",ROOMS#COMFORT,positive
+499,"Điểm trừ duy nhất là diện tích phòng hơi nhỏ, chứ vệ sinh thì đảm bảo, sạch sẽ tinh tươm.",ROOMS#DESIGN&FEATURES,negative
+500,"Chỉ có một việc nhỏ là máy nước nóng yếu và không được nóng, resort nên check lại việc này.",ROOM_AMENITIES#MISCELLANEOUS,negative
+501,Trong phòng không có sẵn máy sấy hay bình nước nóng nên mỗi lần cần thì phải gọi nhân viên để họ đem lên.,ROOM_AMENITIES#MISCELLANEOUS,negative
+502,"sảnh  ồn ào, bẩn, cẩu thả.",HOTEL#CLEANLINESS,negative
+503,"Thái độ nhân viên thì bình thường, vị trí cũng gần chợ, thuận tiện đi lại.",SERVICE#GENERAL,positive
+504,"Nhân viên phục vụ dễ thương, vị trí gần biển và giá tiền phù hợp.",LOCATION#GENERAL,positive
+505,"Phòng ở được giữ vệ sinh sạch sẽ, tiện nghi, trang thiêt bị trong phòng khách sạn trang bị đầy đủ hơn nữa nhân viên nơi này phục vụ rất chu đáo, nhiệt tình.",ROOM_AMENITIES#GENERAL,positive
+506,"Buffet buổi sáng khoảng 10-15 món, nước uống có cà phê, nước thơm, sữa đậu nành, nước lọc.",FOOD&DRINKS#STYLE&OPTIONS,positive
+507,"Khách Sạn Blue Sea tốt, phòng nghỉ sạch sẽ và gọn gàng, trang thiết bị đầy đủ, hoạt động tốt.",HOTEL#GENERAL,positive
+508,"Thứ hai dịch vụ ăn uống không ngon, buffet bữa có bữa không, ít món và dở.",FOOD&DRINKS#QUALITY,negative
+509,Tôi thấy rất hài lòng khi đã chọn dịch vụ khách sạn Blue Sea này để nghỉ ngơi và tắm biển.,HOTEL#COMFORT,positive
+510,"Với mức giá mềm như vậy thì khá ok, tiện nghi cũng không có gì để phàn nàn cả, nhân viên làm việc cũng lịch sự nhiệt tình.",ROOM_AMENITIES#GENERAL,positive
+511,"Do đi ngày thường nên khách sạn không có buffe chỉ được gọi 1 món ăn + 1 ly nước thôi ăn hủ tíu hải sán / bánh mì ốp la, uống có cf sữa, cam tan, đá chanh hơi ít sự lựa chọn.",FOOD&DRINKS#STYLE&OPTIONS,negative
+512,Với mức giá quá cao không xứng đồng tiền bỏ ra.,HOTEL#PRICES,negative
+513,"Khu này thích hợp để nghỉ dưỡng, tôi hài lòng khi nghỉ tại đây.",HOTEL#COMFORT,positive
+514,"Không gian sinh hoạt ngoài phòng rất rộng, thoải mái.",ROOMS#DESIGN&FEATURES,positive
+515,"Chỉ có điều resort ngay biển, nhưng bờ biển lại nhiều rác, cần sớm được cải thiện.",LOCATION#GENERAL,negative
+516,"Tôi thấy khu vực hồ bơi và cảnh quang xung quanh resort nhìn chưa được sạch cho lắm, có bụi cát và cũng không thấy ai dọn dẹp cả.",FACILITIES#CLEANLINESS,negative
+517,"Anh nhận thấy khách sạn chỉ bình thường, nhưng tv thì cũ và nhiễu sóng.",ROOM_AMENITIES#QUALITY,negative
+518,"Nhìn chung khách sạn sạch sẽ, cơ sở vật chất tốt, đồ ăn sáng hơi nghèo nàn nhưng tạm ổn so với tiêu chuẩn 4  sao.",HOTEL#CLEANLINESS,positive
+519,"Thêm vào đó, vị trí thuận tiện di chuyển, cùng với dịch vụ phòng ở hợp lý so với giá tiền nên tôi thấy ở được.",ROOMS#GENERAL,positive
+520,"Khách sạn có vị trí tốt, nhưng tiện nghi không được sang trọng, giá cả lại không được phù hợp với chất lượng.",ROOM_AMENITIES#DESIGN&FEATURES,negative
+521,Phòng cách Access point chỉ khoảng 10m mà không bắt được.,FACILITIES#QUALITY,negative
+522,"Khách sạn ở khu vực đông đúc nhưng trong phòng rất yên tĩnh, thoải mái để nghỉ ngơi, tiện nghi tương đối ổn.",HOTEL#COMFORT,positive
+523,Vả lại bữa sáng còn nghèo nàn.,FOOD&DRINKS#STYLE&OPTIONS,negative
+524,"Nếu đánh giá về tiêu chuẩn thì khách sạn này chưa đạt chuẩn 4  sao, cửa phòng tôi không kín, hệ thống cách âm không tốt nên tôi bị ảnh hưởng bởi tiếng động bên ngoài ; buffet ít món ; khi tôi sử dụng dịch vụ ở nhà hàng bên dưới khách sạn thì nhận xét về nhân viên ở đây chưa năng động, thiếu chủ động trong việc phục vụ, khi khách yêu cầu thì mới phục vụ thì tôi thấy hơi mất thời gian nên chưa hài lòng.",HOTEL#QUALITY,negative
+525,"Ưu điểm:Ăn sáng ngon, không gian đẹp, phục vụ nhiệt tình.",FOOD&DRINKS#QUALITY,positive
+526,"tiện nghi trong phòng quá tệ, ban đêm không có tiếp tân trực để hỗ trợ cho khách, một đoàn khách tạp nham ồn ào cả tầng vào nửa đêm làm phiền khách nhưng khách sạn không có nhân viên nào để giải quyết.",ROOM_AMENITIES#QUALITY,negative
+527,"Trong chuyến du lịch vừa qua tôi có đặt phòng tại khách sạn Phương Huy 1 Đà Lạt làm nơi nghỉ ngơi và sau khi ở đây tôi cảm thấy hài lòng về mọi thứ từ nhân viên phục vụ, phòng ốc tiện nghi đến vị trí và giá cả.",ROOMS#GENERAL,positive
+528,Không có điều gì phát sinh khi tôi sử dụng dịch vụ tại đây cả.,HOTEL#COMFORT,positive
+529,Vệ sinh vô cùng sạch sẽ !,HOTEL#CLEANLINESS,positive
+530,Các món ăn trưa và tối rất đơn điệu và khó gọi món cho du lịch 2 người.,FOOD&DRINKS#STYLE&OPTIONS,negative
+531,"Phòng sạch sẽ, tuy nhỏ nhưng rất ấm cúng và đẹp, view đẹp, ăn sáng ngon và phong phú, nằm ngay tại khu vực trung tâm của Đà lạt rất tiện đi bộ hay đi xe máy đi ăn, đi chơi nhưng vẫn có sự biệt lập yên tĩnh rất tuyệt vời.",FOOD&DRINKS#QUALITY,positive
+532,"Sau khi nghỉ ngơi tại khách sạn Happy Day 1 Hotel cùng gia đình trong kì nghỉ mát vừa qua thì tôi nhận xét các dịch vụ cũng như chất lượng cũng tốt từ vệ sinh, tiện nghi, phòng ốc, nhân viên phục vụ đến vị trí và giá cả.",HOTEL#CLEANLINESS,positive
+533,"Nhân viên cũng rất nhiệt tình, có điều cách âm hơi bị kém.",ROOMS#DESIGN&FEATURES,negative
+534,"Phòng thì rộng, thoáng ở rất thoải mái.",ROOMS#DESIGN&FEATURES,positive
+535,"Terracotte Resort có nhiều loại phòng khác nhau đáp ứng nhu cầu cho mọi loại đối tượng phòng khách sạn, căn hộ villa. .",HOTEL#MISCELLANEOUS,positive
+536,"Nhân viên chuẩn bị phòng ốc khá chu đáo, vệ sinh phòng được chú trọng dọn dẹp sạch sẽ, gọn gàng.",SERVICE#GENERAL,positive
+537,"Trong chuyến đi vừa qua, tôi có chọn khách sạn này để lưu trú và tôi không ở lòng ở khâu vệ sinh vì không được sạch sẽ.",HOTEL#CLEANLINESS,negative
+538,"Chất lượng phòng ốc ok, không gian thoáng mát và được trang bị đầy đủ tiện nghi cho tôi sử dụng.",ROOMS#QUALITY,positive
+539,Chất lượng phòng ở Cần Giờ Resort có chất lượng tương đối tốt.,ROOMS#QUALITY,positive
+540,Nhưng nhìn chung tiện nghi nội thất trong phòng là khá ổn.,ROOM_AMENITIES#QUALITY,positive
+541,"Vị trí cũng thuận tiện đi lại, giá cả cũng khá hợp lý, phù hợp với nhu cầu sử dụng của tôi.",HOTEL#PRICES,positive
+542,Căn phòng không có ban công như mong đợi nhưng bù lại có cửa sổ view hướng biển nên tôi cũng tạm hài lòng.,ROOMS#GENERAL,positive
+543,"Phòng ốc khá là thoải mái, rộng rãi, khăn tắm thì không được sạch sẽ lắm nhưng vì tôi có mang khăn theo nên cũng không phản ánh với khách sạn.",ROOMS#DESIGN&FEATURES,positive
+544,"Phòng ốc sạch sẽ, đẹp, nhân viên chuyên nghiệp và lịch sự, đúng với tiêu chuẩn mà khách sạn để.",ROOMS#DESIGN&FEATURES,positive
+545,"Về dịch vụ chung thì cơ bản là tốt, vệ sinh sạch sẽ, không gian thoáng mát.",HOTEL#CLEANLINESS,positive
+546,"Khi nhận phòng thì tôi thấy phòng của tôi có diện tích hơi nhỏ, trần nhà thấp do vậy mà không gian hơi ngộp một tí.",ROOMS#DESIGN&FEATURES,positive
+547,"Trong chuyến đi vừa rồi tôi có chọn khách sạn Blue Sea để nghỉ ngơi và nhận thấy dịch vụ khách sạn đang cung cấp tốt từ nhân viên có thái độ vui vẻ, nhiệt tình với khách hàng đến phòng ốc được chú ý vệ sinh sạch sẽ, tiện nghi cơ bản đầy đủ.",ROOM_AMENITIES#GENERAL,positive
+548,"Khuôn viên rộng rãi, đồ ăn phục vụ đa dạng mà cũng ngon miệng, các hoạt động vui chơi giải trí rất vui.",HOTEL#MISCELLANEOUS,positive
+549,Nói chung chất lượng phòng ốc tôi không hài lòng nhưng tôi phải công nhận là lễ tân khách sạn họ nhiệt tình.,ROOMS#QUALITY,positive
+550,Giá cả thì tôi thấy khá rẻ.,HOTEL#PRICES,positive
+551,"Khách Sạn view đẹp, vị trí luận lợi, cổ điển mang phong cách riêng. Buffet sáng cần thay đổi món ăn đa dạng hơn, 3 ngày thực đơn giống nhau làm thức ăn không còn hấp dẫn. Vệ sinh cần dọn dẹp tốt hơn có 2 em gián xuất hiện trên giường - Còn lại đều ok.",FACILITIES#DESIGN&FEATURES,positive
+552,"Theo tôi thì có vẻ Mũi Né Paradise Beach Resort này đang bị xuống cấp, phòng ốc ở đây cũng hơi cũ, tôi thấy cũng không đạt tiêu chuẩn 3  sao cho lắm.",ROOMS#QUALITY,negative
+553,"Quang cảnh xung quanh không có gì, chỉ có nét độc đáo duy nhất là có vài chiếc oto cổ, trong phòng khách sạn làm theo phong cách cổ, tuy nhiên các vật liệu hết sức rẻ tiền thiết bị không thuận tiện cho người sử dụng sàn phòng tắm làm bằng gỗ không phù hợp hôi và mốc bẩn trong phòng tắm không có bồn, xà phòng bàn chải đánh răng là loại rẻ tiền chuyên dùng cho phòng trọ, ăn sáng đơn giản không có gì nhiều, nhân viên phục vụ không chuyên nghiệp.",ROOM_AMENITIES#MISCELLANEOUS,negative
+554,Giá cả như vậy cũng khá phù hợp.,HOTEL#PRICES,positive
+555,"Phòng ở được giữ vệ sinh sạch sẽ, tiện nghi, trang thiêt bị trong phòng khách sạn trang bị đầy đủ hơn nữa nhân viên nơi này phục vụ rất chu đáo, nhiệt tình.",ROOMS#COMFORT,positive
+556,Khâu vệ sinh được chú ý khá sạch sẽ.,ROOMS#CLEANLINESS,positive
+557,"Happy Day 1 Hotel có phòng hơi chật, không được ấn tượng với tôi cho lắm, cửa nhà vệ sinh cũng bị hỏng, không có đóng kín được.",ROOM_AMENITIES#DESIGN&FEATURES,negative
+558,Ở resort này hơi nóng vì trong phòng không có lắp điều hoà.,ROOM_AMENITIES#MISCELLANEOUS,negative
+559,Do phòng ốc cách âm không tốt nên buổi tối gia đình tôi không thể nào ngủ được vì khá ồn.,ROOMS#DESIGN&FEATURES,negative
+560,"Giá cả hợp lý, khâu vệ sinh được chú ý sạch sẽ, tiện nghi, nội thất đầy đủ, nhân viên phục vụ khách hàng chuyên nghiệp.",FACILITIES#GENERAL,positive
+561,"Phòng nghỉ sạch sẽ, tuy nhiên có chút vấn đề về nước dùng, chưa được giải quyết kịp thời.",ROOM_AMENITIES#MISCELLANEOUS,negative
+562,"Resort phục vụ ăn sáng nhiều món, chế biến đồ ăn ngon, hợp khẩu vị chung của du khách.",FOOD&DRINKS#QUALITY,positive
+563,Đồ ăn tại Nhà hàng của resort tương đối ngon.,FOOD&DRINKS#QUALITY,positive
+564,"Nhìn chung, phòng ốc ở HappyDay Hotel đạt tiêu chuẩn, vệ sinh khá sạch sẽ, dọn dẹp gọn gàng, không có gì phàn nàn khi ở đây.",ROOMS#CLEANLINESS,positive
+565,"Nhưng tôi thấy dịch vụ của resort còn đơn điệu, không hỗ trợ phục vụ đồ ăn và thức uống cho khách do đó tôi thấy rất bất tiện.",FOOD&DRINKS#MISCELLANEOUS,negative
+566,Theo như phản hồi thì người thân tôi thì chất lượng khách sạn cũng được và không phàn nàn gì.,HOTEL#QUALITY,neutral
+567,"Về phòng ốc thì cũng ổn, vệ sinh tương đối sạch sẽ.",ROOMS#CLEANLINESS,positive
+568,Ăn sáng đơn giản.,FOOD&DRINKS#STYLE&OPTIONS,negative
+569,"Tiện nghi, trang thiết bị được khách sạn cung cấp khá đầy đủ.",FACILITIES#GENERAL,positive
+570,"Khách sạn có bãi biển không được đẹp, bể bơi bẩn, phòng ốc có mùi hôi khó chịu, đồ ăn sáng không ngon.",FACILITIES#CLEANLINESS,negative
+571,"Nhân viên Mytour tư vấn cũng nhiệt tình, lần sau đi đâu tôi sẽ nhờ hỗ trợ.",SERVICE#GENERAL,positive
+572,"Phòng ốc tốt, sạch sẽ, đầy đủ tiện nghi.",ROOMS#QUALITY,positive
+573,"Dịch vụ phòng ngủ sạch sẽ, khuôn viên nhiều cây xanh thoáng mát.",HOTEL#DESIGN&FEATURES,positive
+574,"Cả nước đang kêu gọi không thút thuốc mà tại sảnh chính của một khách sạn 4 sao lại được hút thuốc như vậy, hơi thất vọng.",HOTEL#QUALITY,negative
+575,"Phòng quá lạnh vì trên trần nhà là ngói, không có gì để ngăn sức lạnh của Đà Lạt.",ROOMS#COMFORT,negative
+576,"Tại khách sạn có cho thuê xe máy với giá rẻ, xe cho thuê đều là xe mới.",FACILITIES#DESIGN&FEATURES,positive
+577,Sau khi yêu cầu đổi phòng thì họ lại xếp tôi ở căn phòng có cửa sổ rộng hơn 1 tí nhưng phụ thu 300.000đ/ ngày nên tôi không Tồng ý.,ROOMS#PRICES,negative
+578,Tiện nghi phòng ở cũng có nhưng nhìn khá tạm bợ.,ROOM_AMENITIES#GENERAL,negative
+579,Cơ sở vật chất của Terracotta Hotel and Resort Đà Lạt còn khá mới.,FACILITIES#QUALITY,positive
+580,Phòng ở được chú ý dọn dẹp vệ sinh sạch sẽ và trang bị tiện nghi đầy đủ.,ROOMS#CLEANLINESS,positive
+581,"Nhân viên thì lịch sự, thân thiện, vị trí cũng đẹp, thoáng mát.",LOCATION#GENERAL,positive
+582,"Các trang thiết bị hoạt động tốt, khang trang.",FACILITIES#QUALITY,positive
+583,Vị trí khá thuận lợi khi tản bộ xuống chợ Đà Lạt về đêm và đi dọc Hồ Sông Hương.,LOCATION#GENERAL,positive
+584,"Nhân viên làm việc cũng lịch sự, vui vẻ, thân thiện, ăn sáng cũng được, nhìn chung, thì dịch vụ ổn, cảnh quang xung quanh thoáng mát, giá cả hơp lý, tôi khá hài lòng khi nghỉ tại đây.",HOTEL#GENERAL,positive
+585,Chỉ tiếc view hướng biển bị chặn bởi bức tường dài và biển ở đây hơi dơ.,FACILITIES#CLEANLINESS,negative
+586,"Phòng ốc sạch sẽ, tươm tất, thoáng mát.",HOTEL#CLEANLINESS,positive
+587,Nhân viên phục vụ thái độ cũng được và giá cả thì không xứng đáng với chất lượng phòng.,HOTEL#PRICES,positive
+588,"Giá thuê xe máy khá rẻ 80 nghìn/ xe số, 100 nghìn/ tay ga.",FACILITIES#PRICES,positive
+589,"Tiện nghi trong phòng tương đối đầy đủ, nhân viên nhiệt tình.",SERVICE#GENERAL,positive
+590,"Phòng ốc sạch sẽ, gọn gàng, trang thiết bị cũng như cơ sở vật chất được trang bị tương đối đầy đủ.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+591,"Phong cảnh ở Terracotta Hotel and Resort Đà Lạt đẹp, và hài hoà.",HOTEL#DESIGN&FEATURES,positive
+592,"Theo tôi thì có vẻ Mũi Né Paradise Beach Resort này đang bị xuống cấp, phòng ốc ở đây cũng hơi cũ, tôi thấy cũng không đạt tiêu chuẩn 3  sao cho lắm.",HOTEL#QUALITY,negative
+593,Chọn lựa Khách Sạn Phương Huy 1 Đà Lạt để trú ngụ là một quyết định làm tôi hài lòng.,HOTEL#COMFORT,positive
+594,"Đặc biệt căn phòng tôi đặt có view rất đẹp hướng ra biển và hồ bơi nên lúc nào không gian trong phòng cũng mát mẻ, trong lành khiến cả gia đình tôi đều thích.",ROOMS#GENERAL,positive
+595,"Khách sạn cũng không hỗ trợ bãi đỗ xe miễn phí mà lại tính phí, cũng không có phòng cho tài xế trong khi tôi đặt đến 10 phòng.",FACILITIES#PRICES,negative
+596,Khách sạn giá rẻ nhưng tiện nghi tương đối ổn.,FACILITIES#GENERAL,positive
+597,"Vị trí thoáng mát, rộng rãi.",HOTEL#DESIGN&FEATURES,positive
+598,"Bữa sáng phục vụ đủ món, hồ bơi dọn dẹp tương đối đạt yêu cầu.",FACILITIES#DESIGN&FEATURES,positive
+599,"Còn lại mọi dịch vụ khác đều ổn từ vấn đề vệ sinh, tiện nghi phòng ở đến nhân viên cũng như việc ăn uống và giá cả.",HOTEL#CLEANLINESS,positive
+600,Đối với số tiền mà tôi đã chi trả thì chất lượng dịch vụ ở Terracotta Hotel and Resort Đà Lạt phù hợp.,HOTEL#PRICES,positive
+601,"Quang cảnh xung quanh không có gì, chỉ có nét độc đáo duy nhất là có vài chiếc oto cổ, trong phòng khách sạn làm theo phong cách cổ, tuy nhiên các vật liệu hết sức rẻ tiền thiết bị không thuận tiện cho người sử dụng sàn phòng tắm làm bằng gỗ không phù hợp hôi và mốc bẩn trong phòng tắm không có bồn, xà phòng bàn chải đánh răng là loại rẻ tiền chuyên dùng cho phòng trọ, ăn sáng đơn giản không có gì nhiều, nhân viên phục vụ không chuyên nghiệp.",FOOD&DRINKS#STYLE&OPTIONS,negative
+602,"Cần Giờ Resort có vị trí thuận tiện khi tôi trong chuyến nghỉ mát vừa rồi, nằm sát biển, xung quanh đây có bán rất nhiều hải sản tươi sống.",LOCATION#GENERAL,positive
+603,Cơ sở vật chất của khách sạn còn rất mới và tốt.,FACILITIES#QUALITY,positive
+604,"Họ bố trí tôi ở căn phòng đã được chuẩn bị từ trước, với đầy đủ thiết bị nội thất hữu ích, không gian sạch sẽ, nên tôi thấy ở được.",ROOMS#COMFORT,positive
+605,"Ngoài ra thì vệ sinh sạch sẽ và nhân viên vui vẻ, vị trí thuận lợi và giá cả ổn.",HOTEL#CLEANLINESS,positive
+606,"Toilet gọn gàng, chăn gối nệm thơm tho.",ROOM_AMENITIES#CLEANLINESS,positive
+607,"Phòng tôi ở thì đạt tiêu chuẩn, vệ sinh phòng ốc sạch sẽ, đầy đủ tiện nghi.",ROOMS#QUALITY,positive
+608,"Tuy nhiên những vấn đề khác như vị trí, nhân viên phục vụ đều rất tốt.",LOCATION#GENERAL,positive
+609,"Rất vui vì khách sạn rất đẹp, món ăn sáng tuyệt ngon, thật vừa miệng.",FOOD&DRINKS#QUALITY,positive
+610,Những món ăn khách sạn cung cấp không hợp khẩu vị của tôi và không được phong phú.,FOOD&DRINKS#QUALITY,negative
+611,Thời điểm tôi đi Đà Lạt khá lạnh tôi nghĩ nếu khách sạn trang bị thêm điều hoà để chỉnh nhiệt độ lên cao một tí thì tôi sẽ thích hơn nữa đấy.,ROOM_AMENITIES#MISCELLANEOUS,neutral
+612,"Buffet sáng ở đây cũng dở, ít món, cũng không thấy ai châm thêm món.",FOOD&DRINKS#QUALITY,negative
+613,Phòng View thành phố thoáng rộng.,ROOMS#DESIGN&FEATURES,positive
+614,"Khi vào phòng thì tôi thấy trên sàn và bàn ghế vẫn còn có bụi, còn drap giường thì sạch sẽ, phòng ốc cũng được trang bị đầy đủ tiện nghi, nhân viên thân thiện và nhiệt tình.",ROOMS#CLEANLINESS,negative
+615,"Giá cả bình dân, vị trí thuận tiện cho việc đi lại của tôi.",HOTEL#PRICES,positive
+616,"Vài lưu ý:Các bạn nên đặt phòng tầng 3 309 hoặc 311 hướng city view vì cửa sổ nhìn thẳng ra hồ, trung tâm thành phố tuy hơi ồn nhưng cảm nhận được cuộc sống và cảnh đẹp của Đà Lạt.",ROOMS#GENERAL,positive
+617,"Chẳng hạn, phòng nghỉ không tạo cảm giác thoải mái cho khách hàng, nhà vệ sinh tối tăm, khăn tắm ngã màu.",ROOM_AMENITIES#MISCELLANEOUS,negative
+618,Về chất lượng phòng ốc thì khá được vì cũng sạch sẽ và tương đối đủ tiện nghi.,ROOMS#CLEANLINESS,positive
+619,"Khách Sạn view đẹp, vị trí luận lợi, cổ điển mang phong cách riêng. Buffet sáng cần thay đổi món ăn đa dạng hơn, 3 ngày thực đơn giống nhau làm thức ăn không còn hấp dẫn. Vệ sinh cần dọn dẹp tốt hơn có 2 em gián xuất hiện trên giường - Còn lại đều ok.",HOTEL#CLEANLINESS,negative
+620,"Chất lượng phòng ở tốt, giữ gìn vệ sinh sạch sẽ và bố trí tiện nghi đầy.",ROOMS#QUALITY,positive
+621,"Phòng ốc vệ sinh ổn, tiện nghi cơ bản tương đối đầy đủ.",ROOMS#GENERAL,positive
+622,"Tôi đã ở nhiều lần tại Terracotta Hotel and Resort Đà Lạt nên kì nghỉ đợt này tôi cũng chọn nơi này làm điểm dừng chân và tiếp tục hài lòng về mọi thứ từ chất lượng phòng ốc, nhân viên phục vụ đến các tiện ích đi kèm cũng như vị trí, view xung quanh hay việc ăn uống và mức giá cả.",LOCATION#GENERAL,positive
+623,"Quang cảnh xung quanh không có gì, chỉ có nét độc đáo duy nhất là có vài chiếc oto cổ, trong phòng khách sạn làm theo phong cách cổ, tuy nhiên các vật liệu hết sức rẻ tiền thiết bị không thuận tiện cho người sử dụng sàn phòng tắm làm bằng gỗ không phù hợp hôi và mốc bẩn trong phòng tắm không có bồn, xà phòng bàn chải đánh răng là loại rẻ tiền chuyên dùng cho phòng trọ, ăn sáng đơn giản không có gì nhiều, nhân viên phục vụ không chuyên nghiệp.",HOTEL#DESIGN&FEATURES,negative
+624,"Khách sạn nằm đối diện biển, đi bộ qua bên kia đường là đến biển rồi.",LOCATION#GENERAL,positive
+625,"Terracotta Hotel Resort và Spa Đà Lạt có dịch vụ tốt, căn phòng tôi ở thấy rất được, dịch vụ phòng đạt tiêu chuẩn và tương xứng với giá cả.",ROOMS#GENERAL,positive
+626,"Ngọc Lan Đà Lạt khiến tôi tương đối hài lòng, nghỉ lại đây rất thoải mái.",HOTEL#COMFORT,positive
+627,Phương Huy 1 tuy chỉ là một khách sạn nhỏ thôi nhưng tôi thấy với giá tiền đã chi trả thì chất lượng phòng như vậy là cũng tốt.,HOTEL#QUALITY,positive
+628,Tôi lưu trú 1 đêm tại Khách Sạn Phương Huy 1 Đà Lạt nhưng cảm nhận của tôi về dịch vụ của khách sạn khá tốt.,SERVICE#GENERAL,positive
+629,Theo nhận xét của bạn tôi thì chất lượng dịch vụ tương xứng với mức giá.,HOTEL#QUALITY,positive
+630,"Đặc biệt drap, mền, gối rất cũ, tạo cảm giác không sạch sẽ.",ROOM_AMENITIES#CLEANLINESS,negative
+631,"Phòng tôi ở trên tầng cao nên có view đẹp, vệ sinh sạch sẽ, tiện nghi đầy đủ và hiện đại.",ROOM_AMENITIES#GENERAL,positive
+632,"Phòng ốc vệ sinh sạch sẽ, nội thất tiện nghi đầy đủ, nhân viên phục vụ nhiệt tình, thân thiện, nhanh chóng.",HOTEL#CLEANLINESS,positive
+633,"Nhân viên cũng lịch sự, làm việc ok, dịch vụ như vậy là đáp ứng được yêu cầu của tôi và có giá hợp lý, tôi hài lòng khi ở đây.",HOTEL#DESIGN&FEATURES,positive
+634,Mong khách sạn kiểm tra lại vấn đề này.,HOTEL#GENERAL,neutral
+635,Còn phòng ốc thì được dọn dẹp sạch sẽ và tiện nghi đầy đủ.,ROOM_AMENITIES#GENERAL,positive
+636,"Khâu vệ sinh phòng cũng khá tốt, nhân viên của khách sạn vui vẻ và thân thiện.",ROOMS#CLEANLINESS,positive
+637,"Vào khoảng 14 giờ, tôi đặt xe đi vòng quanh hồ, nhân viên hẹn lại đến 16 giờ30 nhưng vẫn không bố trí được tài xế để lái xe, tôi thấy chưa hài lòng về phần dịch vụ này lắm.",FACILITIES#MISCELLANEOUS,negative
+638,Khách sạn Saphire Đà Lạt có vị trí rất đẹp.,LOCATION#GENERAL,positive
+639,"Khách sạn thật tuyệt, phòng đẹp cảnh đẹp, giá thức ăn phù hợp.",ROOMS#DESIGN&FEATURES,positive
+640,"Tuy nhiên do khách đông nên thủ tục nhận phòng và trả phòng hơi chậm, hồ bơi không được sạch và vệ sinh, buổi chiều tối thang máy ở khu hồ bơi bị ướt sũng làm mất mỹ quan.",FACILITIES#CLEANLINESS,negative
+641,Thứ hai nhân viên phục vụ cũng bình thường và cuối cùng vị trí cũng được nhưng tổng quan tôi đánh giá mọi thứ chỉ ở mức trung bình.,HOTEL#GENERAL,neutral
+642,"Phòng được dọn dẹp sạch sẽ, đạt tiêu chuẩn, ở khá thoải mái.",ROOMS#COMFORT,positive
+643,"Phòng tôi ở thì cũ, kiếng trên bàn trang điểm bị bể và máy nóng lạnh thì bật không lên nước nóng.",ROOMS#QUALITY,negative
+644,"Nội thất, cơ sở vật chất được khách sạn trang bị đầy đủ.",FACILITIES#GENERAL,positive
+645,Phòng ốc rất đẹp và sạch sẽ.,ROOMS#DESIGN&FEATURES,neutral
+646,"Thái độ của nhân viên tốt, thân thiện, dễ thương, phòng ốc cũng được nhân viên dọn dẹp sạch sẽ, tươm tất, đầy đủ tiện nghi.",ROOMS#CLEANLINESS,positive
+647,"Kì nghỉ vừa qua tôi có đặt phòng ở Terracotta Hotel and Resort Đà Lạt, phòng ốc được trang bị đầy đủ các tiện nghi phục vụ cho nhu cầu nghỉ ngơi của tôi, giá cả tương xứng so với chất lượng dịch vụ, phòng ở sạch đẹp cùng với không gian thoáng mát, tôi thấy rất hài lòng.",HOTEL#COMFORT,positive
+648,"Phòng ở của khách sạn cũng sạch sẽ và thoáng, đầy đủ tiện nghi.",ROOMS#COMFORT,positive
+649,Nhìn chung những dịch vụ khách sạn đang có khiến tôi hài lòng.,HOTEL#COMFORT,positive
+650,Mong quý khách sạn khắc phục sự cố này.,FACILITIES#MISCELLANEOUS,negative
+651,"Khách sạn rộng rãi, khá đẹp, phòng ở cũng sạch sẽ, thoáng và đầy đủ tiện nghi.",ROOM_AMENITIES#GENERAL,positive
+652,"Họ bố trí tôi ở căn phòng đạt tiêu chuẩn, không gian thoáng mát, và sạch sẽ tinh tươm.",ROOMS#COMFORT,positive
+653,Về mức độ đa dạng của món ăn trong bữa sáng thì chấp nhận được.,FOOD&DRINKS#STYLE&OPTIONS,positive
+654,"Khách sạn Phương Huy 1 là nơi mà tôi chọn làm điểm dừng chân khi đến Đà Lạt, cảm nhận của tôi về khách sạn này tốt, đi bộ khoảng 15 phút là đã đến chợ, phòng ốc được trang bị đầy đủ tiện nghi, vệ sinh sạch sẽ cũng như thái độ phục vụ của nhân viên vui vẻ thân thiện.",ROOM_AMENITIES#GENERAL,positive
+655,- Ngoài ra thì menu gọi món tại nhà hàng nhìn chung giá thì tạm chấp nhận được 100-150 nghìn / món mà món ăn giống như chơi đồ hàng.,FOOD&DRINKS#MISCELLANEOUS,negative
+656,"Khung cảnh resort đẹp, giúp tôi cảm thấy thư giãn, thoải mái khi lưu trú lại Terracotta Hotel and Resort Đà Lạt này.",HOTEL#COMFORT,positive
+657,"Chất lượng phòng ở được, đáp ứng nhu cầu nghỉ ngơi của khách hàng.",ROOMS#QUALITY,positive
+658,"Để đánh giá về dịch vụ tại khách sạn Phương Huy 1 Đà Lạt là mọi thứ khá ổn, đáp ứng được nhu cầu tuy không nổi bật từ vị trí toạ lạc, thái độ nhân viên phục vụ cũng như vệ sinh phòng ốc, tiện nghi đi kèm và vấn đề giá cả.",HOTEL#GENERAL,neutral
+659,"Tôi có đặt phòng ở khách sạn Saphir Đà Lạt tôi thấy khách sạn cũng tương đối tốt nhân viên cũng nhiệt tình, thân thiện, trang thiết bị được cung cấp đầy đủ nhưng so với các khách sạn bốn  sao khác tôi thấy hơi cũ.",SERVICE#GENERAL,positive
+660,"Mọi thứ đều tốt và đáp ứng đủ nhu cầu từ vệ sinh phòng ốc, tiện nghi đi kèm đến nhân viên phục vụ cũng như vị trí và giá cả.",LOCATION#GENERAL,positive
+661,"Nhân viên khách sạn khá thân thiện và nhiệt tình ; chúng tôi cần gì cũng có nước nóng, nước đá, chăn, .  Đây sẽ là nơi lưu trú thích hợp và làm hài lòng các bạn, dĩ nhiên là có chúng tôi.",HOTEL#GENERAL,positive
+662,"Buổi tối đầu tiên khi ở khách sạn bình nước nóng bị cúp nên không có nước nóng để sử dụng, đợi lâu khách sạn cho người sửa nhưng cũng không được, thế là Chồng tôi không có nước nóng để tắm.",ROOM_AMENITIES#MISCELLANEOUS,negative
+663,"Về cơ sở vật chất tại resort tôi thấy cũng xuống cấp nên phòng ở và nội thất đều cũ, vệ sinh thì tàm tạm.",HOTEL#CLEANLINESS,neutral
+664,Tới nơi đây mới thật sự là nghỉ dưỡng.,HOTEL#GENERAL,positive
+665,"Phòng ở được giữ vệ sinh sạch sẽ, tiện nghi cơ bản cũng ổn.",HOTEL#CLEANLINESS,positive
+666,Mức giá như vậy thì tôi thấy cũng ổn.,HOTEL#PRICES,neutral
+667,"Dù thời gian trải nghiệm dịch vụ ở Terracotta Hotel and Resort Đà Lạt tương đối ngắn, nhưng tôi có những cảm nhận rất tốt về resort này.",HOTEL#GENERAL,positive
+668,"Happy Đà Lạt nằm ngay trung tâm nên đi chợ Đà Lạt, đi dạo Hồ Xuân Hương và đi ăn uống cũng rất thuận lợi.",LOCATION#GENERAL,positive
+669,"Nếu đánh giá về tiêu chuẩn thì khách sạn này chưa đạt chuẩn 4  sao, cửa phòng tôi không kín, hệ thống cách âm không tốt nên tôi bị ảnh hưởng bởi tiếng động bên ngoài ; buffet ít món ; khi tôi sử dụng dịch vụ ở nhà hàng bên dưới khách sạn thì nhận xét về nhân viên ở đây chưa năng động, thiếu chủ động trong việc phục vụ, khi khách yêu cầu thì mới phục vụ thì tôi thấy hơi mất thời gian nên chưa hài lòng.",FOOD&DRINKS#STYLE&OPTIONS,negative
+670,"Bên cạnh đó, phòng ốc cũng không gặp vấn đề gì trục trặc.",ROOMS#GENERAL,positive
+671,"Phòng ở của khách sạn cũng sạch sẽ và thoáng, đầy đủ tiện nghi.",ROOM_AMENITIES#GENERAL,positive
+672,Phòng đẹp và lãng mạn.,ROOMS#DESIGN&FEATURES,positive
+673,"- Buổi tối thì thực sự là một ấn tượng đối với tôi vì đèn trong khuôn viên vườn resort rất ít, đi chơi về mà về phòng thì phải qua cái vườn đó làm tôi ớn lạnh.",ROOMS#MISCELLANEOUS,negative
+674,"Tôi thấy phòng ở của khách sạn Happy Day này hơi nhỏ, nên ở không thoải mái lắm, vệ sinh trong phòng thì khá sạch sẽ, tuy nhiên, mền ở đây hơi nhỏ.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+675,"Nhân viên đón tiếp niềm nở, tậ n tình. Phòng ở thì gọn gàng , vệ sinh được. Vị trí đi lại cũng thuận tiện vàNgiá cả thì phải chăng.",HOTEL#PRICES,positive
+676,"Thức ăn cũng khá là tuyệt, chúng tôi mặc dù chỉ ăn ở đây có một lần duy nhất vào bữa tối nhưng đã thầy ghiền đồ ăn họ nấu rồi.",FOOD&DRINKS#QUALITY,positive
+677,Mọi điều đều hài lòng từ nhân viên phục vụ lễ tân đến bảo vệ cùng dịch vụ ăn uống trong Resort.,FOOD&DRINKS#QUALITY,positive
+678,Có lẽ do đặc tính vùng miền nên thức ăn của khách sạn ăn không hợp với khẩu vị của tôi lắm và cũng chưa đa dạng món lắm.,FOOD&DRINKS#STYLE&OPTIONS,negative
+679,Phòng ốc bố trí tiện nghi cần thiết đầy đủ nhưng có mùi ẩm mốc.,ROOMS#CLEANLINESS,negative
+680,"- Mình đặt phòng hướng hồ bơi hơn 800 nghìn, đến nơi đề nghị đổi phòng hướng biển bù thêm 200 nghìn / đêm, phòng khá thoải mái nhưng tv bé quá, nước nóng khó điều khiển, một số đồ dùng hơi cũ.",ROOM_AMENITIES#MISCELLANEOUS,negative
+681,Đường vào resort tối không có đèn đường lúc mình đi xe máy thấy hơi mất an toàn.,HOTEL#MISCELLANEOUS,positive
+682,Bữa ăn sáng cũng tương đối đa dạng và cách nêm nếm các món ăn cũng khá là phù hợp với khẩu vị của tôi.,FOOD&DRINKS#STYLE&OPTIONS,positive
+683,Cảnh quan chung của khách sạn đẹp.,HOTEL#GENERAL,positive
+684,"tiện nghi trong phòng quá tệ, ban đêm không có tiếp tân trực để hỗ trợ cho khách, một đoàn khách tạp nham ồn ào cả tầng vào nửa đêm làm phiền khách nhưng khách sạn không có nhân viên nào để giải quyết.",SERVICE#GENERAL,negative
+685,"Tôi có nghỉ tại Paradise Beach Resort trong chuyến đi vừa rồi, tôi khá hài lòng và thoải mái khi nghỉ tại đây, như nhiều ý kiến đánh giá thì tôi thấy dịch vụ ở đây cũng ok, phòng sạch sẽ, đạt tiêu chuẩn và tương xứng với giá tiền.",ROOMS#CLEANLINESS,positive
+686,"Hôm tôi đến khách sạn xếp tôi phòng ở đưới tầng hầm, phòng vệ sinh thì có mùi hôi, khách sạn thì tối.",HOTEL#DESIGN&FEATURES,negative
+687,"Vị trí trung tâm, nhân viên nhiệt tình, phòng ốc tạm ổn, so với giá cả thì quá ok.",ROOMS#PRICES,positive
+688,"Khi tôi trả thêm phí và được chuyển qua phòng khác thì có cửa sổ, tuy nhiên hệ thống máy nước nóng không điều chỉnh được nhiệt độ nên không hài lòng lắm.",ROOM_AMENITIES#QUALITY,negative
+689,"Resort có bãi biển riêng do đó tôi có thể thoải mái dạo mát, tắm biển hoặc ngắm cảnh.",FACILITIES#COMFORT,positive
+690,"Tiện ích hồ bơi sạch, nhân viên nói chuyện lịch sự, niềm nở.",FACILITIES#CLEANLINESS,positive
+691,"Về chất lượng phòng ốc thì khá tốt, giữ gìn vệ sinh sạch sẽ, nội thất, tiện nghi đầy đủ.",ROOM_AMENITIES#GENERAL,positive
+692,Chuyến đi Cần Giờ vừa qua Tôi chọn dịch vụ khách sạn này để nghỉ lại và thấy phòng ốc sạch sẽ có đầy đủ tiện nghi.,ROOM_AMENITIES#GENERAL,positive
+693,"Tiện ích hồ bơi sạch, nhân viên nói chuyện lịch sự, niềm nở.",SERVICE#GENERAL,positive
+694,Nên không được thoải mái lắm.,ROOMS#COMFORT,negative
+695,"Tôi đánh giá chất lượng tại Mũi Né Paradise Beach Resort cũng bình thường, chưa đặc sắc lắm nhưng cũng đáp ứng được các nhu cầu cơ bản của gia đình tôi từ hệ thống phòng ốc, nhân viên phục vụ, tiện nghi đi kèm cũng như quang cảnh, vị trí và giá cả.",ROOMS#GENERAL,neutral
+696,"Về vệ sinh thì sạch sẽ, nhân viên thì thái độ thân thiện, vui vẻ cũng như vị trí đi lại khá thuận tiện.",HOTEL#CLEANLINESS,positive
+697,Nhìn chung Mũi Né Paradise Beach Resort có view đẹp tuy nhiên wifi yếu quá.,FACILITIES#COMFORT,negative
+698,Nhìn chung chất lượng khách sạn này cũng tạm được.,HOTEL#QUALITY,positive
+699,Khung cảnh đẹp.,HOTEL#DESIGN&FEATURES,positive
+700,"Tuy nhiên, tôi thấy phòng chưa được sạch lắm, không có máy sấy tóc cho khách sử dụng.",ROOM_AMENITIES#MISCELLANEOUS,negative
+701,"Hình như Mũi Né Paradise Beach Resort mới được tu sửa lại nên phòng ốc và nội thất khá mới, vệ sinh thì sạch sẽ.",HOTEL#QUALITY,positive
+702,Cần chú ý kiểm tra đồ đạc trong phòng để thay thế.,ROOM_AMENITIES#GENERAL,negative
+703,"Không gian thoáng mát, các tiện ích có đầy đủ, tôi hài lòng khi nghỉ tại đây.",FACILITIES#GENERAL,positive
+704,Khung cảnh nơi đây rất đẹp với nhiều hoa và cây cảnh.,HOTEL#DESIGN&FEATURES,positive
+705,Giá dịch vụ ăn uống trong resort hơi đắt và không hợp với khẩu vị hai vợ chồng.,FOOD&DRINKS#QUALITY,negative
+706,Tôi rất hài lòng về dịch vụ và chất lượng phòng của resort.,ROOMS#QUALITY,positive
+707,Chúng tôi vô tình ở lại khách sạn River Palace và trả 60 nghìn đồng vào đêm đầu tiên ở Đà Lạt và nó thậm chí không bằng chất lượng của Saphir.,HOTEL#QUALITY,positive
+708,"Bãi biển phía trước resort đang xây dựng 1 bức tường lớn, nên muốn ra biển phải đi một quãng xa 500m.",HOTEL#MISCELLANEOUS,negative
+709,Tôi sẽ giới thiệu bạn bè của mình đến nơi đây.,HOTEL#GENERAL,positive
+710,Các bạn nhân viên thì tươi cười và nhiệt tình đón tiếp.,SERVICE#GENERAL,positive
+711,KHĂN TẮM nên để ở mỗi phòng để tiện việc tắm biển / hồ bơi.,ROOM_AMENITIES#MISCELLANEOUS,negative
+712,"Thứ 3, dịch vụ hồ bơi bẩn, không tắm được.",FACILITIES#CLEANLINESS,negative
+713,Tuy nhiên tiện nghi hơi cũ và những đồ dùng bằng gỗ không được đẹp cho lắm.,ROOM_AMENITIES#QUALITY,negative
+714,"Phòng ốc nhỏ mà trong phòng cũng không được trang bị đầy đủ tiện nghi, chỉ có 2 giường 1 tủ quần áo, 1 toilet, 1 tủ lạnh ngoài ra bàn ghế cũng không có.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+715,"Phòng rộng rãi, nhân viên ân cần, lich sự.",ROOMS#DESIGN&FEATURES,positive
+716,"Tuy việc phục vụ bữa sáng khá bình thường nhưng bù lại tiện nghi khách sạn khang trang, không gian sạch sẽ, thoải mái khi ở.",FACILITIES#GENERAL,positive
+717,"Phòng ốc khá là thoải mái, rộng rãi, khăn tắm thì không được sạch sẽ lắm nhưng vì tôi có mang khăn theo nên cũng không phản ánh với khách sạn.",ROOM_AMENITIES#CLEANLINESS,negative
+718,Happy Day 1 chỉ là Guesthouse nhưng nó có đủ các trang thiết bị và vật dụng sinh hoạt cần thiết để du khách sử dụng.,FACILITIES#GENERAL,positive
+719,"Ưu điểm:Ăn sáng ngon, không gian đẹp, phục vụ nhiệt tình.",HOTEL#DESIGN&FEATURES,positive
+720,"Không gian xung quanh của resort rất là thoáng đãng, ở cũng thoải mái, Các dịch vụ từ phòng ở, tiện nghi, cách phục vụ của nhân viên cho đến ăn sáng cũng đều rất ổn, tôi đều hài lòng.",ROOMS#COMFORT,positive
+721,Theo cá nhân tôi đánh giá thì Khách Sạn Mường Thanh Grand Đà Nẵng này đã xuống cấp nhiều rồi.,HOTEL#QUALITY,negative
+722,"Chỉ có điều Phươg Huy 2 không có thang máy, phải đi bộ lên lầu 3. mỏi chân.",FACILITIES#DESIGN&FEATURES,negative
+723,"Tôi thấy khách san có phòng hơi nhỏ và tiện nghi phòng cũng hơi cũ, được cái thì cũng tương đối đầy đủ trang thiết bị, vệ sinh sạch sẽ và nhân viên cũng chu đáo, nhiệt tình.",ROOM_AMENITIES#QUALITY,negative
+724,Điểm trừ duy nhất tại Cần Giờ Resort trong thời gian tôi lưu trú tại đây là cơ sở vật chất hơi cũ.,FACILITIES#QUALITY,negative
+725,Vì có xe nhà nên việc đi lại cũng khá dễ dàng và thuận tiện.,HOTEL#MISCELLANEOUS,positive
+726,Nhưng về bãi biển thì sóng to không tắm được nên tôi chỉ tắm hồ bơi thôi.,FACILITIES#MISCELLANEOUS,negative
+727,Khách sạn toạ lạc gần bãi biển nên việc đi lại cũng thuận tiện và dễ dàng do đó nếu đánh giá tổng quan về chất lượng dịch vụ thì tôi chấm 8 điểm.,LOCATION#GENERAL,positive
+728,Tuy nhiên phòng Tôi có máy lạnh hơi yếu nên chưa được mát lắm.,ROOM_AMENITIES#MISCELLANEOUS,negative
+729,"Phòng ốc sạch sẽ, tươm tất, thoáng mát.",ROOMS#COMFORT,positive
+730,"Đèn nhà vệ sinh chớp tắt, làm mình sợ, đã nhát mà còn nghe Đà Lạt nhiều ma sợ muốn chết, báo nhân viên lễ tân mà họ không sửa, vừa chớp tắt vừa nghe xẹt xẹt tiếng đèn.",ROOM_AMENITIES#MISCELLANEOUS,negative
+731,"Tiện nghi trong phòng cũng ổn, tuy nhiên tôi thấy diện tích phòng rất nhỏ và phòng tôi được xếp ở lầu trên cùng, tôi có con nhỏ nên thấy hơi bất tiện.",ROOM_AMENITIES#GENERAL,negative
+732,Nên đối với tôi giá cả và chất lượng vậy là rất ok.,HOTEL#QUALITY,positive
+733,"Phòng ốc vệ sinh sạch sẽ, tiện nghi cơ bản.",ROOMS#COMFORT,positive
+734,"Bữa sáng ăn ngon và đa dạ ng món. Phòng ốc thì dọn dẹp sạc h sẽ, gọn gàng. Vị trí đi lại thuận tiện, nhân viên vui vẻ và niềm nở chào đón. Giá cả xét ra cũng khá tương xứng với chất lượng nên tôi hài lòng khi ở đây.",FOOD&DRINKS#STYLE&OPTIONS,positive
+735,"Vừa qua, tôi có nghỉ tai khách sạn Saphir Đà Lạt, tôi thấy dịch vụ ở đây chưa tương xứng với 4  sao, phòng ốc không tốt, phòng bị dột nước, vệ sinh phòng cũng không sạch sẽ cho lắm, nghỉ ngơi khá bất tiện.",ROOMS#GENERAL,negative
+736,"Khi ở Khách Sạn TTC Hotel Premium Ngọc Lan, tôi cảm thấy chất lượng phòng ở phù hợp so với nhu cầu lưu trú, tiện nghi hoạt động tốt, không gian sạch sẽ.",ROOMS#QUALITY,positive
+737,Theo đánh giá của cá nhân tôi khách sạn này có chất lượng cũng được.,HOTEL#QUALITY,neutral
+738,"Chất lượng phòng, thái độ nhân viên phục vụ tốt.",ROOMS#QUALITY,positive
+739,Phòng ốc rộng rãi và đầy đủ tiện nghi để sử dụng thật thoải mái.,ROOMS#DESIGN&FEATURES,positive
+740,Tiếp tân khách sạn đem dĩa bánh và xin lỗi gia đình tôi vào buổi chiều bánh sừng trâu.,FOOD&DRINKS#MISCELLANEOUS,negative
+741,Cảnh quang xung quanh của resort cũng rất đẹp và thoáng đãng.,HOTEL#DESIGN&FEATURES,positive
+742,"Nói chung thì dịch vụ ở đây theo tôi thì cũng ổn, cũng đáp ứng được nhu cầu cơ bản từ phòng ở vệ sinh gọn gàng, ngăn nắp đến vị trí ra chợ gần nên thuận tiện đi lại.",LOCATION#GENERAL,positive
+743,"Còn cơ sở vật chất thì rất là tệ, phòng ốc cũ kĩ, trang thiết bị cũng cũ, vệ sinh thì không sạch sẽ và wifi rất là yếu.",ROOM_AMENITIES#QUALITY,negative
+744,"Cách thiết kế nội thất phòng khang trang, tiện nghi đầy đủ.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+745,"Với lại phòng ở cũng sạch sẽ, rộng rãi.",ROOMS#CLEANLINESS,positive
+746,"Theo cá nhân tôi thấy thì dịch vụ ở khách sạn Phương Huy 1 ok, vì giá cả hợp lý, giá không cao nên cũng không có ý kiến nhiều về dịch vụ, nhìn chung thì phòng ốc cũng đạt tiêu chuẩn, vệ sinh sạch sẽ, tiện nghi có đầy đủ.",ROOMS#QUALITY,negative
+747,"Khách sạn có vị trí tốt, nhưng tiện nghi không được sang trọng, giá cả lại không được phù hợp với chất lượng.",ROOM_AMENITIES#DESIGN&FEATURES,negative
+748,Phòng nhìn cũng khá mới.,ROOM_AMENITIES#DESIGN&FEATURES,positive
+749,"Họ bố trí tôi ở căn phòng gọn gàng và tươm tất, nội thất hoạt động tốt.",ROOMS#DESIGN&FEATURES,positive
+750,"Phòng của khách sạn hơi cũ và tiện nghi cũng hơi cũ, vệ sinh cũng tương đối sạch sẽ.",ROOM_AMENITIES#QUALITY,negative
+751,"Hồ bơi sạch, nhưng có 1 chỗ gạch lót hơi bén, tôi đã bị đứt chân.",FACILITIES#CLEANLINESS,negative
+752,"Chất lượng phòng ốc đạt yêu cầu, giữ gìn vệ sinh sạch sẽ và bố trí tiện nghi đầy đủ.",ROOM_AMENITIES#GENERAL,positive
+753,"Tôi thấy khách sạn rất phù hợp để nghỉ dưỡng vì cảnh đẹp và dịch vụ có chất lượng tốt, phòng ốc đẹp và sang trọng.",HOTEL#DESIGN&FEATURES,positive
+754,Nếu bộ phận nhà hàng của khách sạn có thể bổ sung thêm món ăn vào menu để menu có thể đa dạng hơn thì rất tuyệt vời.,FOOD&DRINKS#STYLE&OPTIONS,neutral
+755,Khách Sạn Saphir Đà Lạt có phong cách thiết kế khá đẹp thích hợp cho chụp hình lưu niệm.,HOTEL#DESIGN&FEATURES,positive
+756,"Tôi đánh giá cao dịch vụ ở khách sạn Phương Huy 1 này, dịch vụ rất ok, mọi thứ đều tốt, đạt tiêu chuẩn và tương xứng với giá cả.",SERVICE#GENERAL,positive
+757,"Nhìn chung thì mọi thứ của khách sạn đều tốt, phòng ốc ok, nhân viên nhiệt tình, chu đáo, giá cả cũng phù hợp với chất lượng.",HOTEL#QUALITY,positive
+758,"Khách sạn Blue Sea có vẻ hơi cũ, tiện nghi phòng ốc hơi cũ nên cảm thấy chưa được bắt mắt lắm, bù lại thì tiện nghi cũng tương đối đầy đủ, vệ sinh sạch sẽ, nhân viên thân thiện và vị trí gần biển nên đi lại thuận tiện.",HOTEL#CLEANLINESS,positive
+759,Mức giá phòng nghỉ tương xứng với chất lượng dịch vụ tôi nhận được từ HappyDay Hotel.,ROOMS#PRICES,positive
+760,"Phục vụ chu đáo, nhân viên nhiệt tình, Vệ sinh cũng rất sạch sẽ.",SERVICE#GENERAL,positive
+761,"Khách sạn này rất tốt, khung cảnh đẹp.",HOTEL#GENERAL,positive
+762,"Chất lượng phòng ốc đạt yêu cầu, giữ gìn vệ sinh sạch sẽ và bố trí tiện nghi đầy đủ.",ROOMS#QUALITY,positive
+763,"Thiết bị trong phòng thì ổn như có quạt, máy sấy tóc.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+764,"Điều kiện cơ sở vật chất, thái độ nhân viên phục vụ tốt, những dịch vụ đi kèm khác cũng thế.",FACILITIES#GENERAL,positive
+765,"Không gian rộng thoáng, không khí trong lành.",HOTEL#DESIGN&FEATURES,positive
+766,"Chất lượng phòng ốc ok, đầy đủ tiện nghi đã thể hiện trên website.",ROOMS#QUALITY,positive
+767,Phòng của tôi ở trong góc nên có vẻ không gian không được thoáng cho lắm.,ROOMS#COMFORT,negative
+768,"Khách sạn giá bình dân, gần trung tâm.",LOCATION#GENERAL,positive
+769,Chỉ có một điểm là phòng bếp ở đây hơi ít đồ nên chưa tiện cho khách hàng nấu nướng lắm.,FOOD&DRINKS#MISCELLANEOUS,negative
+770,"Nhưng đến sử dụng phòng thì hơi thất vọng, phòng cũ và bí.",ROOMS#COMFORT,negative
+771,"Vệ sinh trong phòng thì cũng sạch sẽ, ở cũng thoải mái.",ROOMS#COMFORT,positive
+772,Giá như khách sạn trang bị thêm tủ lạnh thì sẽ thuận tiện hơn cho khách.,ROOM_AMENITIES#MISCELLANEOUS,negative
+773,"Tuy nhiên do khách đông nên thủ tục nhận phòng và trả phòng hơi chậm, hồ bơi không được sạch và vệ sinh, buổi chiều tối thang máy ở khu hồ bơi bị ướt sũng làm mất mỹ quan.",FACILITIES#MISCELLANEOUS,negative
+774,Ở ngoài hành lang không có mái che nên khi mưa xuống hay bị đọng nước nên rất nguy hiểm vì dễ bị trượt té.,HOTEL#GENERAL,negative
+775,"Dịch vụ hồ bơi sạch sẽ, view đẹp.",FACILITIES#CLEANLINESS,positive
+776,"Các tiện ích kèm theo cũng rất ok, tôi hài lòng khi nghỉ tại đây.",FACILITIES#GENERAL,positive
+777,"Quạt thông gió trong Toilet kêu quá to Tôi đi công tác nên chỉ nghỉ lại có 1 đêm, không đi chơi trong thành phố nên cũng không biết nhiều lắm về địa điểm và khu vực vui chơi xung quanh.",ROOM_AMENITIES#MISCELLANEOUS,negative
+778,Tôi cảm thấy hài lòng khi vừa qua tôi đã chọn Paradise Resort cho chuyến đi đến Mũi Né của mình.,HOTEL#COMFORT,positive
+779,"Nhân viên nhiệt tình, niềm nở trong khi tiếp đón khách.",SERVICE#GENERAL,positive
+780,"Ở đây cũng có hồ bơi nhưng bé, phòng ở vệ sinh sạch sẽ và giá cả phải chăng nên không có gì để chê hết.",FACILITIES#DESIGN&FEATURES,negative
+781,"Khách sạn Blue Sea cũng khiến tôi hài lòng, tôi nghĩ đây là một khách sạn khá tốt.",HOTEL#COMFORT,positive
+782,"Các dịch vụ còn lại thì ok, phòng ốc được, sạch sẽ, đạt tiêu chuẩn.",ROOMS#GENERAL,positive
+783,"Khách Sạn Saphir Đà Lạt có tiêu chuẩn 4  sao nhưng không có máy điều hoà cũng không có máy quạt, mùa này thời tiết nóng nên tôi cảm thấy chưa được thoải mái lắm.",ROOM_AMENITIES#DESIGN&FEATURES,negative
+784,"Tiện nghi, các vật dụng trong phòng nhìn chung phù hợp cho người nước ngoài sử dụng hơn.",ROOM_AMENITIES#MISCELLANEOUS,positive
+785,"Đây là một khách sạn nhỏ nhưng mới, và sạch sẽ ở trung tâm thành phố Đà Lạt, rất thuận tiện cho việc đi lại và vui chơi.",HOTEL#CLEANLINESS,positive
+786,"Khách sạn có thiết kế rất độc đáo, cổ điển mà sang trọng.",HOTEL#DESIGN&FEATURES,positive
+787,"Thái độ nhân viên phục vụ rất tốt, chỉ không hài lòng vì dù còn phòng trống nhưng khách sạn vẫn thu phí lấy phòng sớm 250 nghìn : Điểm tốt nhất của khách sạn là buffet cực ngon của 1 cô đầu bếp cực dễ thương:x Cám ơn bạn Phan Hoàng Diệu Thư, nhân viên chăm sóc khách hàng của mytour đã nhiệt tình hỗ trợ mình trong đơn đặt phòng này, dù mình thay đổi ngày đi đến 3 lần nhưng bạn vẫn nhiệt tình hỗ trợ.",FOOD&DRINKS#QUALITY,positive
+788,Mọi thứ ở Terracotta Hotel and Resort Đà Lạt này tôi thấy đều ok.,HOTEL#GENERAL,positive
+789,"TỔng quát thì khách sạn chất lượng phục vụ rất tốt, phòng ốc đẹp, tiện nghi, sạch sẽ, trang thiết bị hiện đại, internet tốc độ cao, vị trí thuận lợi.",ROOMS#DESIGN&FEATURES,positive
+790,"Vừa qua, tôi có nghỉ tại Khách Sạn Mường Thanh Grand Đà Nẵng, dịch vụ ở đây tôi thấy khá tốt, mọi thứ đều ổn, dịch vụ phòng ốc đạt tiêu chuẩn, tôi thấy vệ sinh phòng sạch sẽ, gọn gàng, ở khá thoải mái.",ROOMS#GENERAL,positive
+791,Gần chợ và gần các địa điểm tham quan khác.,LOCATION#GENERAL,positive
+792,"Tôi cảm thấy mọi thứ ở khách sạn ổn từ phòng ốc, vệ sinh, tiện nghi đến thái độ phục vụ của các bạn nhân viên cũng như vị trí và giá cả.",ROOMS#GENERAL,positive
+793,"Khách sạn này có không gian mát mẻ rồi vệ sinh thì sạch sẽ, nhân viên thì ân cần.",SERVICE#GENERAL,positive
+794,"RẤt thoải mái, rất xứng đáng với danh xưng khách sạn 3  sao.",HOTEL#QUALITY,positive
+795,"Theo cá nhân tôi đánh giá thì dịch vụ ở Terracotta Hotel Resort và Spa Đà Lạt cũng ổn, dịch vụ phòng tốt, nghỉ ngơi khá thoải mái, vệ sinh chung tốt.",ROOMS#GENERAL,positive
+796,Căn phòng mà tôi ở thì khá sạch sẽ và tương đối đầy đủ tiện nghi nhưng có khe hở ra bên ngoài nên tôi cảm thấy chưa được an toàn lắm.,ROOMS#MISCELLANEOUS,negative
+797,Mới 8 giờ30 mà món hết là đóng quầy đó luôn.,FOOD&DRINKS#MISCELLANEOUS,negative
+798,Nhưng tv hơi nhỏ và đặt hơi xa giường.,ROOM_AMENITIES#DESIGN&FEATURES,neutral
+799,"Diện tích căn phòng nhỏ, hơi có mùi, và nệm cứng.",ROOM_AMENITIES#COMFORT,negative
+800,Tóm lại là không có gì phàn nàn.,HOTEL#COMFORT,positive
+801,Còn chất lượng phòng thì tạm ổn.,ROOMS#QUALITY,neutral
+802,"Tôi có chọn khách sạn Phương Huy 1 Đà Lạt làm nơi dừng chân để nghỉ ngơi cùng gia đình thông qua hệ thống mytour và sau khi về tôi thấy mọi dịch vụ khá ổn và đáp ứng được nhu cầu từ nhân viên, vị trí, phòng ốc đến vấn đề vệ sinh, quang cảnh xung quanh cũng như các tiện nghi đi kèm khác và giá cả.",HOTEL#CLEANLINESS,positive
+803,Tuy buffet sáng thì chưa phong phú lắm nhưng món ăn cũng rất ổn.,FOOD&DRINKS#QUALITY,positive
+804,Nhà hàng của khách sạn nấu không ăn được.,FOOD&DRINKS#QUALITY,negative
+805,Nhưng mà chỗ đỗ xe thì mặt bằng hơi chật.,FACILITIES#DESIGN&FEATURES,negative
+806,Buffet sáng cũng khá nhiều món.,FOOD&DRINKS#STYLE&OPTIONS,positive
+807,"Phòng ốc nhỏ có thể chấp nhận được, nhưng phải có không gian chứ như thế này là tôi rất ngỡ ngàn.",ROOMS#DESIGN&FEATURES,negative
+808,"Cầu tiêu kiểu cổ lổ sĩ, đồ giựt nước rất ồn ào, và bị rĩ chảy phải gọi Tiếp Tân cho thợ sữa 2 lần, lần đầu ở Phòng 1 bị hư, đổi sang Phòng 2 cũng NuBber bị hư.",ROOM_AMENITIES#QUALITY,negative
+809,"Phòng đẹp, cảnh quan đáng yêu, lãng mạn.",ROOMS#DESIGN&FEATURES,positive
+810,Tuy nhiên khách sạn không có thang máy nhưng sắp xếp cho tôi ở tầng cao nhất nên đi bộ khá cực.,FACILITIES#DESIGN&FEATURES,negative
+811,"Sau khi nghỉ ngơi tại khách sạn Happy Day 1 Hotel cùng gia đình trong kì nghỉ mát vừa qua thì tôi nhận xét các dịch vụ cũng như chất lượng cũng tốt từ vệ sinh, tiện nghi, phòng ốc, nhân viên phục vụ đến vị trí và giá cả.",FACILITIES#GENERAL,positive
+812,"Tuy nhiên, tôi có một góp ý đó là cách âm trong phòng cực kì tệ, rất ồn và tôi không được nghỉ ngơi thoải mái khi ở đây.",ROOMS#COMFORT,negative
+813,"Phòng ngủ đẹp, tiện nghi, nhân viên thân thiện, thức ăn sáng phong phú, ngon.",ROOMS#DESIGN&FEATURES,positive
+814,Căn phòng 101 thì tôi biết chắc là phòng deluxe vì tôi từng ở rồi.,ROOMS#QUALITY,positive
+815,"Về dịch vụ thì khách sạn Blue Sea chẳng có vấn đề gì, nhân viên phục vụ cũng bình thường nhưng cơ sở vật chất ở đây thì kém quá, phòng ốc xấu, đồ đạc cũ kĩ nhìn có vẻ xuống cấp.",ROOM_AMENITIES#QUALITY,negative
+816,Tổng quan tôi hài lòng và không có gì phàn nàn hết.,HOTEL#GENERAL,positive
+817,Tôi đã thoả thuận với mytour là trưa ngày thứ 5 chuyển phòng của mình từ phòng lớn xuống phòng nhỏ.,ROOMS#DESIGN&FEATURES,positive
+818,"Điểm trừ:chỉ ngắm biển, chứ không tắm được vì đó là khu bộ kế, thức ăn sáng tệ nhất, ở mức tạm được, không có điện thoại ở phòng, không có bình nước nóng.",ROOM_AMENITIES#MISCELLANEOUS,negative
+819,Nhược điểm tại Cần Giờ Resort sau khi lưu trú vừa qua là ở đây không gian quá buồn.,HOTEL#MISCELLANEOUS,negative
+820,Căn phòng mà tôi ở tại khách sạn Happy Day thì cũng tương đối ổn nhưng các trang thiết bị nội thất trong phòng thì hơi cũ.,ROOM_AMENITIES#DESIGN&FEATURES,positive
+821,"Phòng của khách sạn hơi cũ và tiện nghi cũng hơi cũ, vệ sinh cũng tương đối sạch sẽ.",ROOMS#QUALITY,negative
+822,Thời tiết Đà Lạt vào lúc mà tôi đến thì khá lạnh vậy nên khi thấy hệ thống nước nóng lạnh trong phòng không hoạt động tôi cảm thấy không thoải mái lắm.,ROOMS#COMFORT,negative
+823,"Nếu quay lại Đà Lạt, tôi sẽ tiếp tục chọn resort này.",HOTEL#GENERAL,positive
+824,"Các tiện ích đi kèm đầy đủ, phòng sạch, nhân viên phục vụ vui vẻ.",FACILITIES#GENERAL,positive
+825,"Điểm cộng cho khách sạn là Buffet sáng ở saphir phong phú và ngon, nội thất đẹp, wifi mạnh, gần chợ, phòng giống trong hình chụp.",FOOD&DRINKS#QUALITY,positive
+826,"Phòng ốc tại đây cũng sạch sẽ, tương đối đầy đủ tiện nghi cho tôi sử dụng.",ROOM_AMENITIES#GENERAL,positive
+827,"Vị trị khách sạn cũng tốt tuy nhiên phòng hơi cũ, bể bơi không được sạch lắm, nhà hàng giá quá cao.",FACILITIES#CLEANLINESS,negative
+828,"gia đình tôi nghỉ 1 đêm tại đây, đúng theo chuẩn 3 sao, phòng hơi nhỏ so với dạng phòng deluxe, giá phòng hơi cao so với chất lượng phòng.",ROOMS#PRICES,negative
+829,"Phòng ốc sạch sẽ, được trang bị khá đầy đủ tiện nghi phù hợp với nhu cầu sử dụng của khách hàng.",ROOMS#CLEANLINESS,positive
+830,"Khuyến khích mọi người tới đây nếu đến Đà Lạt, giá cả rất hợp lí.",HOTEL#PRICES,positive
+831,"Ở Khách Sạn Phương Huy 1 này thì phòng ốc được dọn dẹp sạch sẽ, gọn gàng, dịch vụ phòng khá ổn, tuy nhiên, hệ thống nước chưa ổn, nước cứ chảy rỉ rỉ suốt đêm, nghỉ ngơi khá bất tiện.",ROOM_AMENITIES#MISCELLANEOUS,negative
+832,"Cụ thể, tôi hỏi nhân viên ở đây có chỗ nào tham quan không, nhân viên bảo có vườn dâu, phí 10.0 00 đ / lượt và đưa tôi mảnh giấy bảo vô đó đưa cho người soát vé nhưng thực tế thì mọi người ra vàoTtự do.",HOTEL#MISCELLANEOUS,negative
+833,"Phòng ốc cũng được, nhân viên lễ tân thái độ niềm nở, vị trí thì gần trung tâm và giá cả cũng khá ok.",ROOMS#GENERAL,positive
+834,"Thêm vào đó, vị trí thuận tiện di chuyển, cùng với dịch vụ phòng ở hợp lý so với giá tiền nên tôi thấy ở được.",LOCATION#GENERAL,positive
+835,Với mức giá như vậy tôi hài lòng với dịch vụ khi nghỉ dưỡng tại đây.,HOTEL#PRICES,positive
+836,"Tôi thấy dịch vụ ở Khách Sạn Blue Sea này được, các dịch vu như phòng ốc, tiện nghi, vệ sinh chung đều đạt tiêu chuẩn, sạch sẽ, đầy đủ.",HOTEL#CLEANLINESS,positive
+837,"Tuy nhiên, khách sạn không đủ chỗ cho khách để xe và sàn gỗ kêu to khi đi lại trong phòng.",ROOM_AMENITIES#COMFORT,negative
+838,"Quang cảnh chung của Terracotta Hotel and Resort Đà Lạt đẹp, thoáng mát.",HOTEL#DESIGN&FEATURES,positive
+839,"Phòng được dọn dẹp tương đối sạch, vật dụng sinh hoạt cá nhân đầy đủ.",ROOMS#CLEANLINESS,positive
+840,Ở ngoài hành lang không có mái che nên khi mưa xuống hay bị đọng nước nên rất nguy hiểm vì dễ bị trượt té.,HOTEL#MISCELLANEOUS,negative
+841,"Khách sạn có vị trí tốt, tiện nghi sang trọng, phục vụ nhiệt tình, vệ sinh sạch sẽ, giá cả vào ngày lễ hơi cao so với chất lượng.",HOTEL#CLEANLINESS,positive
+842,"Phòng nghỉ sạch sẽ, tuy nhiên có chút vấn đề về nước dùng, chưa được giải quyết kịp thời.",ROOMS#CLEANLINESS,positive
+843,"Ngoài ra mọi thứ còn lại đều ổn từ nhân viên phục vụ, hệ thống phòng ốc đến tiện nghi đi kèm cũng như giá cả và vị trí.",ROOM_AMENITIES#GENERAL,positive
+844,"Về phòng ốc tôi thấy ok, đồ đạc gọn gàng và toilet sạch sẽ.",ROOMS#GENERAL,positive
+845,Bãi đậu xe hơi nhỏ nên hơi bất tiện.,FACILITIES#COMFORT,negative
+846,"Tuy nhiên cửa nhà vệ sinh bị hỏng, trong những phòng tôi đặt thì có một phòng có mùi.",ROOMS#DESIGN&FEATURES,positive
+847,- Trang thiết bị tân tiến.,ROOM_AMENITIES#DESIGN&FEATURES,positive
+848,Chung cư nó lấy 1 2 tầng làm phòng cho khách ở.,HOTEL#MISCELLANEOUS,negative
+849,Mũi Né Paradise Beach Resort khá đẹp và sạch sẽ.,HOTEL#CLEANLINESS,positive
+850,"Diện tích căn phòng nhỏ, hơi có mùi, và nệm cứng.",ROOMS#CLEANLINESS,positive
+851,"Thái độ phục vụ của nhân viên bình thường, mức giá hợp lý.",HOTEL#PRICES,positive
+852,"Bên ngoài không có áo phao nhỏ, có duy nhất 3-4 cái áo phao to đã bị du khách trung quốc lấy hết.",FACILITIES#MISCELLANEOUS,negative
+853,"Bữa sáng đa dạng, với nhiều sự lựa chọn món ăn.",FOOD&DRINKS#STYLE&OPTIONS,positive
+854,"Chứ về phòng ở thì không vấn đề gì, thoáng mát, sạch đẹp.",ROOMS#CLEANLINESS,positive
+855,Nên so sánh với số tiền bỏ ra thì tôi thấy hợp lý.,HOTEL#PRICES,positive
+856,Khách Sạn Phương Huy 1 Đà Lạt có chất lượng và dịch vụ cũng được.,HOTEL#QUALITY,positive
+857,"Cảnh quang xung quanh đẹp, các tiện ích cơ bản đáp ứng đươc yêu cầu của tôi, tôi hài lòng khi nghỉ tại đây.",FACILITIES#GENERAL,positive
+858,Chấp nhận được so với giá tiền.,HOTEL#PRICES,neutral
+859,"Resort sạch sẽ, phòng ốc đầy đủ trang thiết bị.",HOTEL#CLEANLINESS,positive
+860,"Giá cả hợp lý, khâu vệ sinh được chú ý sạch sẽ, tiện nghi, nội thất đầy đủ, nhân viên phục vụ khách hàng chuyên nghiệp.",HOTEL#CLEANLINESS,positive
+861,Nhìn chung dịch vụ 4  sao mà Tôi thấy tệ quá không hài lòng một tý nào.,SERVICE#GENERAL,negative
+862,"Tuy nhiên, do việc cách âm chưa tốt nên sáng ồn ào khi mọi người đi lại, hay nói chuyện.",HOTEL#COMFORT,negative
+863,"Resort có nhiều hoạt động giải trí, tham quan và ăn uống.",HOTEL#MISCELLANEOUS,positive
+864,"Nghỉ ngơi tại HappyDay Hotel tôi nhận thấy những dịch vụ khách sạn cung cấp tối, tôi hài lòng.",HOTEL#GENERAL,positive
+865,"Phòng ốc sạch sẽ, thoáng mát, ở rất thoải mái.",ROOMS#CLEANLINESS,positive
+866,"Khách sạn rất đẹp, nhân viên lịch sự, thân thiện.",SERVICE#GENERAL,positive
+867,Giá cả tương xứng so với chất lượng dịch vụ mà Khách Sạn Blue Sea cung cấp.,HOTEL#PRICES,positive
+868,Tôi cảm ơn Mytour đã hỗ trợ tôi đặt phòng rất nhanh chóng.,ROOMS#PRICES,positive
+869,"Phòng nghỉ của tôi bài trí ấm cúng, tôi có cảm giác rất thoải mái khi nghỉ ở đây.",ROOMS#DESIGN&FEATURES,positive
+870,"Tiện nghi tốt, giá cả hợp lý, nhưng địa lý hơi xa trung tâm.",FACILITIES#GENERAL,positive
+871,"Vừa qua, tôi có chọn khách sạn Blue Sea để đặt phòng và nhận thấy phòng ốc nơi này tốt vệ sinh sạch sẽ, tiện nghi đầy đủ, tuy nhiên wifi không vào được, nơi giữ xe không có bảo vệ, do đó khi gửi thì không được an toàn.",FACILITIES#QUALITY,negative
+872,Tuy phòng hơi cũ tường sơn bị tróc nhưng nói chung là hài lòng.,ROOMS#QUALITY,negative
+873,"Bên cạnh đó thì tôi cũng có những góp ý với khách sạn như sau: Cửa phòng đóng không chăt, bên ngoài có thể nhìn thấy được hết trong phòng.",ROOMS#MISCELLANEOUS,negative
+874,"Tôi có mượn 1 cái muỗng và 2 cái ly đem từ phòng tôi qua phòng của gia đình để uống nước nhưng vô tình bị lạc ở đâu đó, thì khách sạn bắt đền tiền của tôi.",HOTEL#MISCELLANEOUS,negative
+875,"Phòng ốc thì không giống như quảng cáo, hơi cũ, tv cũng cũ và nhỏ, tủ lạnh thì không có và vệ sinh thì tương đối. Nhân viên thì thái độ lịch sự và lễ phép.Vị trí đi lại thuận tiện và giá cả thì hợp lý.",HOTEL#CLEANLINESS,neutral
+876,Khách Sạn Saphir Đà Lạt có lối kiến trúc cổ nên nhìn phòng ốc có vẻ hơi cũ.,HOTEL#DESIGN&FEATURES,negative
+877,"Vừa qua, tôi có nghỉ tại Khách Sạn Blue Sea, dịch vụ ở đây tôi thấy khá tốt, mọi thứ đều ổn, dịch vụ phòng ốc đạt tiêu chuẩn, tôi thấy vệ sinh phòng sạch sẽ, gọn gàng, ở khá thoải mái.",ROOMS#COMFORT,positive
+878,Chất lượng nơi này khiến tôi hài lòng lòng.,HOTEL#COMFORT,positive
+879,Tôi không hài lòng về điều này.,HOTEL#COMFORT,negative
+880,"Cách trang trí, nội thất của khách sạn theo phong cách cổ điển, nên tôi thấy không phù hợp với tôi và thấy không thích lắm.",HOTEL#DESIGN&FEATURES,negative
+881,Rất thích hợp cho nghĩ dưỡng cùng gia đình.,HOTEL#COMFORT,positive
+882,"Phòng ở vệ sinh sạch sẽ, trang thiết bị đầy đủ.",ROOMS#CLEANLINESS,positive
+883,"Tôi được bố trí nghỉ ngơi tại phòng 001 nhưng phòng ốc cũng như tiện nghi dơ, tất cả mọi thứ cũ.",ROOMS#CLEANLINESS,negative
+884,"Bên cạnh đó thì tôi cũng có những góp ý với khách sạn như sau: Cửa phòng đóng không chăt, bên ngoài có thể nhìn thấy được hết trong phòng.",ROOM_AMENITIES#MISCELLANEOUS,negative
+885,Giá cả phòng ốc vào dịp Tết cũng hơi cao.,ROOMS#PRICES,negative
+886,"Phòng ốc thoải mái, sạch sẽ và tương đối đầy đủ tiện nghi.",ROOMS#COMFORT,positive
+887,Giá rất đắt.,HOTEL#PRICES,negative
+888,Tuy nhiên Phòng của resort có diện tích hơi bé và chưa đẹp lắm.,ROOMS#DESIGN&FEATURES,negative
+889,"Phong cảnh đẹp, sân vườn rộng mát.",HOTEL#DESIGN&FEATURES,positive
+890,"Happy Day Hotel có dịch vụ cũng được, phòng ốc tôi ở được vệ sinh sạch sẽ, đầy đủ tiện nghi, dịch vụ phòng ổn và tương xứng với giá cả.",ROOMS#GENERAL,positive
+891,Do tôi ở Cần Giờ Resort này đúng vào thời điểm mưa bão nên cả resort vắng khách và buồn lắm.,HOTEL#MISCELLANEOUS,negative
+892,"Phòng ốc được trang bị đầy đủ tiện nghi, vệ sinh cũng sạch sẽ.",HOTEL#CLEANLINESS,positive
+893,"Vừa qua tôi có đặt phòng ở Happy Day 1 Guesthouse tôi nhận thấy chất lượng cũng ở mức bình thường, vị trí gần trung tâm nên thuận tiện cho nhu cầu đi lại của tôi.",HOTEL#QUALITY,neutral
+894,Tuy nhiên bãi biển hơi dơ không thể tắm hoặc vui chơi được.,FACILITIES#CLEANLINESS,negative
+895,Trong phòng vẫn đảm bảo được sự sạch sẽ và tiện nghi.,ROOMS#CLEANLINESS,positive
+896,"Phòng ốc đảm bảo được các yêu cầu cơ bản về sự tiện nghi, cũng như sự sạch sẽ.",ROOM_AMENITIES#GENERAL,positive
+897,Riêng buffet sáng thì chưa được đa dạng lắm.,FOOD&DRINKS#STYLE&OPTIONS,negative
+898,Địa thế của Mũi Né Paradise Beach Resort và giá tiền là yếu tố tôi chọn nơi này để nghỉ lại.,HOTEL#PRICES,positive
+899,"Bữa sáng ở đây không được ngon khá dỡ, nhưng mọi thứ ở đây chất lượng cũng được.",HOTEL#QUALITY,neutral
+900,- Hồ bơi sâu nhất chỉ có 1m4 nên không đã lắm.,FACILITIES#DESIGN&FEATURES,neutral
+901,Paradise  Mũi Né phục vụ bữa sáng đa dạng sự lựa chọn và món ăn cũng hợp khẩu vị nữa.,FOOD&DRINKS#STYLE&OPTIONS,positive
+902,Tôi khá hài lòng khi ở tại Happy Day 1 Hotel trong chuyến đi vừa rôi.,HOTEL#COMFORT,positive
+903,Không cho mang bia vào resort.,SERVICE#GENERAL,negative
+904,"Phòng thì cũng rộng, thoáng và sạch sẽ nhưng chưa được đẹp.",ROOMS#COMFORT,positive
+905,"Tôi thấy họ cũng nhiệt tình hỗ trợ khách hàng, nhưng chuyển tới chuyển lui vậy cũng bất tiện.",SERVICE#GENERAL,positive
+906,"Thêm vào đó, không gian nghỉ ngơi sạch sẽ, cách bài trí tiện nghi khang trang, hài hoà đủ làm tôi thấy hài lòng.",HOTEL#CLEANLINESS,positive
+907,Tuy nhiên đèn trong phòng hơi tối.,ROOM_AMENITIES#QUALITY,negative
+908,"Không có ý kiến gì để phàn nàn về chất lượng của Terracotta Hotel and Resort Đà Lạt sau khoảng thời gian nghỉ dưỡng ở đây vì mọi dịch vụ đều rất tốt từ vấn đề vệ sinh, tiện nghi trong phòng đến thái độ nhân viên phục vụ cũng như buffet sáng, vị trí đi lại, khuôn viên xung quanh và mức giá cả.",LOCATION#GENERAL,positive
+909,"Phòng ở cũng đảm bảo dược sự thoáng mát, sạch sẽ.",HOTEL#CLEANLINESS,positive
+910,Tủ lạnh trong phòng thì chưa cắm và không có nước uống gì trong đó cả.,ROOM_AMENITIES#MISCELLANEOUS,negative
+911,Tôi khá hài lòng với chất lượng phòng và dịch vụ ở resort này.,ROOMS#QUALITY,positive
+912,"Nơi này là dạng chung cư, được dọn dẹp vệ sinh sạch sẽ.",HOTEL#CLEANLINESS,positive
+913,"Phòng ốc ở khách sạn Saphir này cũng khá ổn, vệ sinh trong phòng khá sạch sẽ, nhưng tiện nghi thì nhìn khá cũ, tv thì cũ, trong phòng cũng thiếu một số tiện nghi như bình đun nước hay nước uống miễn phí.",ROOM_AMENITIES#QUALITY,negative
+914,Vị trí cũng khá là thuận tiện cho việc đi lại của tôi.,LOCATION#GENERAL,positive
+915,"Còn lại mọi thứ khác đều tốt từ dịch vụ phòng ốc, ăn uống đến nhân viên phục vụ cũng như vấn đề đi lại hay mức giá cả.",ROOMS#GENERAL,positive
+916,Khách Sạn Saphir Đà Lạt không có lắp đặt điều hoà nên lạnh quá.,ROOM_AMENITIES#MISCELLANEOUS,negative
+917,"Hồ bơi cũng nhỏ, bãi biển thì dơ nên không tắm được.",FACILITIES#DESIGN&FEATURES,negative
+918,"Nhìn chung, chất lượng dịch vụ ở đây cũng tốt.",SERVICE#GENERAL,positive
+919,"Nói chung, tôi sẽ không quay lại đây nữa.",HOTEL#GENERAL,negative
+920,"Bữa ăn sáng ngon, có nhiều sự lựa chọn.",FOOD&DRINKS#QUALITY,positive
+921,"Về dịch vụ phòng ốc và thái độ của nhân viên thì ok nhưng mà Cần Giờ Resort này nhiều muỗi, nhiều lắm.",HOTEL#CLEANLINESS,negative
+922,Tuy nhiên wifi quá yếu cần cải thiện.,FACILITIES#QUALITY,negative
+923,"Có điều nước nóng ở đây lúc nóng lúc lạnh, tôi có nhờ nhân viên hỗ trợ nhưng cũng không khắc phục được.",ROOMS#MISCELLANEOUS,negative
+924,"Resort toạ lạc tại khu vực hơi vắng, yên tĩnh thư giản thì tốt nhưng giải trí thì buồn.",HOTEL#MISCELLANEOUS,neutral
+925,Chi phí ăn uống hợp lý.,FOOD&DRINKS#PRICES,positive
+926,"Khách sạn Happy Day có dịch vụ ổn, không phải là quá tốt, nhưng vì giá cả cũng không cao nên không đòi hỏi nhiều về dịch vụ của khách sạn, nhìn chung, thì khách sạn ở cũng được, phòng ốc sạch sẽ, đầy đủ các vật dụng cơ bản.",ROOM_AMENITIES#GENERAL,positive
+927,Với tiêu chuẩn của dịch vụ khách sạn 4  sao thì ở Mường Thanh Grand Đà Nẵng như vậy là thích hợp rồi.,HOTEL#GENERAL,positive
+928,"Các tiện ích cơ bản đạt tiêu chuẩn, giá cả tương xứng với dịch vụ của khách sạn, tôi hài lòng khi nghỉ tại đây.",HOTEL#PRICES,positive
+929,Giá lại cao so với chất lượng.,HOTEL#PRICES,negative
+930,Khâu vệ sinh được chu trọng.,HOTEL#CLEANLINESS,positive
+931,"Mọi dịch vụ ở đây đều tốt, tiện nghi đầy đủ, đáp ứng được nhu cầu sử dụng của tôi, vị trí thuận tiện đi lại và sinh hoạt vui chơi, thái độ phục vụ của nhân viên cũng vui vẻ và thân thiện.",FACILITIES#GENERAL,positive
+932,"Khách sạn PH1 cũ, nhưng giá cả rất hợp lý.",HOTEL#PRICES,positive
+933,"Tủ đựng đồ trong phòng hôi, vấn đề vệ sinh ở mức trung bình.",ROOM_AMENITIES#CLEANLINESS,negative
+934,"Tôi thấy phòng ở của khách sạn Happy Day này hơi nhỏ, nên ở không thoải mái lắm, vệ sinh trong phòng thì khá sạch sẽ, tuy nhiên, mền ở đây hơi nhỏ.",ROOMS#COMFORT,positive
+935,"Tổng quan tôi không chê gì, trừ điểm nệm kém, nằm khó chịu và nóng lưng, trong khi phòng không có điều hoà.",ROOM_AMENITIES#COMFORT,negative
+936,"Khách sạn rất đẹp, nhân viên lịch sự, thân thiện.",HOTEL#DESIGN&FEATURES,positive
+937,Chúng tôi vô tình ở lại khách sạn River Palace và trả 60 nghìn đồng vào đêm đầu tiên ở Đà Lạt và nó thậm chí không bằng chất lượng của Saphir.,ROOMS#PRICES,positive
+938,"Hồ bơi cũng nhỏ, bãi biển thì dơ nên không tắm được.",FACILITIES#CLEANLINESS,negative
+939,"Nhìn chung thì mọi thứ của khách sạn đều tốt, phòng ốc ok, nhân viên nhiệt tình, chu đáo, giá cả cũng phù hợp với chất lượng.",ROOMS#GENERAL,positive
+940,"Nhân viên có dẹp đi thì bắt đền tôi 100 nghìn cho 1 cái muỗng và 1 cái ly, có thêm ly trong toilet, nhưng tôi lại không có sử dụng ly trong phòng đó.",HOTEL#MISCELLANEOUS,negative
+941,Nhân viên khách sạn làm việc cũng tốt.,SERVICE#GENERAL,positive
+942,"Tôi chọn Mường Thanh khi có chuyến đi đến các tỉnh khác nhau vì chất lượng dịch vụ khách sạn này đang có tốt từ nhân viên lịch sự, nhiệt tình đến phòng ở được giữ vệ sinh sạch sẽ và tiện nghi cơ bản được bố trí đầy đủ.",ROOMS#CLEANLINESS,positive
+943,"Khách sạn đi ra chợ mất khoảng 5 phút, tôi hài lòng khi nghỉ tại đây.",HOTEL#COMFORT,positive
+944,"Chuyến đi Đà Lạt vừa qua Tôi chọn dịch vụ khách sạn Phương Huy 1 để nghỉ lại và thấy dịch vụ phòng ốc khang trang, tiện nghi đầy đủ, chúng Tôi được nhanh phòng và phục vụ nhiệt tình chu đáo nữa nên hoà toàn hài lòng và ấn tượng về dịch vụ này.",FACILITIES#GENERAL,positive
+945,Ăn sáng tuy không phong phú nhưng chất lượng.,FOOD&DRINKS#STYLE&OPTIONS,negative
+946,"Trang tri nội, ngoại thất hài hòa với màu sắc tím, trắng cùng đá hoa và ánh đèn vàng tạo cảm giác ấm cúng ngay từ khi chúng tôi đến lP̃ tân.",HOTEL#DESIGN&FEATURES,positive
+947,"So với giá dưới 1 triệu đồng thì chấp nhận được, có lẽ chúng tôi đi vào dịp tết đông khách nên không được phục vụ chu đáo, món ăn sáng nghèo nàn, bãi biển không tắm được và rất nguy hiểm với gia đình nào có trẻ nhỏ.",FACILITIES#MISCELLANEOUS,negative
+948,Dọn phòng cũng tàm tạm.,HOTEL#GENERAL,positive
+949,Vệ sinh phòng thì 4 ngày chỉ dọn 2 ngày đầu.,ROOMS#CLEANLINESS,neutral
+950,"Đồ ăn mắc và ít, nhà hàng carrot ăn ngon, buffet sáng ổn.",FOOD&DRINKS#PRICES,negative
+951,Căn phòng tôi ở tầng 3 mà khách sạn không có thang máy nên đi lên đi xuống hơi mệt.,FACILITIES#DESIGN&FEATURES,positive
+952,Tuy nhiên tiện nghi hơi cũ và những đồ dùng bằng gỗ không được đẹp cho lắm.,ROOM_AMENITIES#DESIGN&FEATURES,negative
+953,"Kỳ nghỉ mát ở Vũng Tàu vừa rồi, tôi đã quyết định lưu trú lại Khách Sạn Blue Sea.",HOTEL#GENERAL,positive
+954,"Cảnh quang xung qauanh rộng rãi, thoáng mát, tôi khá hài lòng khi nghỉ tại đây.",HOTEL#COMFORT,positive
+955,"Cách thiết kế nội thất phòng khang trang, tiện nghi đầy đủ.",ROOM_AMENITIES#GENERAL,positive
+956,Mũi né Paradise Beach Resort có quang cảnh đẹp với sự phục vụ chu đáo của đội ngũ nhân viên phục vụ tạo sự cảm giác thoải mái và thú vị cho chuyến đi nghỉ mát này của gia đình chúng Tôi.,HOTEL#COMFORT,positive
+957,"TUy nhiên có một điểm trừ là nước sinh hoạt vòi có 1 phòng rất yếu, dù resort có gợi ý đổi phòng nhưng tôi muốn những phòng gần nhau nên cố gắng ở.",ROOM_AMENITIES#MISCELLANEOUS,negative
+958,"Vừa rồi tôi có đặt phòng ở khách sạn Ngọc Lan Đà Lạt và tôi thấy các dịch vụ mà khách sạn này cung cấp khá tôt nhân viên lịch sự với khách hàng, phòng ở thì sạch sẽ và tiện nghi trong phòng được trang bị đầy đủ.",SERVICE#GENERAL,positive
+959,Phòng cũng đạt yêu cầu.,ROOMS#GENERAL,positive
+960,"Nhưng điểm trừ ở khách sạn này chính là cơ sở vật chất cũ quá, cần được tu bổ.",FACILITIES#QUALITY,negative
+961,"Tuy nhiên, trong phòng còn có muỗi.",ROOMS#MISCELLANEOUS,negative
+962,"Các dịch vụ tại khách sạn Phương Huy 1 Đà Lạt theo tôi cũng khá tốt từ vệ sinh phòng ốc sạch sẽ, thái độ nhân viên nhiệt tình, vị trí thuận tiện đi lại và giá cả phải chăng.",LOCATION#GENERAL,positive
+963,Nếu so sánh với chi phí đã bỏ ra thì tôi nhận thấy khách sạn này có chất lượng ổn.,HOTEL#QUALITY,neutral
+964,Còn lại các dịch vụ khác thì tôi không có gì để phàn nàn.,SERVICE#GENERAL,neutral
+965,"Còn lại về phòng ốc thì khá sạch sẽ, thoải mái và tương đối tiện nghi cũng như nhân viên cũng khá ổn.",ROOM_AMENITIES#GENERAL,neutral
+966,"Khách Sạn Ngọc Lan Đà Lạt là lựa chọn để nghỉ ngơi của tôi trong chuyến đi vừa rồi, tôi đánh giá dịch vụ ở đây được 9 điểm, mọi thứ đều tốt, các tiện ích cơ bản đáp ứng được yêu cầu của khách, vệ sinh chung tốt, tiện nghi đầy đủ.",HOTEL#GENERAL,positive
+967,"Mấy anh chị đầu bếp cũng dễ thương lắm, chiều khách hết cỡ.",FOOD&DRINKS#MISCELLANEOUS,positive
+968,"Resort chỉ ở mức tương đối, tạm chấp nhận được, chất lượng khá ổn với mức giá khá hợp lý.",HOTEL#GENERAL,neutral
+969,"Khách sạn có vị trí tốt, tiện nghi sang trọng, phục vụ nhiệt tình.",SERVICE#GENERAL,positive
+970,"Resort này có ưu điểm về vị trí bãi biển khá đẹp, thái độ nhân viên phục vụ niềm nở, đồ ăn sáng cũng ngon miệng còn về chất lượng phòng thì tôi chẳng hài lòng tí nào.",LOCATION#GENERAL,positive
+971,"Từng nghỉ ngơi tại khách sạn này nên tôi có các nhận xét như sau:giá cả khá hợp lý, nệm cũ và bị lõm xuống, các bạn nhân viên có cung cách phục vụ khách hàng ổn, phòng ốc được dọn dẹp vệ sinh khá sạch sẽ.",SERVICE#GENERAL,positive
+972,Khung cảnh xung quanh khách sạn rất đẹp.,HOTEL#GENERAL,positive
+973,Chọn khách sạn này lưu trú vì có vị trí phù hợp với yêu cầu đi lại trong chuyến đi vừa rồi của tôi.,LOCATION#GENERAL,positive
+974,Vị trí thuận tiện cho việc đi lại trong chuyến công tác của tôi.,LOCATION#GENERAL,positive
+975,Khách sạn giá rẻ nhưng tiện nghi tương đối ổn.,HOTEL#PRICES,positive
+976,"Tôi cảm thấy món ăn ở đây khá ít, không được chất lượng cho lắm.",FOOD&DRINKS#STYLE&OPTIONS,negative
+977,"Về vấn đề vệ sinh cũng sạch, thái độ nhân viên phục vụ cũng được.",HOTEL#CLEANLINESS,positive
+978,Căn phòng nằm hơi khuất nên bị muỗi nữa.,ROOMS#MISCELLANEOUS,negative
+979,"Chất lượng phòng ốc thoải mái, chú ý giữ gìn vệ sinh sạch sẽ, trang bị tiện nghi, nội thất đầy đủ.",ROOM_AMENITIES#GENERAL,positive
+980,Khách sạn gần trung tâm và chợ - phòng vệ sinh sạch sẽ - tiện nghi tạm ổn riêng phòng tắm vòi sen không có chỗ gắn lên tường nên hơi bất tiện - Khách sạn nhỏ nên không có thang máy.,FACILITIES#DESIGN&FEATURES,negative
+981,"Tuy nhiên cửa nhà vệ sinh bị hỏng, trong những phòng tôi đặt thì có một phòng có mùi.",ROOM_AMENITIES#CLEANLINESS,positive
+982,"Sau khi ở đây tôi nhận xét chất lượng và dịch vụ khá tốt từ vị trí toạ lạc, giá cả, hệ thống phòng ốc, vệ sinh tiện nghi đi kèm, nhân viên phục vụ cũng như cảnh quang xung quanh.",FACILITIES#GENERAL,positive
+983,"Nói chung là hài lòng, ngoại trừ sàn phòng lót bằng gỗ rất trơn, không phù hợp và an toàn cho trẻ em, nên thay bằng thảm.",ROOM_AMENITIES#COMFORT,negative
+984,Resort Cần Giờ có nhiều khu để tham quan.,HOTEL#MISCELLANEOUS,positive
+985,"KHuyết điểm:trong phòng có khá nhiều muỗi, resort nên thường xuyên phun thuốc diệt muỗi để an toàn cho khách.",ROOMS#MISCELLANEOUS,negative
+986,"Cảnh quang xung quanh đẹp, vấn đề ăn uống được cũng như đi lại ok và giá cả hợp lý.",FOOD&DRINKS#QUALITY,positive
+987,Chúng tôi thật sự hài lòng về dịch vụ nơi đây.,SERVICE#GENERAL,positive
+988,"Nhân viên thì ok, vui vẻ, thân thiên, một số tiện ích chưa đáp ứng được yêu cầu của khách.",FACILITIES#GENERAL,neutral
+989,"Nước trong hồ bơi không sạch, lâu lâu mới thay một lần. Đồ ăn thì đảm bảo an toàn vệ sinh nhưng giá thành còn đắt quá.",FACILITIES#CLEANLINESS,negative
+990,Về chất luợng phòng thì k có gì đáng nói.,ROOMS#QUALITY,positive
+991,Vì thang máy chờ khá lâu.,FACILITIES#MISCELLANEOUS,negative
+992,Những gì khách sạn này đang cung cấp đến khách hàng có chất lượng khá ổn.,HOTEL#QUALITY,positive
+993,"Buffet sáng hơi chán, một phần do đồ ăn không phong phú, một phần do món ăn không mấy hợp khẩu vị.",FOOD&DRINKS#QUALITY,negative
+994,Nhân viên tương đối nhiệt tình.,SERVICE#GENERAL,positive
+995,"Căn phòng của tôi khá thoải mái, sạch sẽ và đầy đủ tiện nghi.",ROOMS#COMFORT,positive
+996,"Phòng ốc thì đạt tiêu chuẩn, vệ sinh phòng sạch sẽ, đầy đủ tiện nghi.",ROOMS#GENERAL,positive
+997,Resort có hồ bơi lại rất gần biển nên rất thuận lợi.,FACILITIES#MISCELLANEOUS,positive
+998,Với mức phí đã bỏ ra thì tôi nhận thấy khách sạn này có chất lượng cũng được.,HOTEL#QUALITY,positive
+999,"Về phía phòng ở thì tôi không có gì phàn nàn, phòng ở cũng sạch sẽ, gọn gàng và đầy đủ tiện nghi, nhân viên thì cũng rất vui vẻ và thân thiện.",ROOM_AMENITIES#GENERAL,positive
+1000,Máy lạnh thì hoạt động không đưCc tốt.,ROOM_AMENITIES#QUALITY,negative
+1001,Ngoại trừ nệm lò xo nên nằm không được thoải mái thì những khía cạnh khác khách sạn cung cấp tốt.,ROOM_AMENITIES#COMFORT,positive
+1002,"Về Mũi Né Paradise Beach Resort tất cả đều ổn, mọi thứ chấp nhận được, giá cả ăn uống rất hợp lý, đồ ăn ngon.",FOOD&DRINKS#PRICES,positive
+1003,"Vệ sinh sạch sẽ, nội thất mới mẻ, không gian thoải mái.",ROOMS#COMFORT,positive
+1004,"Đến khi chúng tôi bị nhân viên bắt trả phòng lúc 16 giờ thì tôi mới xem lại mail với dòng chứ rất nhỏ, gọi lại thì mytour chuyển máy cho người khác không phải người bán phòng cho tôi, và bạn này trả lời vô trách nhiệm, không có thiện chí giúp đỡ khách hàng.",SERVICE#GENERAL,positive
+1005,Giá cả tốt so với các khách sạn cùng tiêu chuẩn.,HOTEL#PRICES,positive
+1006,Đặc biệt là nước trong phòng mạnh vô cùng.,ROOM_AMENITIES#MISCELLANEOUS,negative
+1007,Đó là những nhận xét khách quan của riêng bản thân tôi trong thời gian ở Khách Sạn Mường Thanh Grand Đà Nẵng.,HOTEL#GENERAL,positive
+1008,"Nhìn chung mọi thứ tốt, nếu wifi mạnh hơn thì sẽ tốt hơn nhiều.",FACILITIES#QUALITY,neutral
+1009,"Dịch vụ hồ bơi khá sâu, không có hồ bơi cho trẻ em, nên cũng hơi bất tiện.",FACILITIES#MISCELLANEOUS,negative
+1010,"Phòng đi gia đình nên bị tách ra, cửa phòng không khoá được, chắc là do cũ rồi.",ROOM_AMENITIES#QUALITY,negative
+1011,"Chỉ là hơi xa trung tâm 1 chút, nên phải đi xe máy.",LOCATION#GENERAL,negative
+1012,"Khách sạn Ngọc Lan Đà Lạt có vị trí nằm gần trung tâm nên đi lại thuận tiện, dịch vụ phòng ốc ở đây cũng tốt, vệ sinh phòng sạch sẽ, gọn gàng, tiện nghi đầy đủ, nhân viên thì lịch sự, vui vẻ, mọi thứ đều ổn, giá cả cũng khá hợp lý, tôi khá hài lòng khi nghỉ tại đây.",HOTEL#DESIGN&FEATURES,positive
+1013,Tôi cũng có đề nghị đổi phòng và chấp nhận phụ thu nhưng tiếc là họ không còn phòng trống để đổi giúp tôi.,ROOMS#MISCELLANEOUS,negative
+1014,Giá dịch vụ ăn uống trong resort hơi đắt và không hợp với khẩu vị hai vợ chồng.,FOOD&DRINKS#PRICES,negative
+1015,Sóng WIFI phủ đến phòng quá kém.,FACILITIES#QUALITY,negative
+1016,Thời điểm tôi ở thì khách sạn này đang sửa nên hơi ồn.,HOTEL#MISCELLANEOUS,positive
+1017,"Khách sạn có vị trí tốt, tiện nghi sang trọng, phục vụ nhiệt tình, vệ sinh sạch sẽ, giá cả vào ngày lễ hơi cao so với chất lượng.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+1018,"Đối với nhóm của mình thì đây là chuyến đi hoàn hảo, không có vấn đề nào phàn nàn cả.",HOTEL#GENERAL,neutral
+1019,"Tuy nhiên, tôi thấy nhà vệ sinh ở đây dơ, bồn cầu cũng bị ố vàng.",ROOM_AMENITIES#CLEANLINESS,negative
+1020,"Vừa qua, tôi có nghỉ tai khách sạn Saphir Đà Lạt, tôi thấy dịch vụ ở đây chưa tương xứng với 4  sao, phòng ốc không tốt, phòng bị dột nước, vệ sinh phòng cũng không sạch sẽ cho lắm, nghỉ ngơi khá bất tiện.",ROOMS#COMFORT,negative
+1021,"Bởi vì ở đây có cơ sở hạ tầng khang trang, thiết bị nội thất hiện đại.",FACILITIES#DESIGN&FEATURES,positive
+1022,"khách sạn có vị trí thuận lợi, đông đúc phòng ốc sạch sẽ gọn gàng, tủ chưa dọn sạch sẽ nhưng không  sao gia đình tôi không sử dụng tới, cần góp ý như vậy đối vói khách sạn, cảm ơn mytour.",ROOM_AMENITIES#CLEANLINESS,negative
+1023,Tôi đã nghỉ lại khách sạn Saphir trong chuyến du lịch ngắn ngày của tôi tại Đà Lạt.,HOTEL#GENERAL,positive
+1024,"Mũi Né Paradise Resort có khuôn viên rộng rãi, thoáng mát, vệ sinh sạch sẽ, tiện nghi đầy đủ, nhân viên resort hỗ trợ khách nhiệt tình, tôi cảm thấy chất lượng của resort tốt, tôi không có vấn đề gì phải phàn nàn cả.",HOTEL#CLEANLINESS,positive
+1025,"Tuy nhiên, ở đây thì hệ thống wifi hơi yếu, không sử dụng được, khá bất tiện về điều này.",FACILITIES#QUALITY,negative
+1026,Tôi thấy căn phòng mà tôi đang ở chưa phù hợp tiêu chuẩn 3  sao vì trang thiết bị nội thất cũ và thiết kế chưa được đẹp.,ROOM_AMENITIES#QUALITY,negative
+1027,"Khung cảnh resort thoáng đãng, phòng ốc sạch sẽ.",HOTEL#DESIGN&FEATURES,positive
+1028,"Đà Lạt là một nơi tuyệt vời, rất thanh thản, thư giãn và mát mẻ so với sự bận rộn của các thành phố lớn ở Việt Nam.",HOTEL#GENERAL,neutral
+1029,"Chất lượng cơ sở hạ tầng vật chất, cũng như dịch vụ của khách sạn Saphir đều tốt.",FACILITIES#QUALITY,positive
+1030,"Còn đi lại thì hơi xa, khu vực này cũng khá vắng, với lại đồ ăn sáng cũng chưa được ngon lắm.",LOCATION#GENERAL,negative
+1031,"Tiện nghi thiếu rèm cửa, buổi sáng nắng chiếu chói chang.",ROOMS#MISCELLANEOUS,negative
+1032,"Tổng quan nơi này đẹp, phòng ốc sạch sẽ, các bạn nhân viên vui vẻ, giá cả hợp lý.",ROOMS#CLEANLINESS,positive
+1033,"Khách sạn có vị trí tốt, tiện nghi sang trọng, phục vụ nhiệt tình.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+1034,Căn phòng mà tôi ở thì sạch sẽ và có máy nước nóng.,ROOM_AMENITIES#MISCELLANEOUS,positive
+1035,"Phòng nghỉ rộng rãi, đầy đủ tiện nghi và đặc biệt là nhân viên nhà hàng rất gần gũi và nhiệt tình, chỉ có điều thức ăn ở đây chỉ bình thường chưa được đặc sắc cho lắm nhưng không thành vấn đề.",ROOMS#DESIGN&FEATURES,positive
+1036,"Ở đây chưa tạo được nhiều ấn tượng cho tôi, nghỉ lại không thoải mái nên có lẽ tôi sẽ chẳng quay lại.",HOTEL#GENERAL,negative
+1037,Về chất lượng phòng ốc thì khá được vì cũng sạch sẽ và tương đối đủ tiện nghi.,ROOMS#QUALITY,positive
+1038,"Tuy nhiên thức ăn sáng rất ít món, cần cải thiện vấn đề này để thu hút khách hơn.",FOOD&DRINKS#QUALITY,positive
+1039,"Khi vào phòng thì tôi thấy trên sàn và bàn ghế vẫn còn có bụi, còn drap giường thì sạch sẽ, phòng ốc cũng được trang bị đầy đủ tiện nghi, nhân viên thân thiện và nhiệt tình.",ROOM_AMENITIES#CLEANLINESS,positive
+1040,"Bởi vì nhân viên có thái độ giao tiếp tốt, lịch sự và hoà nhã.",SERVICE#GENERAL,positive
+1041,Bữa sáng phong phú với nhiều sự lựa chọn món ăn.,FOOD&DRINKS#STYLE&OPTIONS,positive
+1042,"Mọi thứ đều ổn, tiện ích cơ bản đáp ứng được yêu cầu của khách, tôi hài lòng khi nghỉ tại đây.",ROOM_AMENITIES#GENERAL,positive
+1043,"Phòng ốc sạch sẽ, gọn gàng, trang thiết bị cũng như cơ sở vật chất được trang bị tương đối đầy đủ.",FACILITIES#GENERAL,positive
+1044,"Căn phòng mà tôi ở thì hơi bé, thiết bị nội thất cũng cũ.",ROOM_AMENITIES#QUALITY,positive
+1045,Cửa nhà VS đóng rồi khó mở.,ROOM_AMENITIES#MISCELLANEOUS,negative
+1046,"Cơ sở vật chất đã có hiện tượng xuống cấp, tiện nghi trong phòng quá cũ được cái là các bạn nhân viên dọn dẹp kĩ lưỡng nên còn tạm được.",ROOM_AMENITIES#QUALITY,negative
+1047,"Nhà tắm 2 ngăn sạch sẽ, áp lực nước vòi sen rất lớn.",ROOM_AMENITIES#CLEANLINESS,positive
+1048,"Ngoài ra thì vị trí thuận lợi cho tôi đi lại, giá cả ok, nhân viên phục vụ chu đáo.",HOTEL#PRICES,positive
+1049,"Vị trí này thì khá yên tĩnh, thích hợp để nghỉ dưỡng.",HOTEL#COMFORT,positive
+1050,"Nệm giường thì cứng như phản gỗ, gối thi nhão !",ROOM_AMENITIES#COMFORT,negative
+1051,"Ở khu vực này, bãi tắm không đẹp lắm, có khá nhiều vỏ sò, phải đi khá xa, qua bãi tắm khác mới có tắm được.",FACILITIES#GENERAL,negative
+1052,"Cảnh quang xung quanh của khách sạn nhìn rất thơ mộng, yên tĩnh phù hợp để nghỉ ngơi.",HOTEL#GENERAL,positive
+1053,"Vừa qua, tôi có chọn khách sạn Blue Sea để đặt phòng và nhận thấy phòng ốc nơi này tốt vệ sinh sạch sẽ, tiện nghi đầy đủ, tuy nhiên wifi không vào được, nơi giữ xe không có bảo vệ, do đó khi gửi thì không được an toàn.",ROOM_AMENITIES#GENERAL,positive
+1054,"Nhân viên làm việc cũng lịch sự, vui vẻ, thân thiện, ăn sáng cũng được, nhìn chung, thì dịch vụ ổn, cảnh quang xung quanh thoáng mát, giá cả hơp lý, tôi khá hài lòng khi nghỉ tại đây.",HOTEL#PRICES,positive
+1055,Với lại đồ ăn đắt quá.,FOOD&DRINKS#PRICES,negative
+1056,"Nhà vệ sinh có mùi hôi, hệ thống cống hôi, không được thoải mái lắm khi mới bước vào phòng.",ROOM_AMENITIES#CLEANLINESS,negative
+1057,"Thêm vào đó, vị trí thuận tiện di chuyển, cùng với dịch vụ phòng ở hợp lý so với giá tiền nên tôi thấy ở được.",ROOMS#PRICES,positive
+1058,"Cảnh quang xung quanh đẹp, vấn đề ăn uống được cũng như đi lại ok và giá cả hợp lý.",HOTEL#DESIGN&FEATURES,positive
+1059,Phòng ốc tại đây khá sạch sẽ và cũng tương đối đủ tiện nghi phù hợp với nhu cầu của tôi.,ROOM_AMENITIES#GENERAL,positive
+1060,"Cơ sở hạ tầng tốt, trang thiết bị hiện đại.",FACILITIES#QUALITY,positive
+1061,"Về dịch vụ phòng ốc thì sạch sẽ, gọn gàng và đầy đủ tiện nghi.",ROOMS#CLEANLINESS,positive
+1062,"Phòng đạt tiêu chuẩn, sạch sẽ, rộng rãi, tiện nghi, mang lại cho tôi cảm giác khá thoải mái.",ROOMS#QUALITY,positive
+1063,Lối cổ xưa gia đình tôi không thích.,HOTEL#DESIGN&FEATURES,negative
+1064,"Thế nhưng phòng nhiều muỗi, và toilet hôi vì không có quạt hút mùi.",ROOM_AMENITIES#CLEANLINESS,negative
+1065,"Vị trí thuận tiện đi lại, giá cả phù hợp với chất lượng, nói chung không có gì để phàn nàn.",HOTEL#PRICES,positive
+1066,"Phòng ốc sạch sẽ, đồ đạc ngăn nắp và các tiện nghi cần thiết đều đầy đủ.",ROOM_AMENITIES#GENERAL,positive
+1067,Nhìn chung thì không có gì để phàn nàn về nơi này.,HOTEL#GENERAL,positive
+1068,"Thêm vào đó, không gian nghỉ ngơi sạch sẽ, cách bài trí tiện nghi khang trang, hài hoà đủ làm tôi thấy hài lòng.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+1069,"Tôi đã đến khách sạn Phương Huy 1, tôi thấy phòng sạch sẽ và cách phục vụ rất tận tình.",ROOMS#CLEANLINESS,positive
+1070,"Trừ điểm này ra thì còn lại mọi thứ đều ổn từ hệ thống phòng ốc, nhân viên phục vụ đến tiện nghi đi kèm và vị trí cũng như giá cả.",ROOMS#GENERAL,positive
+1071,"Riêng về buffet sáng thì không được đa dạng, nhìn món ăn khá đơn giản.",FOOD&DRINKS#STYLE&OPTIONS,negative
+1072,Nhìn chung Mũi Né Paradise Beach Resort có view đẹp tuy nhiên wifi yếu quá.,HOTEL#GENERAL,positive
+1073,Nhưng cơ sở vật chất của khách sạn đã cũ rồi.,ROOM_AMENITIES#QUALITY,negative
+1074,"Mũi Né Paradise Beach Resort có kiến trúc đẹp, trang thiết bị đầy đủ và hiện đại.",FACILITIES#GENERAL,positive
+1075,Các tiện ích cơ bản đạt tiêu chuẩn và đáp ứng được yêu cầu của khách.,FACILITIES#GENERAL,positive
+1076,"Nước trong hồ bơi không sạch, lâu lâu mới thay một lần. Đồ ăn thì đảm bảo an toàn vệ sinh nhưng giá thành còn đắt quá.",FOOD&DRINKS#PRICES,negative
+1077,"Còn về chất lượng phòng nghỉ thì đạt yêu cầu, các trang thiết bị tiện nghi hoạt động tốt, dọn phòng kỹ lưỡng, gọn gàng.",ROOMS#QUALITY,positive
+1078,"Phòng ốc tiện nghi đầy đủ, vệ sinh cũng sạch sẽ nhưng nhìn cách bày trí, chất lượng nội thất thì bình thường.",ROOMS#CLEANLINESS,positive
+1079,"buffet sáng thì không ngon, ít món và không có sự lựa chọn.",FOOD&DRINKS#QUALITY,negative
+1080,Khâu vệ sinh cũng được chú ý.,HOTEL#CLEANLINESS,positive
+1081,"Ăn uống tốt, đồ ăn khá ngon.",FOOD&DRINKS#QUALITY,positive
+1082,"Tôi đặt 5 phòng chỉ có 1 phòng 414 là tốt nhất, phòng này chỉ có bồn toilet đóng váng.",ROOM_AMENITIES#CLEANLINESS,negative
+1083,"Còn 4 phòng còn lại lần lượt là 201, 203, 701 và 703 thì có toilet không sạch, ẩm mốc, toilet đóng váng.",ROOM_AMENITIES#CLEANLINESS,negative
+1084,Giá cả phù hợp với chất lượng dịch vụ khách sạn này cung cấp.,HOTEL#QUALITY,positive
+1085,Tất cả mọi thứ được sạch sẽ.,HOTEL#CLEANLINESS,positive
+1086,Chỉ có buffe sáng chưa được phong phú và chất lượng.,FOOD&DRINKS#QUALITY,negative
+1087,"Thực tế thì dịch vụ ở Happy Day Hotel cũng không phải là quá tốt, như nhiều ý kiến đánh giá thì mọi thứ ở đây cũng bình thường, phòng ở không có gì nổi bật, nhân viên thì lịch sự, không có gì phàn nàn, với giá cả như vậy thì dịch vụ như thế là tương xứng, nên không đánh giá nhiều, vị trí cũng khá gần trung tâm, đi lại thuận tiện.",HOTEL#PRICES,positive
+1088,"Nghỉ ngơi tại khách sạn này thì tôi không phàn nàn gì cả, những gì khách sạn đang có tốt như:đội ngũ nhân viên phục vụ khách hàng vui vẻ, lịch sự, trang thiết bị, tiện nghi được bố trí đầy đủ, vệ sinh phòng ốc sạch sẽ.",SERVICE#GENERAL,positive
+1089,"Phòng ốc thì được dọn dẹp gọn gàng, đầy đủ tiện nghi để sử dụng.",ROOMS#CLEANLINESS,positive
+1090,Phòng rất nóng.,ROOMS#COMFORT,negative
+1091,"Khách sạn saphir theo lối cổ, vị trí gần chợ, nhưng giá tương đối cao.",HOTEL#DESIGN&FEATURES,negative
+1092,"Phòng không máy sấy tóc, bình đun nước sôi pha trà.",ROOM_AMENITIES#MISCELLANEOUS,negative
+1093,"Phòng ốc ở Mũi Né Paradise Beach Resort này đang bị xuống cấp, chất lượng giống nhà nghỉ.",ROOMS#QUALITY,negative
+1094,"Giá cả không cao, giá tương xứng với dịch vụ, tôi hài lòng khi nghỉ tại đây.",HOTEL#PRICES,positive
+1095,"Điểm cộng cho khách sạn là Buffet sáng ở saphir phong phú và ngon, nội thất đẹp, wifi mạnh, gần chợ, phòng giống trong hình chụp.",FACILITIES#QUALITY,positive
+1096,Theo ý kiến khách quan của tôi thì tôi cảm thấy hài lòng và không vấn đề gì phàn nàn về Khách Sạn Mường Thanh Grand Đà Nẵng trong chuyến đi vừa qua.,HOTEL#COMFORT,positive
+1097,"Phòng thoáng mát, tiện nghi đầy đủ, rất phù hợp với nhu cầu sử dụng và giá cả.",HOTEL#PRICES,positive
+1098,Lần 2:phòng ngay thang máy lại ở vị trí mái xéo nên không thoải mái và ồn bởi tiếng thang máy người ta đi lên đi xuống đến 12 giờ đêm tôi phải đổi phòng lần 3 thì mới yên ổn ngủ được.,ROOMS#COMFORT,negative
+1099,"Cơ sở hạ tầng tốt, trang thiết bị hiện đại.",FACILITIES#DESIGN&FEATURES,positive
+1100,"Sau khi sử dụng các dịch vụ tại khách sạn Saphir Đà Lạt ở kì nghỉ vừa qua thì tôi đánh giá chất lượng ở mức ổn và đáp ứng đủ nhu cầu cơ bản từ hệ thống phòng ốc, vấn đề ăn uống, đi lại cũng như nhân viên phục vụ và mức giá cả.",HOTEL#PRICES,positive
+1101,Tôi cảm thấy hài lòng về khách sạn này vì phòng ốc cũng sạch sẽ và tương đối phù hợp với giá tiền mà tôi bỏ ra nên tôi không có phàn nàn gì cả.,HOTEL#PRICES,positive
+1102,"masage, nail, quầy hàng lưu niệm.",FACILITIES#MISCELLANEOUS,positive
+1103,"Về cơ sở vật chất tại resort tôi thấy cũng xuống cấp nên phòng ở và nội thất đều cũ, vệ sinh thì tàm tạm.",FACILITIES#QUALITY,negative
+1104,"Tuy nhiên, bữa sáng phục vụ còn ít món và quang cảnh xung quanh chưa đẹp lắm vì khách sạn đang xây dựng.",HOTEL#MISCELLANEOUS,positive
+1105,Vị trí cũng thuận tiện cho việc đi lại và giá cả thì tương xứng với chất lượng nên không có gì để than phiền hết.,HOTEL#PRICES,positive
+1106,Bữa sáng phong phú với nhiều sự lựa chọn.,FOOD&DRINKS#STYLE&OPTIONS,positive
+1107,"Vị trí khá gần trung tâm, mọi thứ đều ổn, giá cả lại hợp lý, tôi hài lòng khi nghỉ tại đây, cảm ơn mytour đã hỗ trợ tôi đặt phòng nhanh chóng và giá tốt.",ROOMS#PRICES,positive
+1108,Do phòng ốc cách âm không tốt nên buổi tối gia đình tôi không thể nào ngủ được vì khá ồn.,ROOMS#COMFORT,negative
+1109,Phòng rộng nhưng nên có ngăn cách giữa chỗ làm việc và giường ngủ.,ROOM_AMENITIES#DESIGN&FEATURES,negative
+1110,"Máy sấy tóc không có, điện thoại trong phòng không có, mỗi lần muốn liên hệ lễ tân phải chạy ra tận quầy, mà không biết nhân viên lễ tân đi đâu mà lúc nào quầy cũng vắng tanh, phải chạy vòng vòng đi tìm, cũng may là khách sạn nhỏ xíu.",ROOM_AMENITIES#MISCELLANEOUS,negative
+1111,"Khách sạn nằm gần trung tâm nên đi lại thuận tiện, tôi hài lòng khi nghỉ tại đây.",LOCATION#GENERAL,positive
+1112,Phòng ốc cũng hết sức tiện nghi và thoải mái.,ROOM_AMENITIES#COMFORT,positive
+1113,"Ưu điểm: Phong cách phục vụ tốt, lễ tân lịch sự với du khách ; Vị trí nhà nghỉ thích hợp để đi lại vui chơi, tham quan.",LOCATION#GENERAL,positive
+1114,Phòng ốc tương đối được so với giá tiền tôi bỏ ra.,ROOMS#GENERAL,neutral
+1115,"Tuy nhiên, wifi không sử dụng được và phòng cách âm không tốt khá ồn.",FACILITIES#QUALITY,negative
+1116,"Khách sạn sạch sẽ, nội thất đầy đủ, khá khang trang nên trong thời gian nghỉ ngơi lại đây tôi ở cũng cảm thấy thoải mái.",ROOM_AMENITIES#GENERAL,positive
+1117,"Vì thiết kế phòng ở trang nhã, tiện nghi hữu ích.",ROOMS#DESIGN&FEATURES,positive
+1118,Ăn sáng không đa dạng nhưng đồ ăn ok.,FOOD&DRINKS#STYLE&OPTIONS,negative
+1119,Giá phòng đặt qua Mytour tốt và đúng dịp Khuyến mại.,ROOMS#PRICES,positive
+1120,Tôi ở phòng suit có view hướng ra cầu rồng và toàn cảnh thành phố.,ROOMS#GENERAL,positive
+1121,"Phòng tôi ở trên tầng cao nên có view đẹp, vệ sinh sạch sẽ, tiện nghi đầy đủ và hiện đại.",ROOM_AMENITIES#QUALITY,positive
+1122,"Trong phòng có các thiết bị nội thất hiện đại, trang trí nhã nhặn.",ROOM_AMENITIES#QUALITY,positive
+1123,"Có điều nước nóng ở đây lúc nóng lúc lạnh, tôi có nhờ nhân viên hỗ trợ nhưng cũng không khắc phục được.",ROOMS#MISCELLANEOUS,negative
+1124,"Ăn sáng thì người lớn nhận xét ăn khá ngon, nhưng trẻ em không thích lắm.",FOOD&DRINKS#QUALITY,positive
+1125,"Tôi thấy khách sạn rất phù hợp để nghỉ dưỡng vì cảnh đẹp và dịch vụ có chất lượng tốt, phòng ốc đẹp và sang trọng.",HOTEL#QUALITY,positive
+1126,Sau đó tôi xuống thì thấy tài xế nằm trong xe và không ngủ được vì lạnh nên có hỏi nhân viên thì được báo là hết phòng và không còn chỗ nào trống.,HOTEL#MISCELLANEOUS,negative
+1127,"Khách sạn Saphir ở Đà Lạt lần này tôi cảm thấy chưa hài lòng khi chọn dịch vụ tại đây:Phòng ốc đồ đạc cũ kỹ, mà phòng tôi ở là phòng đầu tiên, gần lễ tân nên rất ồn, không có hệ thống cách âm nên rất khó ngủ, nhưng được một điểm là nhân viên ở đây cũng vui vẻ thân thiện và nhiệt tình, .",ROOM_AMENITIES#QUALITY,negative
+1128,Xứng đáng với chất lượng 4  sao.,HOTEL#QUALITY,positive
+1129,Bù lại mình đặt phòng Superior Garden View nhưng hướng nhìn ra hồ bơi và nhìn thẳng ra biển.,ROOMS#GENERAL,positive
+1130,Biển ở đây sạch và tắm rất được.,FACILITIES#QUALITY,positive
+1131,"Tôi đặt 7 phòng nhưng đã có 4 phòng không có nước sinh hoạt. buffet quá dỡ, toàn món lạnh, không có gì để ăn cả.",FOOD&DRINKS#STYLE&OPTIONS,negative
+1132,"Thái độ nhân viên cũng tốt, vui vẻ, nhiệt tình, dịch vụ tương xứng với giá cả.",HOTEL#PRICES,positive
+1133,"Căn phòng mà tôi ở thì hơi bé, thiết bị nội thất cũng cũ.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+1134,"Nhà hàng làm đồ ăn đắt và ít, hồ bơi dơ, các tiện ích giải trí khác luôn quá tải, bãi xe chật chội và nhân viên xin xỏ thêm tiền xe.",FACILITIES#DESIGN&FEATURES,negative
+1135,"Khách Sạn Saphir Đà Lạt đáp ứng được các yêu cầu của tôi về phòng ốc như:phòng có một giường đôi, phòng không hút thuốc, phòng ở tầng cao.",ROOMS#GENERAL,positive
+1136,Phòng ốc cũng được dọn phòng hàng ngày nhưng vẫn thấy con gì đó.,ROOMS#COMFORT,positive
+1137,"gia đình tôi nghỉ 1 đêm tại đây, đúng theo chuẩn 3 sao, phòng hơi nhỏ so với dạng phòng deluxe, giá phòng hơi cao so với chất lượng phòng.",ROOMS#DESIGN&FEATURES,negative
+1138,Tôi đến vào dịp Khách Sạn Phương Huy 1 Đà Lạt này đang sửa chữa nên hơi bất tiện với tôi.,HOTEL#MISCELLANEOUS,positive
+1139,"Thời gian nghỉ ngơi ở Mũi Né Paradise Beach Resort, tôi nhận thấy chất lượng ở đây cũng bình thường, cảnh quang xung quanh cũng không đẹp, phòng ở nhỏ nhìn chung chất lượng phòng ốc cũng tương đối.",ROOMS#QUALITY,neutral
+1140,Vị trí cũng thuận tiện cho việc đi lại và giá cả thì tương xứng với chất lượng nên không có gì để than phiền hết.,LOCATION#GENERAL,positive
+1141,"Tiện nghi thiếu rèm cửa, buổi sáng nắng chiếu chói chang.",ROOM_AMENITIES#MISCELLANEOUS,negative
+1142,"Trong chuyến du lịch vừa qua tôi có đặt phòng tại khách sạn Phương Huy 1 Đà Lạt làm nơi nghỉ ngơi và sau khi ở đây tôi cảm thấy hài lòng về mọi thứ từ nhân viên phục vụ, phòng ốc tiện nghi đến vị trí và giá cả.",ROOM_AMENITIES#COMFORT,positive
+1143,"Khung cảnh Mũi Né Paradise Resort gần gũi, ấm cúng dành cho nhiều gia đình đi với nhau, tuy nhiên 1 số phòng trang bị chưa tốt như phòng 202, 203 dưới đất, gần hồ bơi, 304 trên lầu có mùi hôi từ cống trong nhà vệ sinh bốc lên.",HOTEL#DESIGN&FEATURES,positive
+1144,Thời điểm tôi ở thì nhân viên đang sắp xếp tiệc cho một công ty nên khá ồn ào.,HOTEL#MISCELLANEOUS,positive
+1145,- Buffet sáng rất tệ.,FOOD&DRINKS#QUALITY,negative
+1146,Đến tối khi tôi về phòng thì tôi thấy phòng vẫn chưa được dọn dẹp.,ROOMS#CLEANLINESS,negative
+1147,Chỉ có điều là bờ biển sát với thềm quá nên khó xuống tắm biển.,FACILITIES#COMFORT,negative
+1148,"Theo đánh giá của tôi là nơi này cũ nhiều rồi, ban đầu nhân viên khách sạn có đưa cho tôi 1 phòng nhưng tôi thấy phòng ốc có vẻ xuống cấp, tiện nghi phòng còn nhiều cái bị hư hỏng, sau đó tôi có yêu cầu đổi phòng thì các bạn cũng Ok, vui vẻ và nhiệt tình đổi phòng khác cho tôi có phần tốt hơn chút nhưng cũng chưa thật sự là tốt đúng tiêu chuẩn.",SERVICE#GENERAL,positive
+1149,Dịch vụ ăn sáng có thay đổi thực đơn qua ngày khác.,FOOD&DRINKS#STYLE&OPTIONS,neutral
+1150,"Resort này có ưu điểm về vị trí bãi biển khá đẹp, thái độ nhân viên phục vụ niềm nở, đồ ăn sáng cũng ngon miệng còn về chất lượng phòng thì tôi chẳng hài lòng tí nào.",FOOD&DRINKS#QUALITY,positive
+1151,Khách sạn Saphir Đà Lạt có chất lượng và dịch vụ cũng ổn.,HOTEL#QUALITY,neutral
+1152,"Resort có bãi biển riêng do đó tôi có thể thoải mái dạo mát, tắm biển hoặc ngắm cảnh.",FACILITIES#GENERAL,positive
+1153,Chất lượng phòng ốc của khách sạn Happy Day thì ok đấy nhưng thái độ làm việc của bạn lễ tân thì rất vô trách nhiệm.,ROOMS#QUALITY,positive
+1154,Hy vọng khách sạn nên nâng cấp 1 tí ở khu vực cũ.,HOTEL#QUALITY,negative
+1155,Họ bố trí tôi ở căn phòng có thiết kế và bài trí nội thất khang trang.,ROOM_AMENITIES#DESIGN&FEATURES,positive
+1156,"Phòng lần này tôi ở hơi nhỏ hơn so với những lần trước, nhưng tiện nghi trong phòng cũng tương đối đầy đủ và hữu ích, có một vấn đề nhỏ thôi là vòi sen trong nhà vệ sinh ở phòng tôi bị vấn đề nên không thể móc lên tường được nhưng sử dụng vẫn ok.",ROOM_AMENITIES#MISCELLANEOUS,negative
+1157,"Kì nghỉ vừa qua tôi có đặt phòng ở Terracotta Hotel and Resort Đà Lạt, phòng ốc được trang bị đầy đủ các tiện nghi phục vụ cho nhu cầu nghỉ ngơi của tôi, giá cả tương xứng so với chất lượng dịch vụ, phòng ở sạch đẹp cùng với không gian thoáng mát, tôi thấy rất hài lòng.",HOTEL#PRICES,positive
+1158,"Phòng ốc thì sạch sẽ, đồ đạc gọ n gàng.Nhân viên thì vui vẻ, ni ềm nở chào đón. Bữa sáng không phải buf fet nhưng ăn cũng được.Vị trí đi lại cũng tiện và giá cả thì phải chăng.",FOOD&DRINKS#MISCELLANEOUS,neutral
+1159,Khách sạn gần các điểm vui chơi ở Đà Lạt.,LOCATION#GENERAL,positive
+1160,"Phòng ốc đẹp, cảnh quan, không gian thoán đãng, có bể bơi trong nhà.",ROOMS#DESIGN&FEATURES,positive
+1161,Haizz.,SERVICE#GENERAL,negative
+1162,"Phòng để 1 cái hơi bất tiện, vì là phòng 2 người.",ROOM_AMENITIES#COMFORT,negative
+1163,"Kì nghỉ vừa qua tôi có đặt phòng ở Happy Day 1 Guesthouse, tôi cũng không phàn nàn gì khi lưu trú ở đây, giá cả nhìn chung cũng tương xứng so với chất lượng dịch vụ, phòng ốc cũng sạch sẽ và tiện nghi cơ bản được trang bị đầy đủ.",ROOM_AMENITIES#GENERAL,positive
+1164,Tôi thấy giá cao so với chất lượng khách sạn này đang cung cấp.,HOTEL#QUALITY,positive
+1165,"Trong quá trình đặt phòng và lưu trú tại Cần Giờ Resort, tôi không gặp phải vấn đề gì quá khó khăn.",HOTEL#GENERAL,positive
+1166,View nhìn ra ngoài có phần hạn chế.,ROOMS#GENERAL,negative
+1167,Ăn sáng không đa dạng nhưng đồ ăn ok.,FOOD&DRINKS#QUALITY,positive
+1168,"Tuy nhiên ít dịch vụ giải trí, thể thao.",HOTEL#MISCELLANEOUS,negative
+1169,Với lại nhà tắm nó hơi bị tràn nước.,ROOM_AMENITIES#MISCELLANEOUS,negative
+1170,"Từng nghỉ ngơi tại khách sạn này nên tôi có các nhận xét như sau:giá cả khá hợp lý, nệm cũ và bị lõm xuống, các bạn nhân viên có cung cách phục vụ khách hàng ổn, phòng ốc được dọn dẹp vệ sinh khá sạch sẽ.",ROOM_AMENITIES#QUALITY,negative
+1171,"Mọi người đều lịch sự, địa điểm thuận tiện, giá cả hợp lý nên tôi ở thấy thoải mái.",HOTEL#COMFORT,positive
+1172,"Ở Khách Sạn Blue Sea thì vị trí cũng đẹp, đi lại thuận tiện, phòng ở cũng ok, vệ sinh sạch sẽ, đầy đủ tiện nghi.",ROOMS#GENERAL,positive
+1173,"Khách sạn có bãi biển không được đẹp, bể bơi bẩn, phòng ốc có mùi hôi khó chịu, đồ ăn sáng không ngon.",FACILITIES#GENERAL,positive
+1174,"Vấn đề thứ 2 là bữa ăn sáng không ngon, cần cải thiện việc nhận phòng và thực đơn ăn sáng.",FOOD&DRINKS#STYLE&OPTIONS,negative
+1175,"Diện tích phòng ở rộng rãi, được vệ sinh sạch sẽ, tiện nghi đầy đủ, rất thoải mái khi ở.",ROOM_AMENITIES#GENERAL,positive
+1176,"Phòng ốc cũng được trang bị đầy đủ tiện nghi, vệ sinh sạch sẽ.",HOTEL#CLEANLINESS,positive
+1177,"Giá thành phù hợp với chất lượng phòng, tiện nghi đầy đủ, vệ sinh đảm bảo.",FACILITIES#GENERAL,positive
+1178,Tuy nhiên phục vụ bữa sáng chưa được đa dạng lắm.,FOOD&DRINKS#STYLE&OPTIONS,negative
+1179,Buffet sáng cũng tạm được.,FOOD&DRINKS#QUALITY,negative
+1180,Mình sẽ không bao giờ xuống Cần Giờ và ở đây nữa.,HOTEL#GENERAL,negative
+1181,"Phòng nghỉ khang trang, hiện đại, có view đẹp.",ROOMS#GENERAL,positive
+1182,"Nhìn chung với chất lượng 4  sao thì Khách Sạn TTC Hotel Premium Ngọc Lan đã đáp ứng đầy đủ các dịch vụ và tôi khá hài lòng, từ thái độ làm việc của nhân viên đến chất lượng phòng cũng như dịch vụ ăn uống.",ROOMS#QUALITY,positive
+1183,Tuy phòng hơi cũ tường sơn bị tróc nhưng nói chung là hài lòng.,ROOMS#COMFORT,positive
+1184,"chỗ masage dịch vụ chưa tốt, phòng ok sạch sẽ.",FACILITIES#QUALITY,negative
+1185,"Tôi có nghỉ tại Paradise Beach Resort trong chuyến đi vừa rồi, tôi khá hài lòng và thoải mái khi nghỉ tại đây, như nhiều ý kiến đánh giá thì tôi thấy dịch vụ ở đây cũng ok, phòng sạch sẽ, đạt tiêu chuẩn và tương xứng với giá tiền.",ROOMS#PRICES,positive
+1186,"Buffet sáng ở đây cũng dở, ít món, cũng không thấy ai châm thêm món.",FOOD&DRINKS#STYLE&OPTIONS,negative
+1187,"Đồ ăn sáng thì nghèo nàn, chỉ có trứng ốp la với phở nước.",FOOD&DRINKS#STYLE&OPTIONS,negative
+1188,"Phòng có rất nhiều chuột và muỗi, khăn tắm thì có sâu bám đầy.",ROOM_AMENITIES#MISCELLANEOUS,negative
+1189,Các nhân viên thân thiện và bữa sáng miễn phí rất tuyệt vời !,FOOD&DRINKS#QUALITY,positive
+1190,Tôi rất là phàn nàn về chất lượng dịch vụ tại khách sạn Phương Huy 1 Đà Lạt.,SERVICE#GENERAL,negative
+1191,Mong rằng resort chú trọng vấn đề này.,HOTEL#MISCELLANEOUS,neutral
+1192,"Địa thế toạ lạc của Khách Sạn Phương Huy 1 rất tốt, nằm gần trung tâm nên đi lại dễ dàng lắm.",LOCATION#GENERAL,positive
+1193,"Vị trí đi lại cũng dễ dàng, ăn uống tốt và giá cả phù hợp.",FOOD&DRINKS#PRICES,positive
+1194,"Tuy nhiên, phòng hơi nhỏ và chật chội.",ROOMS#DESIGN&FEATURES,negative
+1195,"PHòng nhỏ, nội thất cũ, giường, tủ kêu cọt kẹt.",ROOM_AMENITIES#QUALITY,negative
+1196,"Ồ, và tôi không biết điều này có tồn tại lâu không nhưng phòng của chúng tôi chỉ có 30 nghìn đồng mỗi đêm.",ROOMS#PRICES,positive
+1197,Đường vào resort tối không có đèn đường lúc mình đi xe máy thấy hơi mất an toàn.,HOTEL#MISCELLANEOUS,negative
+1198,"thức ăn sáng ngon - vị trí đẹp nhiều cây mát mẽ, vệ sinh nâng cấp lên nữa thì tốt",FOOD&DRINKS#QUALITY,positive
+1199,"Quan trọng là nhân viên ở đây đối xử với khách ân cần, nhiệt tình chỉ dẫn cho tôi những quán ăn ngon và các địa điểm nên tham quan của Đà Lạt.",SERVICE#GENERAL,positive
+1200,ban đầu tôi vẫn lăng tăng có nên chọn Cần Giờ Resort này không bởi vì hình ảnh của resort này không bắt mắt và nhìn có vẻ cũ nhưng bây giờ tôi cảm thấy quyết định của mình là đúng vì bên ngoài resort mới mẻ và xinh đẹp hơn nhiều.,HOTEL#COMFORT,positive
+1201,"Tôi đặt 7 phòng nhưng đã có 4 phòng không có nước sinh hoạt. buffet quá dỡ, toàn món lạnh, không có gì để ăn cả.",ROOM_AMENITIES#DESIGN&FEATURES,positive
+1202,Tôi nhận thấy chất lượng dịch vụ Khách Sạn Phương Huy 1 Đà Lạt phù hợp so với số tiền mà tôi đã chi trả.,HOTEL#QUALITY,positive
+1203,Nhìn chung dịch vụ của Khách sạn Phương Huy 1 khá tốt.,HOTEL#GENERAL,positive
+1204,Đặc biệt sạch sẽ.,HOTEL#CLEANLINESS,positive
+1205,Qua đây tôi đánh giá chất lượng khách sạn khá tốt vì dịch vụ khá ổn và đáp ứng đầy đủ các nhu cầu của tôi.,SERVICE#GENERAL,positive
+1206,"Tóm lại, tôi có 4 ngày nghỉ cảm giác không tương xứng với số tiền bỏ ra cho dịch vụ và tiện nghi tại đây.",HOTEL#PRICES,negative
+1207,"Mà họ cũng không có phục vụ đồ ăn trong khách sạn, hơi bất tiện với du khách.",FOOD&DRINKS#MISCELLANEOUS,negative
+1208,"Khách sạn sạch sẽ, nội thất đầy đủ, khá khang trang nên trong thời gian nghỉ ngơi lại đây tôi ở cũng cảm thấy thoải mái.",HOTEL#CLEANLINESS,positive
+1209,"Phòng ốc ở đây tạm chấp nhận được, so với giá phòng thì phù hợp.",ROOMS#PRICES,neutral
+1210,"Chỉ có 1 việc không vui là gạch lót thang máy bị bể, rất dễ bị đứt chân nếu đi tắm biển không mang dép theo.",FACILITIES#MISCELLANEOUS,negative
+1211,"Các phòng đơn hơi nhỏ một chút, phòng đôi thì khá rộng rãi, có ban công và cửa sổ.",ROOMS#COMFORT,positive
+1212,"Tuy nhiên, tại sảnh chính đón khách không có khu vực hút thuốc riêng, làm ảnh hưởng đến trẻ nhỏ và các cá nhân không hút thuốc.",FACILITIES#DESIGN&FEATURES,negative
+1213,"Nhìn chung về Cần Giờ Resort, tôi thấy cũng ổn.",HOTEL#GENERAL,neutral
+1214,"Phục vụ tốt, nhưng phòng nằm hơi khuất, không có thang máy.",FACILITIES#DESIGN&FEATURES,negative
+1215,"Xét về dịch vụ phòng ốc ở Paradie Beach resort a member of Ngọc Sương Mũi Né thì tôi thấy phòng hơi chật, nhỏ nên ở chưa thoải mái lắm nhưng vệ sinh phòng thì tốt, sạch sẽ, gọn gàng.",ROOMS#COMFORT,negative
+1216,Địa điểm toạ lạc thuận tiện đi đến các điểm tham quan.,LOCATION#GENERAL,positive
+1217,"Vừa qua, tôi có nghỉ ngơi tại khách sạn này và tôi có yêu cầu đặt phòng 1 giường nhưng đến đó thì giao phòng 2 giường, máy lạnh bị chảy nước do không ảnh hưởng gì đến tôi nên tôi cũng không phản hồi đến khách sạn.",ROOM_AMENITIES#MISCELLANEOUS,negative
+1218,"Như phòng mình ở sáng hướng nắng chiếu vào, nên khá nóng, hỏi khách sạn xem có quạt không thì khách sạn nói không có.",ROOM_AMENITIES#GENERAL,negative
+1219,"Nội thất được cung cấp hiện đại, đầy đủ.",ROOM_AMENITIES#QUALITY,positive
+1220,"Nhà mình có 2 con nhỏ 4 tuổi và 2 tuổi, đặt phòng Premium deluxe King.",ROOMS#GENERAL,neutral
+1221,Cơ sở vật chất ở đây cùng còn khá mới.,FACILITIES#GENERAL,positive
+1222,"Khách Sạn Mường Thanh Grand Đà Nẵng tôi có đặt phòng trong chuyến đi vừa rồi cho cô, chú của mình thì được phản hồi không được ok lắm vì phòng không được chủ động don vệ sinh, nhân viên nơi này họ cũng không nhiệt tình với khách hàng cho lắm.",SERVICE#GENERAL,negative
+1223,"Phòng ốc tại đây cũng sạch sẽ, tương đối đủ tiện nghi cho tôi sử dụng.",ROOM_AMENITIES#GENERAL,positive
+1224,"Khách Sạn Blue Sea có dịch vụ tốt, phòng ốc sạch sẽ, tiện nghi đầy đủ, chỉ có ra trải giường là nhìn chưa được sạch sẽ lắm.",ROOM_AMENITIES#CLEANLINESS,negative
+1225,"Mọi dịch vụ tôi sử dụng đều tốt từ phòng ốc, tiện nghi đến thái độ nhân viên cũng như mức giá cả và vị trí di chuyển.",FACILITIES#GENERAL,positive
+1226,"Terracotta Hotel Resort và Spa Đà Lạt có cơ sở hạ tầng đẹp, lối thiết kế hiện đại.",FACILITIES#DESIGN&FEATURES,positive
+1227,"Hồ bơi sạch, nhưng có 1 chỗ gạch lót hơi bén, tôi đã bị đứt chân.",FACILITIES#MISCELLANEOUS,negative
+1228,Tôi đánh giá chất lượng ở đây ok.,HOTEL#QUALITY,positive
+1229,"Giá thành phù hợp với chất lượng phòng, tiện nghi đầy đủ, vệ sinh đảm bảo.",HOTEL#CLEANLINESS,positive
+1230,"Khách sạn rộng, thoáng mát, có nhiều mảng xanh, không gian trồng nhiều cây và hoa tạo một bầu không khí trong lành.",HOTEL#COMFORT,positive
+1231,Do ở một ngày nên cũng không đổi phòng.,HOTEL#MISCELLANEOUS,neutral
+1232,"Còn lại về phòng ốc thì khá sạch sẽ, thoải mái và tương đối tiện nghi cũng như nhân viên cũng khá ổn.",ROOMS#CLEANLINESS,positive
+1233,Thời tiết Đà Lạt vào lúc mà tôi đến thì khá lạnh vậy nên khi thấy hệ thống nước nóng lạnh trong phòng không hoạt động tôi cảm thấy không thoải mái lắm.,ROOM_AMENITIES#QUALITY,negative
+1234,"Hồ bơi khách sạn này không sạch, xung quanh có rát, hệ thống xử lý nước chưa tốt, không có bộ lọc mặc dù lúc nào cũng có người vớt rát nhưng không vớt sạch được, mỗi lần tắm xong thì mẹ con tôi đều bị nổi mẫn đỏ.",FACILITIES#QUALITY,negative
+1235,"Phòng đạt tiêu chuẩn, sạch sẽ, rộng rãi, tiện nghi, mang lại cho tôi cảm giác khá thoải mái.",ROOMS#DESIGN&FEATURES,positive
+1236,"Khách sạn Saphir ở Đà Lạt lần này tôi cảm thấy chưa hài lòng khi chọn dịch vụ tại đây:Phòng ốc đồ đạc cũ kỹ, mà phòng tôi ở là phòng đầu tiên, gần lễ tân nên rất ồn, không có hệ thống cách âm nên rất khó ngủ, nhưng được một điểm là nhân viên ở đây cũng vui vẻ thân thiện và nhiệt tình, .",HOTEL#COMFORT,negative
+1237,"Phòng ốc sạch sẽ, tiện nghi đầy đủ, nhân viên cũng phục vụ chu đáo nên tôi cũng rất hài lòng với chi phí mà mình đã bỏ ra.",ROOM_AMENITIES#GENERAL,positive
+1238,Căn phòng mà tôi ở tại khách sạn cũng được và khá sạch sẽ.,ROOMS#CLEANLINESS,positive
+1239,"Nhà có người nhà và trẻ nhỏ 6 tháng và 3 tuổi, cả nhà phải bỏ phòng 508 và dồn vào 2 phòng còn lại để đảm bảo an toàn cho bé.",ROOMS#MISCELLANEOUS,negative
+1240,"Dịch vụ quá dở, cửa phòng đóng không được, kêu cọt kẹt.",ROOM_AMENITIES#MISCELLANEOUS,negative
+1241,Phòng khách cũng đầy đủ tiện nghi và sóng wifi tốt.,FACILITIES#QUALITY,positive
+1242,"Cơ sở vật chất rất cũ, như là khu nhà nghỉ chứ không xứng tầm gọi là khách sạn.",ROOM_AMENITIES#QUALITY,negative
+1243,"Thế nhưng, đường truyền wifi quá yếu, không sử dụng được gì, làm tôi khó chịu và không muốn quay lại đây nữa.",FACILITIES#QUALITY,negative

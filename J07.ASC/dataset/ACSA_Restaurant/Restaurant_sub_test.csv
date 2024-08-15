@@ -1,0 +1,601 @@
+,review,category,sentiment
+0,"Nói chung uống được, nhân viên được, có thể sẽ quay lại thử món khác.",SERVICE#GENERAL,positive
+1,"Bill gồm 1 trà sữa lài topping trân châu( size S, 39k tổng cộng) + 1 trà sữa nguyên lá topping trân châu( size S, 45 k) + 1 trà sữa olong topping trân châu( size S, Đ 45 k).",DRINKS#PRICES,neutral
+2,"Chỗ mới dòm sạch sẽ hơn hẳn, và cũng đỡ phải vào hẻm nhiều hơn hẳn, chỉ cần quẹo vào hẻm 393 cách 2-3 căn đầu là thấy rồi.",LOCATION#GENERAL,positive
+3,"Trà xanh milk floam 1 ly nhiều ghê, chất lượng nữa.",DRINKS#QUALITY,positive
+4,"Phải nói bún bò là 1 tuyệt phẩm trong các loại bún phở hủ tiếu các kiểu mình thích bún bò nhất, Bún bò gánh là 1 trong những địa chỉ ăn bún bò ổn khu trung tâm.",RESTAURANT#GENERAL,positive
+5,Phá lấu có sẵn bánh mì luôn nha.,FOOD#STYLE&OPTIONS,positive
+6,Bàn không lau dọn.,RESTAURANT#MISCELLANEOUS,negative
+7,"Đồ ăn ở đây thì khỏi phải bàn, rất ngon và giá cả hợp lí .",FOOD#PRICES,positive
+8,Trà ở đây thơm hihi thích.,DRINKS#QUALITY,positive
+9,Mình chọn kho kiểu Sing thì hơi cay nhưng rất ngon Tà hợp vị nhé.,FOOD#QUALITY,positive
+10,"Phải nói chi nhánh này là chi nhánh mình cảm thấy không ok nhất trong những chi nhánh của đen đá:trà sữa vị như bị thiu, trân châu tím gì đó thì sượn ngắt, cứng và nhai muốn gãy răng !",DRINKS#QUALITY,negative
+11,Chị chủ thì dễ tính ngộ ngộ ^ ^.,SERVICE#GENERAL,positive
+12,"Quán cũng không đông lắm, pizza có cũng khá nhanh.",SERVICE#GENERAL,positive
+13,Nhà hàng nằm ngay mặt tiền đường Ấp Bắc nên dễ tìm lắm.,LOCATION#GENERAL,positive
+14,"Về món thì mình uống collagen tươi, vị hơi lạ xí, nên thử 1 lần, quán có mấy góc sống ảo cũng khá ổn, vào đây mấy lần, nhỏ bạn có mấy pic để đời rất khá.",DRINKS#STYLE&OPTIONS,positive
+15,"Quán dễ tìm, không gian vintage cổ kính, trang trí nhìn đẹp thiệt đẹp luôn, hợp chụp mấy ảnh deep deep nè:3.",AMBIENCE#GENERAL,positive
+16,"Giữ xe ở chỗ khác, 3 k / chiếc, có nv chở đến chỗ để xe.",RESTAURANT#MISCELLANEOUS,negative
+17,Decor:cửa hàng nhỏ lắm ạ nhưng vẫn có nhiều hàng hoá.,AMBIENCE#GENERAL,negative
+18,Buôn bán mà bắt ép khách hàng gì kỳ dậy trời.,RESTAURANT#GENERAL,negative
+19,"Nước uống ngon, flan cũng ngon luôn.",DRINKS#QUALITY,positive
+20,Còn về bánh mua 1 tặng 1 k biết có chất lượng như đúng tiêu chuẩn ' mua 1 tặng 1 ' thì mình k biết but bánh mình mua k đc 1 tặng 1 thì rất chất lượng.,RESTAURANT#MISCELLANEOUS,positive
+21,✨ Vị trí:quán nằm đoạn royal city trong khu trung tâm thương mại tầng b2 khu ẩm thực ăn uống nhé.,LOCATION#GENERAL,neutral
+22,"👉Quán ngồi ngoài trời buổi tối mát mẻ :)) chú bán thân thiện, giá ok, đồ ăn ngon lại còn được free nước sâm với giữ xe.",RESTAURANT#PRICES,positive
+23,"Quán mặt đường nên khỏi bàn cãi về vị trí ha, rất dễ tìm.",LOCATION#GENERAL,positive
+24,"Giá cả: hơi chênh lệch, size nhỏ-lớn không nhỉnh hơn nhau bao nhiêu, ly lớn ở đây bằng ly nhỏ mấy chỗ khác mà giá khoảng tầm 41k trở lên.",DRINKS#STYLE&OPTIONS,neutral
+25,"Giá ổn, khá ngon.",RESTAURANT#PRICES,neutral
+26,Rose tea có phần váng sữa khá ngon.,DRINKS#QUALITY,positive
+27,Chỗ để xe ít mà nv thì cứ đùn đẩy đi chỗ này chỗ kia hơi phiền phức.,SERVICE#GENERAL,negative
+28,"Vị trí ngay trung tâm mê cung đường hoa, bên cạnh khu ăn uống Phan Xích Long.",LOCATION#GENERAL,neutral
+29,"Mình uống trà sữa nóng, thể loại này chỉ có mỗi size S thôi, giá là 30 k / ly.",DRINKS#PRICES,neutral
+30,"Quán nằm ở đầu Ngô Gia Cát nếu đi từ hướng Điện Biên Phủ rẽ vào, do phía ngoài hơi nhỏ nên hơi khó tìm, mình toàn đi kiếm quán thôi.",LOCATION#GENERAL,negative
+31,"Vì những lí do đó nên rất nhiều nhóm, công ty, lớp học hay chọn nơi đây để tổ chức liên hoan.",RESTAURANT#GENERAL,positive
+32,Chi nhánh GongCha này làm mình khá thất vọng bởi vì Milkfoam thì dở tệ.,DRINKS#QUALITY,negative
+33,"trở lại lần 2, dùng thử món bò cuộn nấm, gọi thêm cơm thổ ăn cho biết.",FOOD#STYLE&OPTIONS,neutral
+34,"Circle K Bờ Hồ, siêu đông luôn đáy ạ, nhất là hôm nào cấm đường trên phố đi bộ.",RESTAURANT#GENERAL,positive
+35,"- mực chiên giòn 45k: mực nóng giòn, khoanh to, dày, số lượng ít nhưng chất lượng, chấm sốt ok.",FOOD#PRICES,neutral
+36,"Phục vụ:nhanh lắm nha, thấy cũng thân thiện vui vẻ.",SERVICE#GENERAL,positive
+37,"Ăn quá chừng ăn mà có 100k, mà toàn là ăn xong chưa đã kêu ăn tiếp thôi đó haha.",RESTAURANT#PRICES,positive
+38,- Blueberry yogurt( 55 k):size L luôn.,DRINKS#PRICES,neutral
+39,"Thức ăn đa dạng, đa số các món đều ngon, chỉ vài món là không được ngon.",FOOD#STYLE&OPTIONS,positive
+40,Theo cảm nhận của mình thì món uống ổn nhưng mình không thích lắm vì có khá nhiều sữa đặ nên khá là béo đối với mình.,DRINKS#STYLE&OPTIONS,positive
+41,"Trung thành mỗi chỗ này hoy, thứ 2 thứ 3 lại giảm giá nữa.",RESTAURANT#MISCELLANEOUS,positive
+42,"Nhân dịp 8/3, cả team mình kéo nhau đi ăn đặt bàn qua tablenow vì đang có mức ưu đãi lẩu 4 người chỉ có 250k mà thực tế giá của nó là 420k.",RESTAURANT#PRICES,neutral
+43,"Vị trí nằm trong khu chợ gần phố phường mai, phía dưới khu tập thể, nếu đi theo đia chỉ ở đây thì cũng rất dễ đi và dễ tìm, không quá khó !",LOCATION#GENERAL,positive
+44,"Pizza vừa ăn, mà chắc do nhóm mình bào quá nên 2 cái vẫn ko đủ, bữa oder mua 1 tặng 1 vào chủ nhật bữa sau chắc đặt cái 12inch, giao đồ đúng giờ.",RESTAURANT#MISCELLANEOUS,positive
+45,"Buffet bình dân nhưng mà cũng đa dạng món ăn lắm chứ, mình thấy có nghêu sò ốc và các món ăn no nữa giá cả cũng chấp nhận được duy là cuối tuần đông quá lấy đồ ăn cũng mệt nữa.",RESTAURANT#GENERAL,negative
+46,Mình gọi bánh canh cỡ nhỡ 55k 1 bát và 2 hàu phomai 2 hàu nướng mỡ hành.,FOOD#PRICES,neutral
+47,"Nhân viên phục vụ nhanh nhẹn và vui vẻ, Có ban công ngồi mát mẻ và thoải mái.",SERVICE#GENERAL,positive
+48,Uống vừa vị ngon lắm.,DRINKS#QUALITY,positive
+49,"Chất lượng:thèm steak nên đi mình ên ra đây kêu 1 phần Rib eye 300gr loại US Black Angus hoy, 315k phần này.",FOOD#PRICES,neutral
+50,"- Về không gian:nếu đến sớm thì ngoài vỉa hè chắc chắn toàn người là người ngồi la liệt, có 1 gian trong nhà nhưng cũng không chưa được là bao.",AMBIENCE#GENERAL,neutral
+51,"Quán nhỏ nằm trong chung cư, ngay đoạn có khuôn viên cho người dân sinh hoạt, góc tấp nập các quán ăn uống.",AMBIENCE#GENERAL,negative
+52,Đôi khi khách còn phải tự lấy bàn.,SERVICE#GENERAL,neutral
+53,Lần đầu đến Huế nên gặp khó khăn trong việc tìm quán.,LOCATION#GENERAL,negative
+54,Chỗ này gần đối diện bv CTCH.,LOCATION#GENERAL,neutral
+55,"Không gian đẹp nhân viên lịch sự menu phong phú, ăn bánh uống trà thật thanh nhã ❤️.",DRINKS#STYLE&OPTIONS,positive
+56,"Không gian và thái độ phục vụ mình không có gì để bàn, vẫn ổn, nhưng điều đáng nói ở đây chỉ duy nhất về chất lượng đồ ăn mà thôi.",AMBIENCE#GENERAL,positive
+57,Mình đi vào hôm mùng 1 nhưng khách khứa không quá đông đến mức thái độ phục vụ của nhân viên như thế này.,RESTAURANT#GENERAL,neutral
+58,"Giá cả cũng ngang ngang so với mấy tiệm khác nhưng chất lượng hơn hẳn, nhân viên thì rất dễ thương, vui vẻ.",SERVICE#GENERAL,positive
+59,"Quán dán thông báo 5/4 dời về Hàn Hải Nguyên, lúc tính tiền chị chủ có dặn vs đưa cho tờ rơi địa chỉ, phía sau có xây building mini nên chắc thu lại mặt bằng chuyển chỗ khác.",RESTAURANT#GENERAL,neutral
+60,"Nước uống bình thường, không ngon so với giá cả.",DRINKS#QUALITY,neutral
+61,"Hôm mình đi là ngày chủ nhật, đông kinh khủng luôn, phải tới tận nơi order r đợi mang ra luôn mới có ăn.",RESTAURANT#GENERAL,positive
+62,Nhưng nhai thì rất ngon và dễ gây nghiện :)).,FOOD#QUALITY,positive
+63,Giá cũng khá cao.,RESTAURANT#PRICES,negative
+64,"Đồ uống ổn, giá cả hợp lý, nhân viên nhiệt tình.",RESTAURANT#PRICES,positive
+65,70K cốc trà sữa cũng đáng.,DRINKS#QUALITY,positive
+66,"Từ chợ Đông Ba qua cầu Gia Hội rồi rẽ phải đường Trịnh Công Sơn, quán nằm bên trái, bên trong con đường đất khoảng 20 mét từ đường Trịnh Công Sơn.",LOCATION#GENERAL,neutral
+67,Giá cả cũg vừa với chất lượg và vị trí ở trug tâm.,LOCATION#GENERAL,positive
+68,"Mình gọi trà sữa trà đen và trà sữa trà xanh, uống rất ngon.",DRINKS#QUALITY,positive
+69,Mỳ trộn ở shop & go là best của best luôn :)).,FOOD#QUALITY,positive
+70,Cái phô mai nướng thì siêu béo ngon luôn.,FOOD#QUALITY,positive
+71,Mình đi hôm thứ 4 nên được khuyến mãi mua 1 tặng 1 gà và nước.,RESTAURANT#MISCELLANEOUS,positive
+72,"Giá cả, chất lượng:trà sữa ô long 35k siêu ngon, hồi trước mình uống đậm vị trà quá chớ bây giờ ngon hơn hẳn rồi ý, thơm nữa, nói chung bị ghiền.",DRINKS#PRICES,neutral
+73,Nước có size khổng lồ uống mệt nghỉ luôn.,DRINKS#STYLE&OPTIONS,positive
+74,✨Trà sữa đúng như tên lả Tá Lả các loại thạch( 50 k / ly lớn) nhưng nếu muốn ăn các loại đặc biệt thì phải kêu thêm( mình sẽ note trong hình).,DRINKS#PRICES,neutral
+75,90k hay sao đó mình cũng ko nhớ nốt.,RESTAURANT#PRICES,neutral
+76,"Tuy nhiên dạo gần đây đi ăn lại thấy có vẻ hơi xuống, thị không được tươi nữa, món thì ra chậm.",FOOD#QUALITY,negative
+77,"Quán / Bar trang trí khá đơn giản mà nhìn chất quả đất, thích hợp cho tất cả mọi người, có khu vực leo núi nhân tạo( x, rock climbing) cũng hay hay, mình chưa chơi nên chưa biết thế nào.",AMBIENCE#GENERAL,positive
+78,💋 Vị trí:Nằm ở ngay mặt phố Huế thôi.,LOCATION#GENERAL,positive
+79,Trong ảnh là hai món Green tea frappuccino( 95 k) và Caramel frappuccino( 90 k).,DRINKS#PRICES,neutral
+80,"+ Giá cả:không rẻ cũng không mắc, tạm chấp nhận được vì có hải sản và hàu.",FOOD#STYLE&OPTIONS,neutral
+81,Ly khoảng 40k thì phải.,DRINKS#PRICES,neutral
+82,💋 Vị trí:Quán nằm ở số 618 cũ.,LOCATION#GENERAL,neutral
+83,Cafe và trà cam quế ở đây đều khá okie.,DRINKS#STYLE&OPTIONS,neutral
+84,Nhưng mình thich milkfoam ở koi hơn vì béo hơn 😂😂.,DRINKS#QUALITY,positive
+85,"Ngay trung tâm thành phố, đồ ăn thức uống rẻ, đa dạng, có view lầu ngắm đường phố, có máy lạnh wifi free.",RESTAURANT#MISCELLANEOUS,neutral
+86,Gong Cha là trải nghiệm đầu tiên dẫn mình đến gia nhập ' đạo trà sữa ' như hiện nay.,RESTAURANT#GENERAL,positive
+87,"Nhà hàng rất sạch sẽ, không gian ấm cúng, nằm trong 1 phòng kín, tách biệt với mặt tiền xe cộ đông đúc bên ngoài.",AMBIENCE#GENERAL,positive
+88,"Mình gọi trà nhài kem mặn, vs mình thì trà hơi ngọt, nên khuyên mn khi order nên giảm đườg đi, còn lớp kem mặn khá ngon, cũng đáng để thử đó.",DRINKS#STYLE&OPTIONS,neutral
+89,"Nhìn chung thì quán khá nhỏ, có lầu nhưng không gian cũng nhỏ nhìn tối tăm với cũ kỹ kiểu xuống cấp sao á.",AMBIENCE#GENERAL,negative
+90,"Không gian:lãng mạn, sang trọng, ấm cúng, 2 lầu, ghế ngồi sofa thoải mái.",AMBIENCE#GENERAL,positive
+91,Giá cả cũng hợp lý.,RESTAURANT#PRICES,positive
+92,"Trà sữa thơm trà chứ ko thơm sữa, vị cũng ko nổi bật mấy.",DRINKS#QUALITY,neutral
+93,"Thức ăn ngon, nhân viên nhiệt tình nhưng hơi chậm, lúc mình đến nhà hàng rất đông khách nên cũng thông cảm.",FOOD#QUALITY,positive
+94,"Món chính đây, thấy phục vụ bưng ra cái dĩa mà mình hết hồn luôn, bự quá 😖😖.",FOOD#STYLE&OPTIONS,positive
+95,"Ngoài ra còn có các loại ốc lạ như ốc móng tay, ốc xào lăn ăn cũng rất ngon miệng !",FOOD#STYLE&OPTIONS,positive
+96,Tuy không gian không rộng nhưng sắp xếp gọn gàng.,AMBIENCE#GENERAL,neutral
+97,Đủ 300k thì được quai và sticker.,RESTAURANT#MISCELLANEOUS,neutral
+98,✨ Chất lượng:đồ uống của highland ko quá đặc sắc nhưng lúc nào cũng đạt ổn và giá cả hợp lí nên là mình vẫn rất ưa chuộng khi mà ko tìm đc quán nào quá xuất sắc.,DRINKS#PRICES,positive
+99,"Các món nước hao quả có vẻ được pha loãng quá nhiều, quá nhạt nhẽo.",DRINKS#QUALITY,negative
+100,"Mình order ly trà sữa trà xanh hạt nha đam, uống ngon.",DRINKS#QUALITY,positive
+101,Đồ ăn & không gian đều ổn.,AMBIENCE#GENERAL,positive
+102,"Ăn rất nhiều lần và nhiều năm ở đây, cực thích vì lí do nước chấm ngon, giá cả mềm và thức ăn ổn.",RESTAURANT#PRICES,positive
+103,"Sốt chưa thấm vị, bò Úc 2 khay nhưng ăn khá chán, ba chỉ bò Mỹ thì lại ngon hơn.",FOOD#QUALITY,neutral
+104,Đồ uống không có gì đặc sắc cả.,DRINKS#QUALITY,neutral
+105,"Đồ uống giá cả hợp lí trung bình 45, 60k.",DRINKS#PRICES,positive
+106,"Bạn nam nv đó mình thấy mặc áo bên sasin, tức là đã được làm nv chính thức, nhưng mình thấy bạn ấy mất tập trung và cách xử lý tình huống không chuyên nghiệp tí nào.",SERVICE#GENERAL,negative
+107,Gọi có 4 món mà 2 món hết.,FOOD#STYLE&OPTIONS,negative
+108,"Mình gọi món lưỡi bò chấm mắm gừng có mùi vị đặc trưng ăn khá ngon nhưng hơi mềm và món lẫu đuôi bò, lẫu nhiều, vị lẫu vừa phải đậm đà.",FOOD#STYLE&OPTIONS,positive
+109,"Tầm giá 50k thì nước quá tệ, như cà phê hoà tan rồi cho đá vào xay lên xong xịt whipping crem lên àh, uống xong tiếc tiền quá trời.",DRINKS#PRICES,neutral
+110,Quán này cũng rất đáng thử nha mọi người!,RESTAURANT#GENERAL,positive
+111,Gà phô mai 190k 🧀.,FOOD#PRICES,neutral
+112,"Nằm ngay trên vỉa hè Hàng Lược, đây là món ăn vặt đáng thử cho bất cứ ai đang trên đường vào khám phá phố cổ.",LOCATION#GENERAL,positive
+113,"Quán ở khúc Nguyễn Trãi 1 chiều, đối diện MaMa bbq, mình đi ngang thấy thường rất đông luôn.",LOCATION#GENERAL,neutral
+114,"Đào giòn, trà dâu dùng mứt dâu nên dâu ngọt quá, không có vị dâu tự nhiên, tiếc chỗ đó.",DRINKS#STYLE&OPTIONS,neutral
+115,"Uống ngon, thích trà cây ở đâu rất tươi vị đặc trưng, trà sữa trân châu hoàng gia cũng ngon uống rất được đặc biệt là không gian quán quý ' s tộc vô cùng.",DRINKS#STYLE&OPTIONS,neutral
+116,"Ngoài ra còn có thêm các loại bánh ngọt giá từ 19 k,29 hoặc trên 30k ăn và uống cùng cfe cũng rất đượm.",FOOD#QUALITY,positive
+117,2 bạn nhân viên rất thân thiện và tốt bụng.,SERVICE#GENERAL,positive
+118,"Gọi 2 phần mì cay bò, giá 42 k / phần nước mì ngon, chuẩn vị nhưng gọi là mì cay bò mà lại chỉ có 2 miếng thịt bò.",FOOD#PRICES,neutral
+119,Giá khá cao mà trà sữa ko được béo lắm.,DRINKS#PRICES,negative
+120,"Quán đông cực kì nhưng mấy anh / chị nhân viên vẫn phục vụ rất nhiệt tình, vui vẻ, không rối cũng như không khó chịu khi khách xin thêm nước lẩu hoặc ly đá.",SERVICE#GENERAL,positive
+121,"- Quán ưu đãi liên tục, nhiều coupon tặng khách nên mình càng ghé quán thường xuyên hơn.",RESTAURANT#MISCELLANEOUS,positive
+122,Mình gọi trà sữa trà xanh với trà sữa trân châu thêm thạch nâu.,DRINKS#STYLE&OPTIONS,neutral
+123,"🧀 Giá cả:từ 10, 15k.",RESTAURANT#PRICES,neutral
+124,"Nhìn chung là lần đầu mình ăn buffet bình dân nên thấy hơi ko hài lòng lắm, chứ khách quan mà nói thì mọi thứ vẫn khá ổn :).",RESTAURANT#GENERAL,neutral
+125,Nay ăn bên này nước kêu 2 loại nước 1 strongbow 1 passion tea mà cả nửa tiếng trời chưa ra mình ra hút xong 1 điếu thuốc vô lại vẫn chưa có nước.,SERVICE#GENERAL,negative
+126,☀️ Cái cửa hàng tiện lợi vị trí đắc địa quá đẹp ngay bờ hồ nên lúc nào cũng trong tình trạng quá tải :)).,LOCATION#GENERAL,positive
+127,"Menu dày đặc vậy chứ chia theo 1 số món chính về:dê, cuu, gà, cá, bánh naan, cơm nị.",FOOD#STYLE&OPTIONS,positive
+128,"View nhìn ra Hàm Nghi đẹp, ở quận 1 mà giá nước uống vậy là phù hợp rồi.",LOCATION#GENERAL,positive
+129,"Mình kiu trà sữa lài xanh uống ngon nhưng hơi ngọt quá, 31k giá này ỗn.",DRINKS#PRICES,neutral
+130,"Mình thì thích Spirulina, món này quán cho mật ong hơi ngọt nên có hôm mình có yêu cầu không cần bỏ uống rất thích.",DRINKS#QUALITY,positive
+131,"Quán này nằm mặt tiền đường đông đúc, nhưng lại bị khuất vào trong vì 1 vài quán bán vỉa hè lấn phía trên.",LOCATION#GENERAL,neutral
+132,Dù quán thường xuyên đông vào giờ cao điểm và nếu không đặt bàn trước thì đành ngậm ngùi đi nơi khác ăn nhưng vẫn được lòng mình.,RESTAURANT#GENERAL,positive
+133,Điểm cá nhân: 6.5/10,RESTAURANT#GENERAL,neutral
+134,Nhưng bù lại bánh khá rẻ và ngon nữa.,FOOD#PRICES,positive
+135,"Mình ăn ở quán này chắc cũng phải chục năm rồi, giờ xa SG lâu lâu có dịp về lại vẫn hay ghé quán để thưởng thức hương vị yêu thích.",RESTAURANT#GENERAL,positive
+136,"Trân châu đen khá ok vì không bị dai nhách, một phần cũng khá nhiều trân châu, nhai trân châu cũng vui hehe.",DRINKS#QUALITY,positive
+137,Quán trang trí khá tối màu đồ uống đen đá thì mình uống thấy hơi nhạt miệng không ngọt và đậm đà.,DRINKS#QUALITY,neutral
+138,Ăn xong 1 bát này là no căng luôn ạ.,FOOD#STYLE&OPTIONS,positive
+139,Mình chỉ thích món tok lắc phô mai và trà sữa tá lả ở đây thôi.,DRINKS#QUALITY,positive
+140,"Nhân dịp 8/3, cả team mình kéo nhau đi ăn đặt bàn qua tablenow vì đang có mức ưu đãi lẩu 4 người chỉ có 250k mà thực tế giá của nó là 420k.",RESTAURANT#MISCELLANEOUS,positive
+141,"Đi từ bên ngoài vào là không gian xanh với nhiều chùm cây giả treo trên tường, chỗ này là ngồi ngoài trời đón nắng đón gió luôn =))))).",AMBIENCE#GENERAL,positive
+142,- Chắc chắn sẽ quay lại nếu có cơ hội.,RESTAURANT#GENERAL,positive
+143,"Cá nhân mình thì thấy giá quá chát, 43k một ly trà sữa chưa có thạch hay trân châu gì mà chất lượng thì không có gì đặc sắc.",DRINKS#QUALITY,neutral
+144,"Mình ăn phần bò 150gr tầm 100k thì phải, chất lượng, bò hơi tái nên ăn mềm ngọt thịt.",FOOD#PRICES,neutral
+145,Nhân viên vui vẻ và thân Thiệt.,SERVICE#GENERAL,positive
+146,"Phải nói chi nhánh này là chi nhánh mình cảm thấy không ok nhất trong những chi nhánh của đen đá:trà sữa vị như bị thiu, trân châu tím gì đó thì sượn ngắt, cứng và nhai muốn gãy răng !",DRINKS#STYLE&OPTIONS,neutral
+147,Giá tầm 50-60k / ly.,DRINKS#PRICES,neutral
+148,Bữa mình ghé thì wifi vô không được nên mình không ngồi lâu.,RESTAURANT#MISCELLANEOUS,negative
+149,Nhân dịp happyday được giảm 30 % trên deliverynow nên mình order trà sữa về uống.,RESTAURANT#MISCELLANEOUS,positive
+150,"Ngày xưa quán bán ở ngã tư Cô Giang, Đề Thám.",LOCATION#GENERAL,neutral
+151,"nhóm mình đi 9 người, hơn 1tr, giá cũng ok.",RESTAURANT#PRICES,positive
+152,Mình thích ăn trân châu nên gọi thêm double trân châu đen.,DRINKS#STYLE&OPTIONS,neutral
+153,Đặc biệt mùi trứng thơm lắm luôn í.,FOOD#QUALITY,positive
+154,"Giá rất hợp với học sinh, sinh viên.",RESTAURANT#PRICES,positive
+155,"- không gian:rộng rãi thoáng mát, bàn ghế cao và bày trí sang trọng.",AMBIENCE#GENERAL,positive
+156,"Quán sắp có món kem bơ thơm và béo, mọi ng nhớ note lại nhé, ngoài ra sinh viên và học sinh sẽ được giảm giá còn 20k khi uống Trà đào, trà sữa trân châu và hồng trà hân châu:D.",RESTAURANT#MISCELLANEOUS,positive
+157,"1 ly vừa tầm thôi là 60k, nói chung 1 tuần uống 2 ly Gong Cha, còn lại các ngày khác uống trà đá đường dằn túi ^ ^.",DRINKS#PRICES,neutral
+158,"Nhân viên thân thiện, vui vẻ, phục vụ nhanh.",SERVICE#GENERAL,positive
+159,Trà sữa ô long ở đây phải nói là pha ngon nhất trong các chi nhánh.,DRINKS#QUALITY,positive
+160,Nay trà sữa quốc dân TocoToco vừa ra mắt 3 món mới với giá dùng thử 35k size vừa.,DRINKS#STYLE&OPTIONS,positive
+161,"Chỗ order nhỏ, nhìn chật chội.",AMBIENCE#GENERAL,negative
+162,Chứ chỗ ngồi ăn nhỏ lắm mình cũng ít khi ngồi ăn tại quán 🤧😴.,RESTAURANT#MISCELLANEOUS,negative
+163,"Cốc trà xoài tươi cheese mình có thử ké tí, vị xoài tươi, cheese ngậy, tct giòn:3 nhưng hơi nhạt chút.",DRINKS#PRICES,positive
+164,Salad gà BBQ và soup mình đánh giá ở mức ổn.,FOOD#QUALITY,positive
+165,Nhân viên nói chuyện đớp chát bốp bốp vào mặt trong khi mình nch nhẹ nhàng từ tốn.,SERVICE#GENERAL,negative
+166,"Giá cả hợp lý, nhiều món để lựa chọn 👍.",FOOD#STYLE&OPTIONS,positive
+167,Món hay ăn ở đây nhất là burger saturday và mỳ trứng bắt mắt :)).,FOOD#STYLE&OPTIONS,positive
+168,🍗 Giá cả:bọn mình đến ăn vào tầm trưa nên cơm chỉ còn 32 k / suất.,RESTAURANT#PRICES,neutral
+169,"Đầu tiên mình sẽ chọn loại yogurt mình thích, sau đó sẽ chọn xem xay với cái gì, rồi chọn topping kèm theo.",DRINKS#STYLE&OPTIONS,positive
+170,Ngoài ra còn có set lẩu hay nướng có thể ăn thêm.,FOOD#STYLE&OPTIONS,positive
+171,Lần này gọi 1 phần top blade 300gr.,FOOD#STYLE&OPTIONS,neutral
+172,"Giá tiền thì vừa phải, hợp lý.",RESTAURANT#PRICES,positive
+173,- Trà xanh kem phomai( 55 k):size lớn.,DRINKS#PRICES,neutral
+174,Nên đi không:Chắc chắn rồi.,RESTAURANT#GENERAL,positive
+175,"Uống mát, ngọt nhẹ của dừa nên dễ chịu.",DRINKS#QUALITY,positive
+176,Mình cũng ăn ở đây được vài lần rồi ăn cũng được nhưng quá mắc.,FOOD#PRICES,negative
+177,"Quán view đẹp cực kì, không gian cổ, nhạc nhẹ nhàng, cả nhạc của Bigbang nữa bọn em thích cực.",RESTAURANT#MISCELLANEOUS,positive
+178,Trà sữa HK vì muốn thử nên gọi nhưng uống thấy bình thường nhưng bù lại khoản trân châu tím thì ăn ngon với có mùi khoai môn :).,DRINKS#QUALITY,positive
+179,"Còn cái chà bông gà ăn thật sự không hợp, nó cừ kỳ kỳ mặc dù chà bông ngon, bánh này mà để qua đêm ăn khô queo à.",FOOD#STYLE&OPTIONS,negative
+180,"Ship đúng giờ, bánh cũng ngon nữa cốt mềm ẩm thích lắm, sốt trứng cũng ngon.",SERVICE#GENERAL,positive
+181,"Hạt cơm dẻo, thơm ; thịt bò mềm, sốt ngon ; tôm tươi ngon, nước sốt cay cũng ấn tượng, ăn đưa cơm cực kỳ.",FOOD#STYLE&OPTIONS,positive
+182,"✨Địa điểm:Nên đi từ Trần Khát Chân vào Lò Đúc cho đỡ tắc đường, ngay đầu Lò Đúc thôi, quán biển hiệu to, nhấp nháy, dễ nhìn, không lo lạc :)))).",LOCATION#GENERAL,positive
+183,Đồ ăn ở đây rất là tưới và vừa giá tiền để có thể một lần trong tuần dẫn vợ con đến đây ăn.,FOOD#PRICES,positive
+184,"Nói chung là bingsu cũng ổn, 40-50 k / 1 phần.",DRINKS#PRICES,neutral
+185,🌻Menu khá sang choảnh nha ko bình dân tí nào.,DRINKS#STYLE&OPTIONS,positive
+186,Món gì chỉ cần cầm máy lên đã đẹp không qua filter.,DRINKS#STYLE&OPTIONS,positive
+187,"Cà ri hình như 70 K / phần, bánh mì 3K, sẽ quay lại, chắc chắn.",FOOD#PRICES,neutral
+188,"Trà xoài kem cheese, cốc to thế kia uống no lắm.",DRINKS#STYLE&OPTIONS,positive
+189,Tô 15k mà rất nhiều lòngn O chạy cũng rất vui vẻ hiếu khách nữa.,FOOD#STYLE&OPTIONS,positive
+190,"Giá 1 em này là 15k, nếu mà mua 3 cái sẽ dc tặng 1 coi như 4 cái giá 45k à.",FOOD#PRICES,neutral
+191,Giá cả chia ra khoảng 200 k / người.,RESTAURANT#PRICES,neutral
+192,"Lần đầu thử món trà đào, trà đào ở đây đặc biệt hơn các chỗ khác, vị thanh không bị quá ngọt, miếng đào thì dai giòn.",DRINKS#QUALITY,positive
+193,Quán thiết kế khá hài hoà.,AMBIENCE#GENERAL,positive
+194,"Hôm đó đi làm về xong ghé đen đá vì thíc trà lài sữa xanh 33k ở đen dá lắm lun, nhớ hồi lần đầu tiên uống thơm hương lài và trà xanh dã man nhưng nay k còn thấy nữa rồi thấy vẫn ngon nhưng k bằng, dặn bỏ ít ngọt nhưng vẫn thấy còn ngọt nhiều.",DRINKS#PRICES,neutral
+195,"Chén nấm rơm xào tỏi chắc đc 100gr, giá 849k.",FOOD#STYLE&OPTIONS,neutral
+196,"Buffet bình dân nhưng mà cũng đa dạng món ăn lắm chứ, mình thấy có nghêu sò ốc và các món ăn no nữa giá cả cũng chấp nhận được duy là cuối tuần đông quá lấy đồ ăn cũng mệt nữa.",FOOD#PRICES,positive
+197,"Bingsu thái đỏ thì được hơn, lớp sữa bào làm bằng thái đỏ luôn, có milkfoam mặn mặn béo béo ở trên, sương sa, trân châu, sốt thái đỏ.",DRINKS#STYLE&OPTIONS,positive
+198,Có cảm giác giá ko đổi mà chất lượng thua ngày xưa nên hơi thất vọng.,RESTAURANT#PRICES,neutral
+199,"Mình order qua dịch vụ delivery của foody nên rất tiện lợi, nhanh gọn lẹ, mở lên chọn món có người xác nhận rồi ngồi chờ sẽ có người giao tận răng, quá nhanh qá nguy hiểm.",SERVICE#GENERAL,positive
+200,Mình cũng k biết phải diễn tả cách phục vụ sao chứ quá tệ hơn cả chữ tệ nữa.,SERVICE#GENERAL,negative
+201,"Với mức giá từ 40k trở lên cho một ly Gong Cha ngon thì mình nghĩ nó không đắt, rất đáng thử.",DRINKS#PRICES,neutral
+202,"Về món ăn ngày hôm nay, gia đình mình chọn suất 329 / ng chưa gồm vat nước.",FOOD#PRICES,neutral
+203,Lần đầu ăn thấy quán này cũng khá ổn.,RESTAURANT#GENERAL,positive
+204,"Thiết kế trang trí khá đơn giản, không được đẹp mắt 😂.",AMBIENCE#GENERAL,neutral
+205,"Menu đặt sẵn trên bàn nên chúng mình nhanh chóng gọi món với sự giúp đỡ, giải thích tận tình của nhân viên:Top Blade 300g, Cá hồi trộn Sashimi, Thịt bò cuộn nấm, Nấm xào tỏi, Khoai Nghiền và 2 lon Pepsi Light.",FOOD#STYLE&OPTIONS,neutral
+206,"Quán rất rộng, nhưng khi nào cũng đông kín hết cả chỗ.",AMBIENCE#GENERAL,positive
+207,"Món ăn:tô bún bò của mình khá lớn, có miếng bò miếng heo huyết chả cây và ngon nhất là 2 viên chả cua, nước dùng không đậm đà nhưng vừa ăn.",FOOD#STYLE&OPTIONS,positive
+208,Quán tuy không quá rộng nhưng theo mình tương đối thông thoáng với cả sạch sẽ( thấy nhân viên lau dọn liên tục).,AMBIENCE#GENERAL,positive
+209,"Theo mình cảm nhận giá nước tương đối ổn so với vị trí quận 1 như vậy, còn bánh 55.0 00đ lận, mình nghĩ giảm còn 30-40.000 hợp lí hơn.",DRINKS#PRICES,positive
+210,"Nói chung ở đây tìm chỗ ngồi hơi khó chỉ dẫn, gần như phải ra đón.",LOCATION#GENERAL,negative
+211,"Vị Trí:ngay trung tâm nên dễ tìm, lại đối diện Bitexco nên vị trí đắt đỏ cực kì.",LOCATION#GENERAL,positive
+212,"👉🏿 La Fleur, 22B Hai Bà trưng.",LOCATION#GENERAL,neutral
+213,"Nhân viên:Thái độ phục vụ bình thường, không được vui vẻ lắm nhưng được cái nhẹ nhàng.",SERVICE#GENERAL,neutral
+214,Quán có 2 mặt tiền trước và sau nên cảm giác thoáng chứ ko bị ngộp như các quán cf máy lạnh khác.,AMBIENCE#GENERAL,positive
+215,Được cái 2 chị bên foody nhiệt tình lắm dễ thương ghê kiểu ráng lấy code cho khách nhanh nhất có thể support mọi người nữa 😂.,SERVICE#GENERAL,positive
+216,BÁnh đập làm ăn ngon.,FOOD#QUALITY,positive
+217,"•Gu nhạc của quán theo kiểu cập nhật những bài hot trong bảng xếp hạng US, UK.",RESTAURANT#MISCELLANEOUS,neutral
+218,Giá cả hợp lí vừa túi tiền của học sinh.,RESTAURANT#PRICES,positive
+219,"Trang trí trong quán, bàn ghế cũng đẹp luôn.",RESTAURANT#MISCELLANEOUS,positive
+220,Biết shop bán online nên mình đt trước rồi mới ghé.,RESTAURANT#GENERAL,neutral
+221,20k 1 túi nhé.,FOOD#PRICES,neutral
+222,"Mình kêu trà sữa thái, b mình kêu trà sữa đài loan hay j đó mình quên tên, mà thấy ngon ngon.",DRINKS#QUALITY,positive
+223,"Món ăn:tô bún bò của mình khá lớn, có miếng bò miếng heo huyết chả cây và ngon nhất là 2 viên chả cua, nước dùng không đậm đà nhưng vừa ăn.",FOOD#QUALITY,positive
+224,Ngon ới là ngon sốt cajun tôm hùm đất giá phải chăng và ăn đứt luôn the crab shark.,FOOD#QUALITY,positive
+225,"- Bún bò gân chả( 38 k):tô cũng khá to, nước lèo ngon, thịt mềm, chả to ngon.",FOOD#PRICES,neutral
+226,"Ngoài ra còn có các loại ốc lạ như ốc móng tay, ốc xào lăn ăn cũng rất ngon miệng !",FOOD#QUALITY,positive
+227,"Súp kem ngon, sốt salad ngon.",FOOD#QUALITY,positive
+228,Điểm cộng là lần này đi có người đi gửi xe và có phiếu giữ xe miễn phí ròi.,RESTAURANT#MISCELLANEOUS,positive
+229,"Nhà hàng này ở ngay sông nên rất thoáng mát, ở đây mới có món mới về dê, như lẩu dê các món nướng về dê ăn cũng rất ok.",FOOD#QUALITY,positive
+230,Còn nhạc thì cực lớn k có tập trung làm việc hay nói chuyện vs bạn bè được.,RESTAURANT#MISCELLANEOUS,negative
+231,"Đánh giá là giá cả như vậy là rẻ với ly capuchino, còn cái món Thái kiki gì đó thì ngon ah.",DRINKS#PRICES,positive
+232,"Haagen Dazs kem siêu cao cấp, chất lượng siêu ngon, không gian quán cực sang trọng.",AMBIENCE#GENERAL,positive
+233,"Mình mua một bịch là 35k, cũng nhiều ớ.",FOOD#PRICES,neutral
+234,"Đi Cn giá vé ng lớn 280k, 1m đến 1m4 giá 135k.",RESTAURANT#PRICES,neutral
+235,Chỗ để xe ít mà nv thì cứ đùn đẩy đi chỗ này chỗ kia hơi phiền phức.,RESTAURANT#MISCELLANEOUS,negative
+236,"Giá nước và bánh ở đây khá rẻ, mình thường hay ghé uống trà đào ở đây.",DRINKS#PRICES,positive
+237,Mỗi cái k có phomai ạ.,FOOD#STYLE&OPTIONS,negative
+238,Mất 117.6 00đ để mua lấy thức uống đựng trong bao nilong bị rách và sau đó:ó đổ.,DRINKS#PRICES,neutral
+239,Mình chắc chắn sẽ quay lại Pep vì 2 món Salad hoa quả và mỳ Ý sốt BBQ.,FOOD#STYLE&OPTIONS,positive
+240,"Thông báo là quán này hình như đổi địa chỉ nha cả nhà, thấy báo 3 tháng chưa tương tác cũng lo, nhưng vẫn tìm được quán, địa chỉ là 1192 Trường Sa, P13, Phú Nhuận.",LOCATION#GENERAL,neutral
+241,"Nước uống cũng k đặc sắc, lần đầu mình gọi mojitto ma vị dâu tây, lần 2 gọi nước cam và xoài, có điều nước cam khá chua.",DRINKS#STYLE&OPTIONS,neutral
+242,"Mình uống trà sữa King Olong thêm trân châu đen và thạch, thêm topping 10k 1 món á, mắc ghê.",DRINKS#PRICES,negative
+243,Quán nhỏ xinh nhưng đông khủng khiếp !,RESTAURANT#GENERAL,positive
+244,"Nếu mua qua Delivery now thì mất thêm phí ship thôi, bù lại sau sớm nhất 40 phút thì sẽ có trà sữa uống.",SERVICE#GENERAL,neutral
+245,Nhưng quán này ăn thật sự rất ngon.,FOOD#QUALITY,positive
+246,# Giá cả:bằng với các quán nước khác giá tầm 40-50 k.,RESTAURANT#PRICES,neutral
+247,"Mình và bạn uống thử trà sữa ở đây, vị cũng khá ngon, giá cả tương đối chấp nhận được.",DRINKS#PRICES,positive
+248,"Thích hợp ăn sang trọng, đãi khách, buffet.",RESTAURANT#GENERAL,positive
+249,Menu làm hơi xấu và rối 🤔.,RESTAURANT#MISCELLANEOUS,negative
+250,Thật sự rất sốc khi đây là thương hiệu của Mỹ mà cách phục vụ còn tệ hơn cả cửa hàng của Việt Nam.,SERVICE#GENERAL,negative
+251,"Ngay cạnh King Roti, K mart có biển xanh da trời khá mát mắt, bày phía ngoài là 2-3 tủ lạnh chứa kem và nước mát.",RESTAURANT#MISCELLANEOUS,positive
+252,"Britea, Thương hiệu trà sữa khá là nổi hiện nay.",RESTAURANT#GENERAL,positive
+253,"Nằm trong con hẻm trên đường Cộng Hoà, không gian buffet Dìn Ký khá rộng rãi và thoáng mát.",LOCATION#GENERAL,neutral
+254,"Đồ uống ổn, giá cả hợp lý, nhân viên nhiệt tình.",DRINKS#QUALITY,positive
+255,"đồ ăn bao ngon, nước uống thì mình thích milkfoam nhất nó đã đã sao í ☺.",DRINKS#QUALITY,positive
+256,"À món tráng miệng món nào cũng ngon, thích kem matcha lắm luôn:D.",FOOD#QUALITY,positive
+257,"Uống ngon, thích trà cây ở đâu rất tươi vị đặc trưng, trà sữa trân châu hoàng gia cũng ngon uống rất được đặc biệt là không gian quán quý ' s tộc vô cùng.",AMBIENCE#GENERAL,positive
+258,"Món ăn trình bày đẹp, có thẻ thành viên được giảm giá cho những lần sau.",RESTAURANT#MISCELLANEOUS,neutral
+259,"Sò lông nướng mỡ hành tươi và to, ăn với nước mắm chua ngọt.",FOOD#STYLE&OPTIONS,positive
+260,Mì Ý ngon nhưng hơi ít.,FOOD#STYLE&OPTIONS,negative
+261,"Hạt cơm dẻo, thơm ; thịt bò mềm, sốt ngon ; tôm tươi ngon, nước sốt cay cũng ấn tượng, ăn đưa cơm cực kỳ.",FOOD#QUALITY,positive
+262,"Dễ tìm, khồn gian lại siêu rộng rãi.",LOCATION#GENERAL,positive
+263,"Chi nhánh lúc nào cũng đông nhưng ko ồn lắm đâu nhee, mỗi tội đông quá nên đứng đợi mỏi hết chân í :((((.",RESTAURANT#GENERAL,negative
+264,"Các món gà món nào cùng khá là ngon và vừa miệng, theo khẩu vị của mình thì mình thấy vị của các món gà có lẽ hơi thiên về vị ngọt hơn bình thường một chút xíu.",FOOD#QUALITY,positive
+265,"Nếu ăn Buffe thì khoảng tầm 150k, 250 k / người.",RESTAURANT#PRICES,neutral
+266,Bò ngon nhưng màu k đẹp mắt lắm nếu như k có màu salat vớt lại.,FOOD#STYLE&OPTIONS,negative
+267,"Về món thì mình uống collagen tươi, vị hơi lạ xí, nên thử 1 lần, quán có mấy góc sống ảo cũng khá ổn, vào đây mấy lần, nhỏ bạn có mấy pic để đời rất khá.",DRINKS#QUALITY,positive
+268,Giờ cao điểm quán đông khủng khiếp và cả nóng nữa nhưng bạn nào cũng cười tươi như hoa 😂🤣😂🤣.,RESTAURANT#GENERAL,positive
+269,Có món mực calamari và súp gạch cua ko ngon.,FOOD#QUALITY,negative
+270,Mình chĩ mới nhìn vào thôi thì đã thấy được vị ngon cũng như sự hấp dẫn tứ món ăn này rồi.,FOOD#QUALITY,positive
+271,"- bánh to ăn hơi ngán nhưng mà ngon, rất thích.",FOOD#QUALITY,positive
+272,"Không gian nhìn đẹp, nhạc thì mở nhạc nước ngoài.",RESTAURANT#MISCELLANEOUS,neutral
+273,Sẵn được nhận voucher 200k nên quay lại đây thử bò mới.,RESTAURANT#MISCELLANEOUS,neutral
+274,"Mình order trà đào, bạn mình thì uống trà sữa.",DRINKS#STYLE&OPTIONS,neutral
+275,"Quán nằm hơi khuất, từ ĐBP qua giao CMT8 bên phải có đường Lê Ngô Cát.",LOCATION#GENERAL,negative
+276,"Salad cá ngừ và salad gà, phàn salad gà siêu rẻ ma ngon nhất.",FOOD#PRICES,positive
+277,"Chạy xe gần 2 tiếng từ tp về quê mà còn nóng luôn hihi, gói cũng kĩ lắm.",RESTAURANT#MISCELLANEOUS,positive
+278,"Nếu mua qua Delivery now thì mất thêm phí ship thôi, bù lại sau sớm nhất 40 phút thì sẽ có trà sữa uống.",RESTAURANT#MISCELLANEOUS,negative
+279,"Trong một con hẻm nhỏ, yên ắn, rất hợp với phong cách quán Hội An.",LOCATION#GENERAL,positive
+280,Mình với bạn ăn phần mì ý và bò bít tết hết 80k.,FOOD#PRICES,neutral
+281,"- Nhà hàng nhỏ nhưng ấm cúng, có máy lạnh nên cũng không sợ nóng vì một phần mài sắc theo phong cách Ấn Độ nên sẽ có cảm tưởng mùa hè thì nóng nảy lắm :).",RESTAURANT#MISCELLANEOUS,neutral
+282,Bánh ở đây mà có chê thì chê nó khá đắt vì mình k đủ tiền mua 😂.,FOOD#PRICES,negative
+283,"Nghe nói nước ép lạnh, uống chai 350ml đã luôn, không ngọt vì không đường, khỏi sợ béo như uống ly trà sữa, giá ở đây tốt đó nha.",DRINKS#PRICES,positive
+284,Mình uống trà sữa Alisan Gong Cha size lớn thêm trân châu trắng.,DRINKS#STYLE&OPTIONS,neutral
+285,"Lần này đúng gần hết thì lại ko có milkfoam, mà vẫn charge mình 16k @ @ mấy bạn in trên ly là có MILKFOAM mà giao thì k có, chứng tỏ ko hề kiểm tra đơn hàng xem mình có thiếu cái j ko.",DRINKS#PRICES,neutral
+286,"Nước lẩu thì ăn vẫn bình thường, gọi là ăn được, chứ so với hotpot story thì vẫn thua mấy bậc.",FOOD#QUALITY,neutral
+287,"☘Không gian:Quán có cả ở trong nhà và ở ngoài vỉa hè, thường thì khách hay ngồi ở ngoài vỉa hè hơn, hết chỗ thì mới vào nhà thôi vì trong nhà hơi bí bách 😒.",AMBIENCE#GENERAL,neutral
+288,Đủ 3 điểm thì bạn sẽ được nhận quai kèm sticker còn đủ 7 điểm thì được ly sứ.,RESTAURANT#MISCELLANEOUS,positive
+289,Gần 40 k / ly này hay sao đó.,DRINKS#PRICES,neutral
+290,"Có 2 loại hủ tiếu nam vang khô và nước, mình thích ăn khô hơn, nếu ăn khô nhân viên sẽ đem ra 1 chén nước kèm thịt riêng, ở đây nêm nếm gia vị vừa ăn.",FOOD#STYLE&OPTIONS,neutral
+291,"Mình thích nhất milkfoam của Gongcha, mằn mặn beo béo, kết hợp với vị trà xanh hơi ngọt rất là ngon.",DRINKS#QUALITY,positive
+292,"Nhìn chung không gian kiểu hơi hướng nhật bản, cũng khá thú vị 😚.",AMBIENCE#GENERAL,positive
+293,Nhạc quán mở cũng ko đc hay lắm.,RESTAURANT#MISCELLANEOUS,neutral
+294,Quán chi có mỗi cơ sở này nên chắc cũng chú tâm vào chất lượng.,RESTAURANT#GENERAL,positive
+295,"Không gian quán rộng rãi, thích hợp cho những bạn thích ẩm thực Ý và Pháp.",AMBIENCE#GENERAL,positive
+296,Nhìn chung đi vào là tìm quán khá là dễ vì nổi bật a.,LOCATION#GENERAL,positive
+297,"Món đã dở, ko gian dơ mà bày đặt chảnh chó ko cần khách ko cần tiền thì dẹp cmn quán đi.",RESTAURANT#GENERAL,negative
+298,Giá cả:vì theo phong cách Western nên có thể nói giá cả so với mặt bằng chung các quán cà phê khác thì cũng không quá mắc.,RESTAURANT#PRICES,neutral
+299,"Trân châu đen khá ok vì không bị dai nhách, một phần cũng khá nhiều trân châu, nhai trân châu cũng vui hehe.",DRINKS#STYLE&OPTIONS,positive
+300,Quán chuyên bún bò nên thấy vẫn có bún bò là ngon nhất.,RESTAURANT#GENERAL,positive
+301,- giá cả phải chăng.,RESTAURANT#PRICES,positive
+302,"Quadn ở PNT này mở đc 7 năm rồi ấy, nay vẫn đông khách chứ ko bị ế hay vắng khách đâu.",LOCATION#GENERAL,neutral
+303,Cũng không quá mắc.,RESTAURANT#PRICES,neutral
+304,"Trà đào váng sữa thơm lắm, thêm váng sữa béo ơi là béo mà mình siêu nghiện.",DRINKS#QUALITY,positive
+305,Tốt nhất mỗi cái ruốc ăn kèm.,FOOD#QUALITY,positive
+306,Nằm ngay trên phố trung tâm nên k hề khó tìm nhưng quán cũng k nổi cho lắm.,RESTAURANT#GENERAL,neutral
+307,2 đứa mình gọi trà đào macchiato và trà sữa hongkong.,DRINKS#STYLE&OPTIONS,neutral
+308,Đa số đám cưới của bạn mình tổ chức ở Mỹ Tho là đều rất tin tưởng làm ở đây.,RESTAURANT#GENERAL,positive
+309,Nhưng luôn rất là đông.,RESTAURANT#GENERAL,positive
+310,Nhưng mùi vị thì chắc k hợp với mfinh và bạn mình nên thấy k ngon.,RESTAURANT#GENERAL,negative
+311,Ngon rẻ lại được tự do chọn lựa.,RESTAURANT#PRICES,positive
+312,Về đồ ăn khá tệ so với mức giá voucher 185k.,FOOD#QUALITY,negative
+313,"🎀 Giá beefsteak ở đây khá mắc, phần mình gọi là rẻ nhất menu rồi 😂.",FOOD#PRICES,negative
+314,"Sườn bò mỏng nên thịt hơi khô, nhưng bù lại ăn thơm lắm, sốt BBQ làm cũng vừa miệng nữa.",FOOD#QUALITY,neutral
+315,"- Chị chủ thân thiện, đồ ăn ra khá nhanh.",SERVICE#GENERAL,positive
+316,Mình thích Mango Tea và Hershey Premium ở đây( hoặc do mình chỉ mới thử hai cái đó ahihi).,DRINKS#STYLE&OPTIONS,neutral
+317,Cả trà xanh cũng thơm và hài hoà hương vị.,DRINKS#QUALITY,positive
+318,Giá trung bình khoảng 50 k / cốc.,DRINKS#PRICES,neutral
+319,"Quán nhỏ nằm trong chung cư, ngay đoạn có khuôn viên cho người dân sinh hoạt, góc tấp nập các quán ăn uống.",LOCATION#GENERAL,neutral
+320,"Thức ăn ngon, nhân viên nhiệt tình nhưng hơi chậm, lúc mình đến nhà hàng rất đông khách nên cũng thông cảm.",SERVICE#GENERAL,neutral
+321,Bạn mình uống giảm 70 % đường thì thấy hơi nhạt.,DRINKS#STYLE&OPTIONS,neutral
+322,Giao 1 ly mình k thể uống đc mà mất hơn 80k.,DRINKS#PRICES,neutral
+323,"Thích ăn món Thái của Chilli lắm, ngon, hợp khẩu vị với gia đình mình mà giá cũng không mắc.",FOOD#PRICES,positive
+324,"Quán mang phong cách dân dã, đậm chất Việt nhưng vẫn lịch sự, tinh tế.",AMBIENCE#GENERAL,positive
+325,"Tất cả món ăn rất vừa miệng, tuy hôm đó mình đi không có cua hoặc ghẹ nhưng có gà ác hầm thuốc bắc, cháo Thào.",FOOD#QUALITY,positive
+326,- Trà xanh kem phomai( 55 k):size lớn.,DRINKS#STYLE&OPTIONS,neutral
+327,Mỗi tội nước lẩu kim chi thì lại cay quá phải chế thêm nước nấm mới ăn đc.,FOOD#QUALITY,negative
+328,"Trà ngon, thơm, ko quá ngọt, váng sữa cũng ổn có điều ít quá, trân châu trắng ok, trà lài xanh có sữa 32k ngon nè.",DRINKS#PRICES,neutral
+329,"Quán có cho đăng kí thẻ thành viên free để lần sau ăn được giảm giá nữa, mọi người nhớ hỏi thử nha.",RESTAURANT#MISCELLANEOUS,neutral
+330,"Ở KOI ly nhỏ xíu à với lớp macchiato siêu mỏng, uống hem đã.",DRINKS#STYLE&OPTIONS,negative
+331,Nhạc replay nhưng toàn mấy bài hay hay.,RESTAURANT#MISCELLANEOUS,positive
+332,"Lúc vào có nhân viên đưng sẳn trước cổng, hỏi đã đặt bàn chưa và chỉ đến chổ mua vé, nchug nhân viên nhìn chung rất lịch sự và vui vẻ.",SERVICE#GENERAL,positive
+333,"Chả cá ăn được, lòng cá dai giòn, bún tươi, rau hành lá đầy đủ.",FOOD#STYLE&OPTIONS,positive
+334,Cả hai lần đêu rất hài lòng với món ăn và chất lượng phục vụ.,FOOD#QUALITY,positive
+335,Nay đi uống mới biết giá thành hơi cao nhưng thật sự đi đôi với chất lượng.,RESTAURANT#PRICES,negative
+336,"Đồ ăn ngon, nước uống ok lun, không khí vui vẻ và nhộn nhịp thích hợp ngồi tán ngẫu với bạn bè và nghe nhạc.",DRINKS#QUALITY,positive
+337,"Nhưng lúc nào minh toi quan cũng đông, được cái phục vụ món rất nhanh.",SERVICE#GENERAL,positive
+338,Ngoài ra ở đây có trà thái mình cũng mê lắm nhé.,DRINKS#STYLE&OPTIONS,positive
+339,Béo béo mặn mặn( mà hình như càng ngày càng ít thì phải).,DRINKS#STYLE&OPTIONS,negative
+340,"Với lại bánh ở đây chỉ nguyên chất hoa cúc, chứ k có rắc thêm mè đen hay hạnh nhân hay gì gì như các nơi khác.",FOOD#STYLE&OPTIONS,positive
+341,💋 Giá cả:Giá ở mức cao.,RESTAURANT#PRICES,negative
+342,"houjicha latte với kem float và houjicha xay:mình siêu thích hoijicha ở morico, thích còn hơn matcha, ngon mà thơm dã man,,,< 3 kem ngon, kem tươi phủ béo cũng ngon.",FOOD#STYLE&OPTIONS,positive
+343,"Mình rất thích đen đá nhưng từ giờ sẽ không tới nữa, chất lượng món giảm, phục vụ tệ.",RESTAURANT#GENERAL,negative
+344,Size k được to nhưng bánh dày và siêu nhiều trứng ruốc nên thấy giá vừa phải.,FOOD#STYLE&OPTIONS,positive
+345,Tuy giá khá cao nhưng so về chất lượng thì mình lại thấy thoả mãn.,RESTAURANT#PRICES,negative
+346,"Giá cả tương đối xứng tầm, đồ uống theo mình thì hơi lạc, cảm nhận đc vị đắng đắng của trà, trân châu ko ngon lắm.",RESTAURANT#PRICES,neutral
+347,"Đến đây giữ xe dưới hầm, 5k cho giữ xe quận 1 thì cũng ổn.",RESTAURANT#MISCELLANEOUS,neutral
+348,"Thấy Trà xanh Gong Cha hơn 10k lượt đặt nên mình gọi theo, 50 % ngọt và 70 % đá, phân vân 2 loại hạt là thạch Ai, Yu và trân châu trắng nên mình chọn combo 2 loại hạt luôn, thêm có 15k nếu mình nhớ không lầm.",DRINKS#PRICES,neutral
+349,Beefsteak lần này thì mình có cảm giác không ngon bằng lần trước mình ghé quán.,FOOD#QUALITY,neutral
+350,Nhưng nói chung là ngon :3,RESTAURANT#GENERAL,positive
+351,"- Alisan xoài + nha đam( should try):ưng cực kì thật sự ưng, nên chọn lượng đường đá như hình để cảm nhận rõ đc mùi vị của trà.",DRINKS#STYLE&OPTIONS,neutral
+352,Lúc trước đi có gặp bạn nhân viên nhỏ nhắn nhưng nhiệt tình lắm.,SERVICE#GENERAL,positive
+353,Kem lotte 3k thần thánh của mình còn ngon hơn.,FOOD#PRICES,neutral
+354,"Hqua mình có order món ở đây đi, vì order Deli nên phải order trên 100k mà có 2 đứa nên tốn khá nhiều, bình quân cũng hết 150k do giá lên.",RESTAURANT#PRICES,neutral
+355,Nản kinh khủng và rôi mơi biết chưa có cá nơi bàn thì chưa có bún vì lấy cá xong trả tiền rôi mơi có bún dc =)))).,SERVICE#GENERAL,negative
+356,"Một ly khảng 50k, nghe hơi mắc nhưng mà một ly cũng khá nhiều, uống mà no anh ách bụng.",DRINKS#PRICES,negative
+357,Món ếch đặc trưng của quán thì rất ngon.,FOOD#QUALITY,positive
+358,Đồ ăn ko quá xuất sắc.,FOOD#QUALITY,neutral
+359,Giá cả:em nó giá hơi chát 1 tí.,RESTAURANT#PRICES,negative
+360,"🛵Dạo này mình khá thích nhân viên bên Deli vì ăn nói lịch sự và thân thiện lắm lắm, nên có khi sẽ order thường hơn :",SERVICE#GENERAL,positive
+361,"Giá cả tính ra k đắt với 1 quán trà bánh sang chảnh tn đâu nhé, đồ uống chỉ từ 60k( đơn), 99k( đôi) và bánh tầm 39-59 k.",RESTAURANT#PRICES,positive
+362,"Trà uống thì mình thấy cũng đc, k có gì nổi trội nhưng cũng k mờ nhạt.",DRINKS#QUALITY,neutral
+363,"Món đã dở, ko gian dơ mà bày đặt chảnh chó ko cần khách ko cần tiền thì dẹp cmn quán đi.",SERVICE#GENERAL,negative
+364,Quán decor đơn giản không có gì đặc sắc.,AMBIENCE#GENERAL,neutral
+365,70K cốc trà sữa cũng đáng.,DRINKS#PRICES,neutral
+366,Bạn mình thử món khác là trà xanh sữa + trân châu trắng:cảm giác như uống trà ở nhà hằng ngày ý ^ ^ không dở nhưng cũng không gọi là ngon.,DRINKS#QUALITY,neutral
+367,"Bù lại nước lẩu thanh, có vị chua chua cay cay của kim chi rất ngon, rau và nấm tươi, trông sạch sẽ, thịt bò thơm và mềm.",FOOD#QUALITY,positive
+368,"Cải nhiều, có gan, thịt, và1 miếng bong bóng cá.",FOOD#STYLE&OPTIONS,positive
+369,Nên chỗ hơi nhỏ với món cũng không nhiều.,FOOD#STYLE&OPTIONS,negative
+370,"Giá cả tính ra k đắt với 1 quán trà bánh sang chảnh tn đâu nhé, đồ uống chỉ từ 60k( đơn), 99k( đôi) và bánh tầm 39-59 k.",FOOD#PRICES,positive
+371,"Lần khác thì lúc đóng nắp, nhân viên bị trượt tay làm milkfoam hơi đổ xíu và thêm cho mình milkfoam nhiều hơn =)) cảm động hết sức :)).",SERVICE#GENERAL,positive
+372,Goky 1 cái tên k hề xa lạ với giới trà sữa hiện nay.,RESTAURANT#GENERAL,positive
+373,"Món đã dở, ko gian dơ mà bày đặt chảnh chó ko cần khách ko cần tiền thì dẹp cmn quán đi.",AMBIENCE#GENERAL,negative
+374,"Đồ ăn đúng kiểu đắt xắt ra miếng, nước lẩu chua cay chuẩn vị, thịt bò thì siêu siêu ngon, mềm ngọt và thơm.",FOOD#QUALITY,positive
+375,"Quán trang trí dễ thương, trang nhã, sạch sẽ, nhìn rất thích.",AMBIENCE#GENERAL,positive
+376,Giá cả:nếu mình nhớ ko nhầm thì bữa này nhà mình hết hơn 600k.,RESTAURANT#PRICES,neutral
+377,"Chỗ này được anh trai dẫn đi ăn cách đây cũng hơn 3 năm rồi á, lúc đó cũng 15 k / tô giờ giá vẫn vậy.",FOOD#PRICES,neutral
+378,"Theo mình phở ở những nơi khác bình dân mà ngon và rẻ vô cùng, chắc tại cái tiếng hồi xưa thôi còn bây giờ thì tệ.",FOOD#PRICES,neutral
+379,"- Xúc xích đức( 12 k):xúc xích cắt hơi mỏng nên ăn k cảm nhận được vị lắm, nhưng bù lại viền ngoài thì giòn.",FOOD#PRICES,neutral
+380,Nếu chỉ ăn thôi chắc khoảng 150-200 / người thoi.,RESTAURANT#PRICES,neutral
+381,"Hôm đó mình uống olong sữa BỰ như cũ, anh mình uống trà đào bà ảnh tấm tắc khen ngon.",DRINKS#STYLE&OPTIONS,positive
+382,Lúc sau có bạn nhân viên bê nước tỏ thái độ khi mình đổi chỗ.,SERVICE#GENERAL,negative
+383,Nằm ngay trên phố trung tâm nên k hề khó tìm nhưng quán cũng k nổi cho lắm.,LOCATION#GENERAL,positive
+384,"View đẹp, không gian nhỏ nhưng khá đẹp.",AMBIENCE#GENERAL,positive
+385,"Nói chung mình thấy cũng bình thường à, không có gì đặc biệt lắm.",FOOD#QUALITY,neutral
+386,Chắc hơi lạt so với khẩu vị bình thường nhưng với mình thì vừa.,DRINKS#QUALITY,neutral
+387,"Phải nói là rất không hài lòng, bàn ghế thì lắc lư, nhà hàng thì chật chội.",AMBIENCE#GENERAL,negative
+388,Nhân viên rất nhiệt tình thân thiện nhé.,SERVICE#GENERAL,positive
+389,Giá ở quán thì hơi cao.,RESTAURANT#PRICES,negative
+390,"Trà sữa oolong thì ko ngon bằng ở Phúc Long, nhưng ở Phúc Long ít nước lắm, toàn đá thôi.",DRINKS#STYLE&OPTIONS,positive
+391,"Đồ uống ở đây đa dạng, giá hợp lí.",DRINKS#PRICES,positive
+392,- giá hơi cao.,RESTAURANT#PRICES,negative
+393,Trà chả hiểu sao k cho được vào tách mà cho vào cốc take away trông mất thẩm mỹ.,DRINKS#STYLE&OPTIONS,negative
+394,"Chi nhánh chỗ này là dễ đi với có chỗ gửi xe ngay cửa, mặt tiền góc 2 đường lớn luôn.",LOCATION#GENERAL,positive
+395,"- Green tea ice, blended( 55 k):mình chọn ly L nên to lắm nha, uống no lắm.",DRINKS#PRICES,neutral
+396,"Mình thì chỉ hay uống trà đào, trà olong và matcha thôi.",DRINKS#STYLE&OPTIONS,neutral
+397,"Quán cũng dễ tìm, gửi xe trước quán có người trông, có thẻ xe và miễn phí.",LOCATION#GENERAL,positive
+398,"Bánh mochi vỏ trắng bổ đôi ra nhìn giống quả trứng gà, hihi.",FOOD#STYLE&OPTIONS,positive
+399,- Giá cả ở đây mình thấy hợp lý so với chất lượng cũng như mặt bằng chung các quán Nhật.,RESTAURANT#PRICES,positive
+400,Đồ ăn được nhưng cái giá thì không hấp dẫn tẹo nào so với chất lượng món ăn.,FOOD#PRICES,negative
+401,Thêm 3k uống matcha sẽ ngon hơn.,DRINKS#PRICES,neutral
+402,Vậy cầm tiền mặt đến ăn cho lẹ không mua chi mắc công chạy ra chạy vô lấy voucher đến ăn mà còn có cảm giác bị coi thường.,SERVICE#GENERAL,negative
+403,"lần đầu uống ở chi nhánh này, khách k quá đông nên k phải chờ gọi tên nhận đồ uống như chi nhánh phan văn trị.",RESTAURANT#GENERAL,positive
+404,"Mình gọi Hokkaido hình như chỉ 43k, độ béo và độ ngọt vừa phải nhưng ngon.",DRINKS#PRICES,neutral
+405,"Giá cả:khá hợp lý, gói mỳ cay tầm 30k thì phải, ko nhớ rõ lắm.",FOOD#PRICES,positive
+406,Mình gọi trà xanh milk foam chân trâu trắng size M tổng là 53k.,DRINKS#PRICES,neutral
+407,"Được cái flan trứng rất láng mịn, trân châu trắng nhai vui miệng.",DRINKS#STYLE&OPTIONS,positive
+408,"Đồ ăn nguội, giá đắt, nhân viên chào khách mà cứ như đuổi khách.",FOOD#QUALITY,negative
+409,"🎄Menu:quán chuyên đồ Âu, nhìn cái tên quán cũng biết món vơ đét của quán là beefsteak rồi, ngoài ra còn mấy món ăn kèm như salad, mì ý.",RESTAURANT#GENERAL,positive
+410,Trưa nắng thèm trà sữa order 3 ly ở Chi nhánh Q5.,LOCATION#GENERAL,neutral
+411,"Đi buổi trưa nên không gian đèn đóm không phát huy được hết thế mạnh, không đẹp lắm.",AMBIENCE#GENERAL,neutral
+412,"Phần vỏ bánh giòn, bacon và gia vị bên trong cùng với thit bò hoà quyện rất ngon.",FOOD#QUALITY,positive
+413,Giá cả sinh viên phải chăng không bàn tới.,RESTAURANT#PRICES,positive
+414,Rất đáng thử.,RESTAURANT#GENERAL,positive
+415,Thịt mực hơi dai nhưng bạn mình đánh giá là do chiên lâu mới như vậy.,FOOD#QUALITY,neutral
+416,"Nhân viên bt, không nhiệt tình cũng không khó chịu, thấy có một chị quên điện thoại ở đấy thì nv hối hả tìm giúp hộ.",SERVICE#GENERAL,neutral
+417,"Dao động khoảng từ 30-50 cho nước, đồ ăn thì tầm 40-60 nhưng món nào cũng miễn chê luôn.",DRINKS#PRICES,neutral
+418,"Mỗi lần ghiền trà sữa là nhớ ngay tới Gong Cha, trà sữa này thì khỏi bàn cãi nữa vì nó quá nổi tiếng.",RESTAURANT#GENERAL,positive
+419,Đường đến quán sẽ hơi lạ nếu chưa dò bản đồ trước với đường khá nhỏ.,LOCATION#GENERAL,negative
+420,Sốt tiêu đen và sốt bbq ăN cũng ổn lắm.,FOOD#STYLE&OPTIONS,neutral
+421,"Ở đây là cả căn nhà rộng rãi thoáng đãng hơn, tránh tình trạng đông ngộp thở so với cơ sở ở 81 kia, cũng có vẻ sạch sẽ hơn.",AMBIENCE#GENERAL,positive
+422,"Sân để xe rộng rãi, nhân viên giữ xe nhiệt tình, làm việc trách nhiệm và nghiêm túc.",SERVICE#GENERAL,positive
+423,Tô 15k mà rất nhiều lòngn O chạy cũng rất vui vẻ hiếu khách nữa.,SERVICE#GENERAL,positive
+424,Tuy nhiên so với mặt bằng Huế thì giá như vậy hơi đắt 1 tẹo.,FOOD#PRICES,negative
+425,Thực đơn nhiều món.,DRINKS#STYLE&OPTIONS,positive
+426,Mỗi lần tới đều có 1 vị khác nhau.,DRINKS#STYLE&OPTIONS,positive
+427,"Cảm nhận thì decor của quán khá đẹp, bàn thấp ở dưới hết chỗ rồi do mình đi tầm 8h vào giờ cao điểm thì phải nên ngồi bàn cao nhất( cũng khoái) =)).",AMBIENCE#GENERAL,positive
+428,"Quán nằm trong hẻm cũng rộng, không gian rộng rãi.",LOCATION#GENERAL,neutral
+429,Mỳ trứng cà chua( 98k).,FOOD#PRICES,neutral
+430,Ăn cho biết thôi chứ ko hợp khẩu vị của mình lắm.,FOOD#QUALITY,neutral
+431,5 điểm cho chất lượng ổn định ; 0 điểm cho bảo vệ thiếu lịch sự.,SERVICE#GENERAL,negative
+432,"📍 Vị trí:Quán Teacups mới mở tại số 43 Quán Thánh, Ba Đình.",LOCATION#GENERAL,neutral
+433,Cari dê chất lượng có thể ăn kèm với bánh mì hoặc cơm Nị( cơm ấn).,FOOD#STYLE&OPTIONS,positive
+434,💋 Vị trí: Chỗ này dễ tìm lắm.,LOCATION#GENERAL,positive
+435,Đèn đuốt thì thiếu sáng.,RESTAURANT#MISCELLANEOUS,negative
+436,Thích nhất ở đây là chất lượng phục vụ.,SERVICE#GENERAL,positive
+437,"Quán dễ tìm, không gian vintage cổ kính, trang trí nhìn đẹp thiệt đẹp luôn, hợp chụp mấy ảnh deep deep nè:3.",LOCATION#GENERAL,positive
+438,Mình nói thật là trà sữa ở Gongcha rất ngon giá cả cũng kh đắt lắm 👍.,DRINKS#PRICES,positive
+439,"Tổ chức sinh nhật ở Pepperonis giá cả vừa tầm, không gian ấm cúng, sang trọng, đồ ăn ngon và phục vụ chu đáo.",SERVICE#GENERAL,positive
+440,"Khoai nghiền 15k rẻ mà ngon, bùi thơm.",FOOD#PRICES,positive
+441,"Mặt bằng:Rộng rãi, đẹp và thoáng mát, giữ xe thênh thang.",RESTAURANT#MISCELLANEOUS,positive
+442,Quán cũng khá đông.,RESTAURANT#GENERAL,positive
+443,"Lâu rồi không ghé Gong Cha, hôm nay ghé lại uống ngon gì đâu.",DRINKS#QUALITY,positive
+444,"Chả cá lã vọng ở đây họ cho ra chảo sẵn, sau đó mình bật bếp và xào lên chung với hành, ăn kèm mắm tôm khá ngon.",FOOD#STYLE&OPTIONS,neutral
+445,Hồng trà làm đúng vị👌🏻.,DRINKS#QUALITY,positive
+446,"Quán cũng nhỏ, chừng 4-5 bàn thôi.",AMBIENCE#GENERAL,negative
+447,"Chọn món, đợi lấy món, tính tiền, rồi lại thấy gia vị ăn kèm.",RESTAURANT#GENERAL,neutral
+448,Ăn thì rất hợp khẩu vị.,FOOD#QUALITY,positive
+449,Nói chung HL là 1 thương hiệu phù hợp với giới trẻ.,RESTAURANT#GENERAL,positive
+450,Bánh mật ong( 9 k / cái):mua 3 tặng 1 nhe.,RESTAURANT#MISCELLANEOUS,positive
+451,"Không gian yên tĩnh, nhạc tiếng Anh mở toàn bài mình thích.",RESTAURANT#MISCELLANEOUS,positive
+452,"Ly cực xinh, chữ viết tay nhìn khá thân thiện, bao bì nhìn có cảm giác thanh mát lắm.",RESTAURANT#MISCELLANEOUS,positive
+453,Tổng thể khá là ngon.,RESTAURANT#GENERAL,positive
+454,Mình thíc ít fomai nhiều trứng bạn í cũng cho đúng ý nguyện hehe 🤤.,SERVICE#GENERAL,positive
+455,"Không gian khá rộng nhưng luôn ít khách, bởi đa phần mọi người đến mang về.",AMBIENCE#GENERAL,positive
+456,"Món ăn khá đa dạng, ngon miệng, giá cũng chấp nhận đc so với vị trí này.",FOOD#PRICES,neutral
+457,"Nhất là bánh nha, ngon cực kì luôn mà giá so với chất lượng thì ko thể gọi là mắc.",FOOD#PRICES,neutral
+458,Quán có không gian sạch sẽ và phục vụ vui vẻ nhiệt tình.,AMBIENCE#GENERAL,positive
+459,✨ Chất lượng:giá đắt thế nhưng mà chất lượng mình khá là ưng a.,RESTAURANT#PRICES,negative
+460,Vì mua mang đi nên foam nó hơi bị tan vào trà.,DRINKS#QUALITY,neutral
+461,Lần thứ 3 uống một miếng của bạn thì lại thấy hơi chua T.T.,DRINKS#QUALITY,negative
+462,Trong nhà có bàn sopha nhưng ngồi đông thì hợp lý hơn nên mình ra ngoài ngắm phố thành ra lạnh teo :(.,AMBIENCE#GENERAL,neutral
+463,"Menu mỏng như tờ báo, không món nào giá dưới 60k thì phải.",RESTAURANT#PRICES,neutral
+464,"Mình uống trà sữa King Olong thêm trân châu đen và thạch, thêm topping 10k 1 món á, mắc ghê.",DRINKS#STYLE&OPTIONS,neutral
+465,"Đồ ăn ngon, sạch sẽ, phục vụ nhanh nhẹn, thái độ tốt, giá cả phải chăng.",RESTAURANT#PRICES,positive
+466,"Bên cửa hàng có ghi thông tin đầy đủ sản phẩm, thỉnh thoảng có promotion trên Fanpage nữa.",RESTAURANT#GENERAL,positive
+467,"- Mực chiên giòn( 45k):khá dai, mực không tươi, chả ra làm sao.",FOOD#PRICES,neutral
+468,Để no mỗi người khoảng 120k là vừa.,RESTAURANT#PRICES,neutral
+469,"Chỗ gửi xe hơi xa thôi, cáv bạn đi thẳng ra sau quán là tới chỗ gửi xe r đó.",RESTAURANT#MISCELLANEOUS,negative
+470,"Vị trí đẹp, thoáng đãng.",LOCATION#GENERAL,positive
+471,+ Giá cả:rẻ hơn 5k so với trung bình những nơi khác.,RESTAURANT#PRICES,positive
+472,"KHÔNG GIAN:,Lịch sự, trang trọng và ấm cúng.",AMBIENCE#GENERAL,positive
+473,"Menu khá phong phú, nhiều loại đồ uống, giá thành khá đắt.",DRINKS#STYLE&OPTIONS,positive
+474,Món ăn:Order một Yogen Matcha với Yogen truyền thống.,FOOD#STYLE&OPTIONS,neutral
+475,Cheese hơi hơi thơm mùi sữa chưa được mặn chân trâu khá giòn và ngon.,DRINKS#STYLE&OPTIONS,neutral
+476,Bởi vậy nếu ai có uống nên để 50 đường đổ xuống thôi nha để cái ngọt kem cheese nó bù đắp lại cho.,DRINKS#STYLE&OPTIONS,neutral
+477,Thất vọng vì vài món trong menu mấy lần đến đều hết như cá lăng.,FOOD#STYLE&OPTIONS,negative
+478,"Không gian quán khá rộng rãi, đầy đủ tiện nghi: wifi, máy lạnh, nhà vệ sinh,...",AMBIENCE#GENERAL,positive
+479,"Nếu gửi xe ở đoạn xa hơn kia sẽ đc quán hỗ trợ tiền gửi xe, tuy nhiên nhân viên sẽ ko nói mà bạn phải tự biết và tự hỏi.",RESTAURANT#MISCELLANEOUS,neutral
+480,Ở đây xin thêm rau là cho thêm phần rau giá to lắm mà rau tần ô hơi bị ít.,FOOD#STYLE&OPTIONS,positive
+481,"📍Wowpopcorn, Tầng B1 Loette Center.",LOCATION#GENERAL,neutral
+482,Cái giá quá hợp lý khi ngồi trên phố Bà Triệu lại trong quán.,RESTAURANT#PRICES,positive
+483,"Trà sữa ngọt quá trời, đá đầy ly luôn mà 39k ?",DRINKS#PRICES,negative
+484,"Dịch vụ:đi ngay ngày đầu năm nên nhân viên khá đông, phục vụ tốt, ra vào đều chào khách to rõ ràng.",SERVICE#GENERAL,positive
+485,"Điểm trừ là không gian quán nằm trong hẻm nên nhỏ và hẹp, giá hơi chát về phần đồ ăn.",AMBIENCE#GENERAL,negative
+486,Nay trà sữa quốc dân TocoToco vừa ra mắt 3 món mới với giá dùng thử 35k size vừa.,DRINKS#PRICES,neutral
+487,Hết tổng cộng khoảng 550k.,RESTAURANT#PRICES,neutral
+488,"Rất thích hợp để họp mặt bạn bè, ăn uống tiệc tùng gia đình, không gian rộng rãi buổi tối thì nghe em mình nói cao cấp hơn, có hào ăn thoải mái mình ăn dìn ký từ hồi còn ở q1, không nhớ tên đường, đến sau này mở thêm ở Cộng Hoà, thì mình chuyển qua đó ăn luôn.",LOCATION#GENERAL,neutral
+489,Nên chỗ hơi nhỏ với món cũng không nhiều.,AMBIENCE#GENERAL,negative
+490,Mua thêm 7k topping trân châu trắng thì ăn mãi không hết luôn 😄.,DRINKS#STYLE&OPTIONS,positive
+491,Chỗ này cũng tự phục vụ giống mấy nơi khác.,RESTAURANT#GENERAL,neutral
+492,"Hồi đó mình cũng thích Cheese lắm, bị ghiền cái trà sữa hạnh nhân của đến mức 1 tuần ra 2,3 lần uống.",DRINKS#QUALITY,positive
+493,"Quán tuy k dc đông khách vì cũng k dc nhiều ng biêt đến nhưng chất lượng đồ ăn siêu ngon luôn, đây đặn cực kì.",FOOD#STYLE&OPTIONS,positive
+494,Không gian ở đây rất đẹp và tiện nghi.,AMBIENCE#GENERAL,positive
+495,Nghe nói trà sữa hương nhài ngon hơn.,DRINKS#QUALITY,positive
+496,Thêm các loại hoạt 5 k / loại.,DRINKS#PRICES,neutral
+497,Tầng trên có hẳn 1 bàn dài phù hợp cho 1 nhóm bạn khoảng 10 người tụ tập chơi board game( nhất là ma sói).,RESTAURANT#MISCELLANEOUS,positive
+498,Cái ghế của mình quá thấp nên mình nhờ nhân viên đẩy ghế cao lên dùm mình.,RESTAURANT#MISCELLANEOUS,neutral
+499,- Đồ uống:Trà Alisan kem phô mai size L( 53 k) + trân châu đen( 5 k).,DRINKS#PRICES,neutral
+500,"Medium rare làm vừa đẹp, thịt mềm, sốt thơm.",FOOD#STYLE&OPTIONS,positive
+501,Cay và đậm vừa phải.,FOOD#QUALITY,positive
+502,"Chỗ mới dòm sạch sẽ hơn hẳn, và cũng đỡ phải vào hẻm nhiều hơn hẳn, chỉ cần quẹo vào hẻm 393 cách 2-3 căn đầu là thấy rồi.",AMBIENCE#GENERAL,positive
+503,Nhà hàng không linh động hỗ trợ K.H.,SERVICE#GENERAL,negative
+504,"Mình uống Gong Cha trên đường Hồ Tùng Mậu, vị trí này gửi xe bất tiện vì chỗ gửi rất xa với giá 10k.",RESTAURANT#MISCELLANEOUS,negative
+505,"Giá đồ ăn và nước, cộng VAT mặc định nữa là 350k, nhưng ko thoả mãn do đồ ăn ko ngon.",RESTAURANT#PRICES,neutral
+506,* Giá:tổng cộng bill của tụi mình là hơn 200k.,RESTAURANT#PRICES,neutral
+507,Có mấy cái ghế ngồi trong nhà( 1-2 c thôi) và chủ yếu là ngồi ngoài vỉa hè :))).,AMBIENCE#GENERAL,neutral
+508,"Mình thấy món này mắc và không ngon, vị nhạt nhoẽ và không thấm gì hết, giống như ăn răng mực luộc vậy á 😭.",FOOD#PRICES,negative
+509,"Mình có gọi cơm nị, hạt cơm dài và ăn cùng cà ri khá là hợp.",FOOD#STYLE&OPTIONS,positive
+510,Mình gọi trà xanh milk foam chân trâu trắng size M tổng là 53k.,DRINKS#STYLE&OPTIONS,neutral
+511,"Nhất định ghé là phải ăn thử lươn và cua đút lò phô mai nha, must try đó :)).",FOOD#STYLE&OPTIONS,positive
+512,"Lần sau thì mình có gọi dessert bánh flan caramel 45k cũng khá ngon, vừa với 2 người ăn.",DRINKS#PRICES,neutral
+513,"K biết có phải do quá đông hay k mà mình uống thấy cực kì nhạt và k ngon, dù mình chọn ít đá và ngọt nhiều, trân châu thì dai ngon miễn bàn rồi, chỉ có vị trà sữa hơi làm mình thất vọng.",DRINKS#STYLE&OPTIONS,neutral
+514,"Nhà hàng phục vụ đồ ăn bình thường, không gì đặc sắc, Gía quá cao so với chất lượng đồ ăn.",FOOD#PRICES,negative
+515,"Một lúc sau thì mình thấy bạn nam phục vụ bưng 2p mì cay cho bàn đó, mình thấy cũng hơi khó chịu vì mình tới trước, nhưng cũng không ra vẻ gì hết.",SERVICE#GENERAL,negative
+516,👉Trà sữa chocolate:khuyến cáo cái này mà order đường bình thường 70 % thì sẽ rất là ngọt đấy nhé.,DRINKS#QUALITY,negative
+517,Về đồ ăn khá tệ so với mức giá voucher 185k.,FOOD#PRICES,neutral
+518,"Phục vụ ân cần nhưng họ khá đơn thuần, bạn yêu cầu gì thì có đúng cái đó.",SERVICE#GENERAL,positive
+519,Quán này ngày trước cứ ra Đồ Sơn là mới được ăn bây giờ mở thêm chi nhánh ở Lê Hồng Phong nên đi lại tiện lắm luôn ấy ^-^.,LOCATION#GENERAL,neutral
+520,"Tổ chức sinh nhật ở Pepperonis giá cả vừa tầm, không gian ấm cúng, sang trọng, đồ ăn ngon và phục vụ chu đáo.",RESTAURANT#PRICES,neutral
+521,"Mình kiu trà sữa lài xanh uống ngon nhưng hơi ngọt quá, 31k giá này ỗn.",DRINKS#QUALITY,positive
+522,Sơn tường màu trắng rồi cẩn trọng decor từng cái cốc cái ấm chén đều đẹp xịn.,RESTAURANT#MISCELLANEOUS,positive
+523,"Quán khá đông khách nên tốt nhất là nên đặt bàn trước để không phải chờ quá lâu, hệ thống đặt bàn ổn, nhắn tin hay gọi điện nhân viên đều trả lời lịch sự dễ chịu.",RESTAURANT#GENERAL,positive
+524,"Không gian quán khá rộng rãi, đầy đủ tiện nghi: wifi, máy lạnh, nhà vệ sinh,...",RESTAURANT#MISCELLANEOUS,positive
+525,Tô 15k mà rất nhiều lòngn O chạy cũng rất vui vẻ hiếu khách nữa.,FOOD#PRICES,neutral
+526,"Giá trà sữa thì cũng thuộc dạng cao, nhưng uống ngon, mình thích nhất là uống với trân châu trắng hoặc có váng bọt.",DRINKS#STYLE&OPTIONS,neutral
+527,"Giá cả cũng ngang ngang so với mấy tiệm khác nhưng chất lượng hơn hẳn, nhân viên thì rất dễ thương, vui vẻ.",RESTAURANT#GENERAL,positive
+528,"Vị trí quán dễ kiếm, nhưng lúc vào hơi bất ngờ vì quán khá nhỏ và đơn giản so với tưởng tưởng.",AMBIENCE#GENERAL,negative
+529,Giá khá cao mà trà sữa ko được béo lắm.,DRINKS#QUALITY,neutral
+530,"Lẩu bò đậm đà, nước ngọt từ xương, chất lượng, giá cả phải chăng phù hợp với túi tiền của tất cả mọi người.",FOOD#QUALITY,positive
+531,Món mình thường xuyên gọi là sâm dứa sữa đá bào topping đầy đủ.,FOOD#STYLE&OPTIONS,neutral
+532,"Red wine:bò cuộn nấm, sốt vang hơi chua, mình không thích lắm.",FOOD#STYLE&OPTIONS,neutral
+533,Menu bò thì giá hơi chát.,FOOD#PRICES,negative
+534,"Chè ở đây ăn khá ngon, mình gọi 1 cốc đỗ đen mà đầy bự 1 bát luôn, chè đồng giá 10k mà ăn ngon thì quả k phí tiền.",FOOD#PRICES,positive
+535,"Vị trí:siêu gần nhà mình, khá dễ tìm, dễ nhìn, bị thu hút bới cái tên quán.",LOCATION#GENERAL,positive
+536,"Sườn mềm tươi, róc thịt phết, phủ thêm lớp phô mai nữa thơm thơm.",FOOD#STYLE&OPTIONS,positive
+537,"Phù hợp takeaway hơn nhưng không gian quá nhỏ, nhiều người đi 1 mình như lại lấy bàn 4 người nên những nhóm đi 4 như mình không có chỗ phải lấy thêm ghế ngồi rất chật chội.",AMBIENCE#GENERAL,negative
+538,Tình hình là đã ủng hộ quán.,RESTAURANT#GENERAL,positive
+539,"Giá trà sữa thì cũng thuộc dạng cao, nhưng uống ngon, mình thích nhất là uống với trân châu trắng hoặc có váng bọt.",DRINKS#PRICES,negative
+540,Giá mình hay ăn là 60k / bát.,FOOD#PRICES,neutral
+541,"Có 1 bạn mình xin thêm 1 phần bắp cải trộn, bản gật đầu rồi mà hoài mình không thấy đem ra, mà thấy đứng trong quầy uống nước, nên mình gọi quản lý để lấy luôn thì nhanh.",SERVICE#GENERAL,negative
+542,✔️Cứ 50 % đường 50 % đá là vừa nhé👌.,DRINKS#STYLE&OPTIONS,positive
+543,Mọi thức uống size Tall đều giảm còn 50k và số sao tích luỹ được x5.,RESTAURANT#MISCELLANEOUS,positive
+544,Gần nhà nên chắc chắn còn ghé lại 1 ngày gần đây.,LOCATION#GENERAL,positive
+545,Quậy đều uống thì béo ngon hơn.,DRINKS#QUALITY,positive
+546,"● Không gian:Khá là nhỏ hẹp, chỉ có 4-5 chỗ ngồi.",AMBIENCE#GENERAL,negative
+547,Sau đó thấy mang ra 1 đĩa ghẹ 6 con của nha hàng tặng.,RESTAURANT#MISCELLANEOUS,positive
+548,"- Giá cả:combo gia đình 140k cũng được kha khá, 2-3 người ăn là vừa nhé.",RESTAURANT#PRICES,neutral
+549,"View nhìn ra Hàm Nghi đẹp, ở quận 1 mà giá nước uống vậy là phù hợp rồi.",DRINKS#PRICES,positive
+550,"🍀Mình gọi 2 Bạch tuộc( 55 k / phần), 1 Vú dê( 55 k / phần), Nạc tim( 55 k / phần), Tôm( 8 k / xiên), .",FOOD#PRICES,neutral
+551,"Cốc trà xoài tươi cheese mình có thử ké tí, vị xoài tươi, cheese ngậy, tct giòn:3 nhưng hơi nhạt chút.",DRINKS#STYLE&OPTIONS,neutral
+552,Hồng trà vải kem Cheese thì vị rất nhạt và không thấy được mùi vải đâu hết.,DRINKS#QUALITY,negative
+553,- Hến xúc:nếu không bằm hến thì sẽ ngon hơn nhiều.,FOOD#QUALITY,neutral
+554,"- Chè 3 màu nhìn không hấp dẫn lắm, đậu nấu rất ngọt nên mình ăn không thấy ngon, 10 k / ly.",FOOD#QUALITY,negative
+555,"Quán hơi nhỏ, bàn ghế hôm nay có vẻ lộn xộn.",AMBIENCE#GENERAL,negative
+556,Free khăn giấy free giữ xe nha :).,RESTAURANT#MISCELLANEOUS,positive
+557,"Thịt vịt béo, ngon ngọt rất là thích.",FOOD#QUALITY,positive
+558,Bên cạnh kích thước khổng lồ đột biến cho với chúng bạn thì mùi vị cũng rất ngon.,DRINKS#STYLE&OPTIONS,positive
+559,"Món ăn trang trí hấp dẫn, bò mềm, dày, hải sản tươi ngon, hương vị thơm ngon, nêm nếm hơi nhạt so với mình, sốt BBQ không đậm đà, mực và khoai rất giòn, sốt cà của mì ý và salad chua nhiều.",FOOD#STYLE&OPTIONS,positive
+560,"Quán lúc nào cũng đông hết, phục vụ đông nên rất nhanh luôn.",RESTAURANT#GENERAL,positive
+561,💋 Vị trí:Quán nằm ở tầng 4.,LOCATION#GENERAL,neutral
+562,"Đồ ăn nguội, giá đắt, nhân viên chào khách mà cứ như đuổi khách.",FOOD#PRICES,negative
+563,Gần đoạn ngã tư Phố Huế giao với Trần Xuân Soạn.,LOCATION#GENERAL,neutral
+564,"🌿 Giá chưa bao gồm 10 % thuế VAT, giá cao nhưng mặt bằng view này kia thì phí vậy hợp lý rồi.",RESTAURANT#PRICES,negative
+565,"Không gian khá rộng, thoáng mát.",AMBIENCE#GENERAL,positive
+566,Quán có ở hầu hết các siêu thị nên rất dễ tìm.,LOCATION#GENERAL,positive
+567,11h đến quán mà vẫn xếp hàng dài ngoằng.,RESTAURANT#GENERAL,positive
+568,"Calamari mực khoanh chiên 45k khá nhiều, giòn ngon.",FOOD#PRICES,neutral
+569,Giá ko rẻ nhưng chất lượng cũng được ^ ^.,RESTAURANT#PRICES,neutral
+570,Về trân châu thì ngọt mà hình như hôm mình uống nó hơi bỡ 1 chút thì phải nhưng ngọt ngọt nên uống với trà rất ngon ạ.,DRINKS#QUALITY,positive
+571,💋 Món ăn và giá cả:Ở đây có suất cháo 1 con ếch 40k và 2 con ếch là 70k.,FOOD#PRICES,neutral
+572,Mình mua bánh mì heo quay và sữa đậu nành ở cửa hàng Bami Bread Giảng Võ.,LOCATION#GENERAL,neutral
+573,"Mì ý hải sản ok, lava cake mang ra cuối ăn cũng được, mùi chocolate khá thơm, bánh nóng nhân chảy vừa ý nhưng NGỌT quá, ăn mau ngấy lắm luôn.",FOOD#STYLE&OPTIONS,neutral
+574,Do khách ăn vứt giấy lung tung nên nhìn cứ thấy ghê ghê.,RESTAURANT#MISCELLANEOUS,negative
+575,Mì trộn ngon nhưng phải chờ lâu dù khách k đông lắm 😂.,FOOD#QUALITY,positive
+576,"40k, quẩy 2k / 1 c.",FOOD#PRICES,neutral
+577,Ở đây rất phù hợp để vừa làm việc nhóm hoặc tụ tập bạn bè chơi nói chuyện.,RESTAURANT#GENERAL,positive
+578,1 lớp dầy đặc khoảng hơn 1cm trên bề mặt.,FOOD#STYLE&OPTIONS,positive
+579,- Đồ ăn:lâu không ăn lotte thấy chả ngon rỳ.,RESTAURANT#GENERAL,negative
+580,Pearl chocolate món mới của Mochio tea.,DRINKS#STYLE&OPTIONS,positive
+581,Trà size M là 59k.,DRINKS#PRICES,neutral
+582,- Gà chiên phồng bột bắp sốt BBQ:45k / phần 5 miếng nhỏ.,FOOD#PRICES,neutral
+583,Quán nhỏ nhưng trang trí đẹp chủ yếu gam màu tối và quán khá yên tĩnh nước khá ngon bánh giòn mà hơi cứng mà ăn cũng đc.,FOOD#QUALITY,neutral
+584,"Mình cũng Ok, đến quán thấy khá đông, tiếc là chỗ để xe hơi bất tiện chút với k ai xem nhưng bù lại món ăn ngon và cô chú chủ quán thân thiện phục vụ cũng nhanh lẹ.",FOOD#QUALITY,positive
+585,Nhân viên nhiệt tình thân thiện lắm nè.,SERVICE#GENERAL,positive
+586,So với sự nổi tiếng mình đã mong chất lượng nước uống ngon hơn nhiều nên khá thất vọng.,DRINKS#QUALITY,negative
+587,"Milkfoam ở đây còn ít hơn gongcha mua ở bên bình tân, tsữa k còn béo thơm như xưa mà như nc dão thêm tí đường.",DRINKS#STYLE&OPTIONS,negative
+588,"Trà phúc bồn tử cũng rất ngon, vị hơi ngọt quá 1 xíu thôi.",DRINKS#QUALITY,positive
+589,- Món duy nhất ăn thấy ngon làm niềm an ủi nhỏ bé là Cream brulee( 35k).,FOOD#PRICES,neutral
+590,"Mì thơm của rau chân vịt, sốt ngọt, bò và nấm mềm hoà quyện với nhau ăn ngon.",FOOD#QUALITY,positive
+591,"Quán view đẹp, nhân viên thân thiện, chị chủ thì tư vấn tâm lý lắm mà giọng nhỏ nhẹ dễ thương cực ý ^ ^.",AMBIENCE#GENERAL,positive
+592,"Về phần dessert thì đồng giá 35k với 2 món là Cream brulee và Lava Chocolate, ai thích vị vừa, không ngọt thì chọn Lava Chocolate, riêng mình ưu ái Cream brulee hơn, tuy hơi bé 1 tí, ăn không đã thèm gì hết.",FOOD#PRICES,neutral
+593,"Hôm nay mình đến luc 6h30 nên quán còn vắng, nếu đến lúc 7h3 0-8 g quán khá đông và khải chờ hơi lâu.",SERVICE#GENERAL,negative
+594,Trà đá và khắn lạnh tính tiền riêng 2 k / cái.,RESTAURANT#MISCELLANEOUS,neutral
+595,"Còn Caramel là món yêu thích của mình, vừa có vị ngọt mà còn có vị đắng nhẹ của cafe nữa❤️.",DRINKS#QUALITY,positive
+596,"Nhân viên rất thân thiện, nhanh nhẹn, không gian quán rộng rãi, sạch sẽ, đẹp.",SERVICE#GENERAL,positive
+597,"Có gọi thêm 1 phần salad tôm, có 3 con tôm và ăn cũng khá ổn.",FOOD#STYLE&OPTIONS,neutral
+598,"Giá cả: hơi chênh lệch, size nhỏ-lớn không nhỉnh hơn nhau bao nhiêu, ly lớn ở đây bằng ly nhỏ mấy chỗ khác mà giá khoảng tầm 41k trở lên.",DRINKS#PRICES,neutral
+599,"Thủ tục order nhanh nhẹn, trong vòng 30phut là giao đến tận nơi khách sạn mình.",SERVICE#GENERAL,positive
