@@ -10,9 +10,9 @@ from pyvi import ViTokenizer
 
 def create_dataset(domain):
 
-    path_train = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"ACSA_{domain}", "csv", "Train.csv")
-    path_dev = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"ACSA_{domain}", "csv", "Dev.csv")
-    path_test = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"ACSA_{domain}", "csv", f"{domain}_sub_test.csv")
+    path_train = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"ACSA_{domain}", "Train.csv")
+    path_dev = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"ACSA_{domain}", "Dev.csv")
+    path_test = os.path.join(os.path.dirname(os.getcwd()), 'dataset', f"ACSA_{domain}", f"{domain}_sub_test.csv")
 
     train = pd.read_csv(path_train)
     dev = pd.read_csv(path_dev)
