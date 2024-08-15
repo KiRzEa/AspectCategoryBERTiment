@@ -8,8 +8,8 @@ from category_mapping import *
 
 def read_dataset(domain):
     path_train = "dataset/ACSA_"+domain+"/Train.csv"
-    path_dev = "dataset/ASCA_"+domain+ "/Dev.csv"
-    path_test = "dataset/ASCA_"+domain+ f"/{domain}_sub_test.csv"
+    path_dev = "dataset/ACSA_"+domain+ "/Dev.csv"
+    path_test = "dataset/ACSA_"+domain+ f"/{domain}_sub_test.csv"
     
     df_train = pd.read_csv(path_train)
     df_dev = pd.read_csv(path_dev)
