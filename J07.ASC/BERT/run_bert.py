@@ -53,7 +53,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_id)
 max_length = get_max_length(dataset['train'], tokenizer)
 #======================================
 tokenized_dataset = dataset.map(preprocess_function, 
-                                fn_kwargs={'tokenizer': tokenizer, 'max_length': max_length},
+                                fn_kwargs={'tokenizer': tokenizer, 'max_length': max_length, 'segment': True if 'phobert' in model_id else False},
                                 batched=True,
                                 batch_size=1024,
                                 remove_columns=dataset['train'].column_names)
